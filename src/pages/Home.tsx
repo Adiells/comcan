@@ -25,13 +25,10 @@ export default function Home() {
       <section className="hero">
         <div className="hero__conteudo">
           <p className="hero__selo">Cancelar não deveria ser difícil</p>
-          <h1>
-            Descubra como cancelar planos e assinaturas <em>sem</em> cair em armadilha
-          </h1>
+          <h1>Cancele qualquer assinatura em minutos. Sem pegadinhas.</h1>
           <p className="hero__texto">
             Passo a passo verificado para encerrar assinaturas de streaming, software, celular e
-            muito mais. Sem cadastro, sem enrolação e sem ligar para call center quando dá para
-            resolver pela internet.
+            muito mais. Sem cadastro e sem enrolação.
           </p>
 
           <form className="hero__busca" role="search" onSubmit={enviarBusca}>
@@ -57,55 +54,32 @@ export default function Home() {
             </button>
           </form>
 
-          <div className="hero__acoes">
-            <Link className="botao botao--secundario" to="/guias">
-              Ver todos os guias
-            </Link>
-            <span className="hero__contagem">
-              {guides.length} {guides.length === 1 ? 'serviço' : 'serviços'} documentados
-            </span>
-          </div>
+          {categorias.length > 0 && (
+            <nav aria-label="Categorias">
+              <ul className="chips">
+                {categorias.map(({ categoria, total }) => (
+                  <li key={categoria}>
+                    <Link className="chip" to={`/guias?q=${encodeURIComponent(categoria)}`}>
+                      {ROTULO_CATEGORIA[categoria]}
+                      <span className="chip__total">{total}</span>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </nav>
+          )}
         </div>
 
-        <aside className="hero__ficha" aria-label="Resumo do catálogo">
-          <p className="hero__ficha-selo">Ficha do catálogo</p>
-          <dl className="hero__ficha-dados">
-            <div>
-              <dt>Serviços</dt>
-              <dd>{guides.length}</dd>
-            </div>
-            <div>
-              <dt>Categorias</dt>
-              <dd>{categorias.length}</dd>
-            </div>
-            <div>
-              <dt>Idioma</dt>
-              <dd>pt-BR</dd>
-            </div>
-            <div>
-              <dt>Acesso</dt>
-              <dd>Livre</dd>
-            </div>
-          </dl>
-          <p className="hero__ficha-nota">Sem cadastro · sem cobrança</p>
-        </aside>
+        <div className="hero__visual">
+          <div className="hero__moldura">
+            <img
+              src="/hero-eject.png"
+              alt="Botão vermelho de ejetar cortando o cabo de uma assinatura"
+            />
+            <span className="hero__badge">Ejetar vínculo</span>
+          </div>
+        </div>
       </section>
-
-      {categorias.length > 0 && (
-        <section aria-labelledby="categorias-titulo" className="secao">
-          <h2 id="categorias-titulo">Navegue por categoria</h2>
-          <ul className="chips">
-            {categorias.map(({ categoria, total }) => (
-              <li key={categoria}>
-                <Link className="chip" to={`/guias?q=${encodeURIComponent(categoria)}`}>
-                  {ROTULO_CATEGORIA[categoria]}
-                  <span className="chip__total">{total}</span>
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </section>
-      )}
 
       <section aria-labelledby="recentes-titulo" className="secao">
         <h2 id="recentes-titulo">Verificados recentemente</h2>
@@ -116,6 +90,11 @@ export default function Home() {
             </li>
           ))}
         </ul>
+        <p className="secao__acao">
+          <Link className="botao botao--secundario" to="/guias">
+            Ver todos os guias ({guides.length})
+          </Link>
+        </p>
       </section>
 
       <section aria-labelledby="como-titulo" className="secao">

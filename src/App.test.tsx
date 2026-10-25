@@ -16,7 +16,7 @@ function renderizar(rota: string) {
 describe('rotas', () => {
   it('mostra a marca comcan na home', () => {
     renderizar('/')
-    expect(screen.getByRole('link', { name: /comcan/i })).toBeInTheDocument()
+    expect(screen.getAllByRole('link', { name: /comcan/i })[0]).toBeInTheDocument()
   })
 
   it('lista todos os guias em /guias', () => {

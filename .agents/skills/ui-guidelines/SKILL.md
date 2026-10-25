@@ -1,128 +1,135 @@
 ---
 name: ui-guidelines
 description: >-
-  UI design and visual identity guidelines for comcan, based on Frontend Design principles.
+  UI design and visual identity guidelines for comcan, based on Neo-Brutalist Pop and tactile design principles.
   Use this skill when creating, styling, or refactoring components, pages, or CSS in comcan.
 ---
 
 # UI & Visual Identity Guidelines — comcan
 
-**comcan** follows the **Frontend Design** methodology and philosophy: a deliberate, opinionated,
-uncompromising point of view against generic patterns (the "AI-generated look" of easy gradients
-and fake floating cards).
+**comcan** follows a **Neo-Brutalist Pop & Expressive** design methodology: an unapologetic,
+tactile, high-energy aesthetic that empowers consumers to break free from predatory subscription
+traps. It replaces sterile corporate layouts and washed-out pastels with bold outlines, vivid
+color collisions, and mechanical responsiveness.
 
 ---
 
-## 1. The Subject and the Point of View (Grounding)
+## 1. Grounding and Brand Persona
 
-- **Subject**: Cancelling digital subscriptions, contracts, and abusive plans without friction,
-  bureaucracy, or dark patterns.
-- **Audience**: Exhausted people, frustrated by predatory corporate retention (endless phone
-  calls, hidden buttons, confusing pages) who only want the shortest factual path to stop the
-  charge.
-- **Single mission of the page**: Deliver the clean cancellation route, confirmed by official
-  sources, and warn about retention traps in advance.
-- **Aesthetic genre**: **Soft Brutalist Minimalism & Utilitarian Editorial** (Utility Broadsheet /
-  Technical De-enrollment Form).
-
----
-
-## 2. The Signature Element
-
-comcan has one unique visual signature: **The Technical De-enrollment Form / Escape Protocol**:
-
-- Metadata structured like a control stamp (difficulty, viable channel, verification date).
-- Typographic touches of mechanical precision (`monospace`) wherever objective data is emitted:
-  version stamp, sequential step number, time/difficulty, and retention warnings.
-- No random cosmetic numbers: sequential numbering exists only because cancelling is strictly an
-  ordered, step-by-step process.
+- **Subject**: Cancelling digital subscriptions, hidden fees, and manipulative retention loops
+  without friction or bureaucracy.
+- **Audience**: Consumers seeking fast, unambiguous, no-nonsense exit instructions. They want clarity,
+  speed, and the feeling of taking back control.
+- **Brand Emotion**: Empowering, agile, irreverent, and indisputably reliable.
+- **Aesthetic Genre**: **Neo-Brutalist Pop & Tactile Utility** (inspired by Gumroad, Figma, and Wise).
+- **Core Visual Metaphor**: **The "Tactile Eject / Power-Off Switch"** — a mechanical, definitive
+  button or toggle that cuts the cord on recurring charges.
 
 ---
 
-## 3. Design System Tokens
+## 2. Design System Tokens
 
-A high-fidelity palette with deliberate contrast (no washed-out pastels):
+The palette is built around high-voltage electric contrasts anchored by pitch-black structural
+borders and crisp tactile surfaces:
 
 ```css
 :root {
-  /* Ink & Surface */
-  --tinta: #101418;             /* Deep editorial black */
-  --tinta-suave: #485160;       /* Explanatory body text */
-  --tinta-fraca: #687180;       /* Metadata and secondary captions (AA on --papel) */
-  --papel: #f8f7f4;             /* Solid paper-like background */
-  --papel-alto: #ffffff;        /* Cards and utilitarian surfaces */
-  --borda: #ded9cf;             /* Visible structural lines */
-  --borda-forte: #101418;       /* Brutalist emphasis borders */
+  /* Brand Core Collisions */
+  --cobalto: #164bf4;           /* Electric Cobalt Blue - authority and primary punch */
+  --cobalto-hover: #0d38c7;     /* Cobalt hover state */
+  --cobalto-claro: #ebf0ff;     /* Light tinted blue for badges/cards */
 
-  /* Action & Semantics */
-  --verde: #0d5f47;             /* Resolving action, confirmation, success */
-  --verde-hover: #084332;       /* Primary control hover */
-  --verde-claro: #e7f4ee;       /* Informative resolution backgrounds */
-  --verde-borda: #a6d8c0;       /* Retention/resolution border */
+  --amarelo-acido: #d8ff00;     /* Acid / Electric Neon Yellow - high attention, action */
+  --amarelo-hover: #c4ea00;     /* Acid yellow hover state */
 
-  --ambar: #8f5300;             /* Trap and retention alert */
-  --ambar-claro: #fef5e4;       /* Alert background */
-  --ambar-borda: #f7d69b;       /* Warning border */
+  /* Neutral Solids & Outlines */
+  --preto: #0c0f14;             /* Pitch black for borders, solid shadows, and display titles */
+  --tinta-corpo: #1f242e;       /* High-contrast readable body text */
+  --tinta-suave: #4a5468;       /* Explanatory secondary text */
+  --tinta-fraca: #727f96;       /* Metadata, timestamps, minor captions */
+  
+  --fundo: #f4f6fa;             /* Crisp modern light canvas */
+  --superficie: #ffffff;        /* Pure white card backgrounds */
+  --borda-pop: #0c0f14;         /* Mandatory 2px/3px structural black borders */
 
-  --vermelho: #a12323;          /* High difficulty / phone call required */
-  --vermelho-claro: #fdeeee;
+  /* Semantic Alerts & Actions */
+  --verde-pop: #00c853;         /* Success, confirmed cancellation, free */
+  --verde-fundo: #e6f9ed;
+  
+  --vermelho-pop: #ff3b30;      /* Critical warning, telephone call required, abusive trap */
+  --vermelho-fundo: #ffecee;
 
-  /* Soft Brutalist Geometry */
-  --raio: 8px;                  /* Controlled, firm, sober corners */
-  --raio-sm: 4px;               /* Details and inputs */
-  --raio-pilula: 999px;         /* Tags and action buttons */
-  --largura: 68rem;
+  --laranja-pop: #ff9500;       /* Retention alert, moderate difficulty */
+  --laranja-fundo: #fff6e8;
 
-  /* Deliberate Typography */
-  --fonte-sans: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
-  --fonte-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  /* Geometry & Tactile Feedback */
+  --borda-grossa: 2.5px solid var(--borda-pop);
+  --borda-fina: 1.5px solid var(--borda-pop);
+  
+  /* Hard Drop Shadows (No blurry gradients) */
+  --sombra-pop: 4px 4px 0px var(--preto);
+  --sombra-pop-lg: 6px 6px 0px var(--preto);
+  --sombra-pop-sm: 2px 2px 0px var(--preto);
+  --sombra-pop-hover: 6px 6px 0px var(--preto);
+  --sombra-pop-pressionada: 1px 1px 0px var(--preto);
+
+  --raio: 10px;                 /* Friendly, rounded brutalist corners */
+  --raio-sm: 6px;
+  --raio-pilula: 9999px;        /* Tags, badges, and button pills */
+  --largura-max: 72rem;
+
+  /* Typography */
+  --fonte-sans: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --fonte-display: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --fonte-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
 }
 ```
 
 ---
 
-## 4. Copywriting and Microcopy Principles
+## 3. Tactile Interaction Principles
 
-1. **Active, Factual Voice**: Headings and buttons state the final action exactly ("Ver todos os
-   guias", "Abrir site oficial", "Como cancelar Spotify").
-2. **No Selling, No Euphemisms**: Never use empty adjectives ("wonderful", "amazing"). Describe
-   the process coldly: "Exige chamada telefônica", "Cancele antes de renovar".
-3. **Errors Are Directions**: Empty or error screens do not offer loose apologies; they instruct
-   the user on what to do next.
-
----
-
-## 5. Component Construction Guidelines
-
-### 5.1 The Hero
-
-- The Hero is a thesis, not an advertising banner: it states the proposition categorically
-  ("Cancelar não deveria ser difícil") and already exposes the search and the catalog.
-
-### 5.2 Cards and Forms
-
-- Crisp 1px borders in `--borda`. On hover, snap to `--borda-forte` or `--verde` with a clean
-  mechanical transition (120ms ease-out).
-- No oversized diffuse shadows (exaggerated "soft blur"); prefer dry, precise contact shadows when
-  needed.
-
-### 5.3 Numbered Steps (`.passos`)
-
-- The numbering indicates the exact execution order. The indicator uses `--fonte-mono` to convey
-  procedural rigor.
-- Trap warnings (`.aviso`) stay visually attached to the step where they occur.
-
-### 5.4 Retention (`.retencao`)
-
-- A highlighted box that prepares the user for the company's counter-offer (temporary discounts,
-  guilt screens, fake confirmations).
+1. **Physical "Click" (Snappy Keypress)**:
+   - Interactive elements (buttons, filter chips, cards) feature hard shadows (`box-shadow: 4px 4px 0px var(--preto)`).
+   - On `:active` or click, elements translate down-right (`transform: translate(2px, 2px)`) while the
+     shadow reduces, creating an unmistakable physical button feel.
+2. **Sharp Visual Hierarchy**:
+   - Every card has a clear black border (`2px` to `2.5px`).
+   - Tags and badges use contrasting pill shapes (`--raio-pilula`) with solid black outlines.
+3. **No Decorative Fluff**:
+   - No weak pastel washes or transparent blurry glassmorphism.
+   - Contrast is bold, direct, and meets WCAG AAA standards on core interactive areas.
 
 ---
 
-## 6. Frontend Quality Checklist
+## 4. UX Architecture & Components
 
-- [ ] **Copy audit**: Is the text direct, in clear Portuguese, and user-centered?
-- [ ] **No heavy dependencies**: Pure CSS in `src/index.css` only.
-- [ ] **Accessibility**: Explicit input labels, AA+ contrast, and visible focus on every element.
-- [ ] **Tests and build**: `npm run lint && npm run typecheck && npm test && npm run build` all
-      passing.
+### 4.1 The Hero & Quick Eject Bar
+- Dynamic high-impact headline ("Cancele qualquer assinatura em minutos. Sem pegadinhas.").
+- **Quick Eject Search**: A high-profile input container with thick border, hard shadow, and immediate
+  reactive search.
+- **Filter Chips**: Pill buttons with solid outlines; active chip snaps to Electric Cobalt or Acid Yellow.
+
+### 4.2 Service Cards Grid
+- Structured cards with white surface, solid black border, and 4px hard shadow.
+- Prominent service identity, difficulty pill badge (Fácil / Moderado / Difícil), viable channel icon,
+  and an immediate direct link action button.
+
+### 4.3 Guide Page: Continuous Visual Timeline
+- **Service Header Banner**: Electric Cobalt Blue accent header with service title, official channel badge,
+  and quick "Ir para página oficial de cancelamento" button.
+- **Retention Trap Alert Box (`.alerta-retencao`)**: Highlighted card in Acid Yellow or Warning Orange
+  warning the user about dark patterns before they begin.
+- **Continuous Timeline (`.linha-do-tempo`)**:
+  - Vertical connecting guide line linking all steps sequentially.
+  - Giant numbered pill nodes (1, 2, 3...) in cobalt/acid yellow.
+  - Step cards containing explicit, actionable commands and direct deep-links.
+- **Audit Verification Stamp**: Time-stamped footer confirming the guide's freshness and official sources.
+
+---
+
+## 5. Microcopy and Voice
+
+- **Brand Name**: `comcan` (lowercase always).
+- **Tone**: Clear, fearless, practical, Brazilian Portuguese (pt-BR).
+- **Action Verbs**: "Ejetar assinatura", "Abrir site oficial", "Evitar pegadinha", "Ver passo a passo".

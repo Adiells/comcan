@@ -14,10 +14,16 @@ export default function GuiaCard({ guia, nivel = 3 }: Props) {
   return (
     <Link className="card" to={`/guias/${guia.slug}`}>
       <div className="card__etiquetas">
-        <span className="etiqueta">{ROTULO_CATEGORIA[guia.categoria]}</span>
         <span className="etiqueta etiqueta--dificuldade" data-dificuldade={guia.dificuldade}>
           {ROTULO_DIFICULDADE[guia.dificuldade]}
         </span>
+        <span className="etiqueta">{ROTULO_CATEGORIA[guia.categoria]}</span>
+      </div>
+
+      <Titulo className="card__titulo">{guia.nome}</Titulo>
+      <p className="card__resumo">{guia.resumo}</p>
+
+      <div className="card__canais">
         {guia.canais.map((canal) => (
           <span className="etiqueta etiqueta--canal" key={canal}>
             {ROTULO_CANAL[canal] ?? canal}
@@ -25,13 +31,10 @@ export default function GuiaCard({ guia, nivel = 3 }: Props) {
         ))}
       </div>
 
-      <Titulo className="card__titulo">{guia.nome}</Titulo>
-      <p className="card__resumo">{guia.resumo}</p>
-
       <div className="card__rodape">
         <span className="card__meta">Verificado em {formatarData(guia.verificadoEm)}</span>
         <span className="card__acao" aria-hidden="true">
-          Abrir →
+          Ver passos →
         </span>
       </div>
     </Link>

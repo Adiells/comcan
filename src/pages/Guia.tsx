@@ -226,6 +226,12 @@ export default function Guia() {
 
         {/* COLUNA PRINCIPAL - CHECKLIST E SEÇÕES */}
         <div className="dossie__principal">
+          <aside className="alerta-retencao" aria-labelledby="retencao-titulo">
+            <p className="alerta-retencao__selo">⚠ Pegadinha prevista</p>
+            <h2 id="retencao-titulo">O que eles vão tentar oferecer</h2>
+            <p>{guia.retencao}</p>
+          </aside>
+
           {guia.requisitos.length > 0 && (
             <section aria-labelledby="requisitos-titulo" className="dossie__secao">
               <h2 id="requisitos-titulo">Antes de começar</h2>
@@ -245,7 +251,7 @@ export default function Guia() {
               </span>
             </div>
 
-            <ol className="passos passos--checklist">
+            <ol className="passos passos--checklist linha-do-tempo">
               {guia.passos.map((passo, indice) => {
                 const concluido = estado.passosConcluidos.includes(indice)
                 const checkId = `passo-check-${indice}`
@@ -273,7 +279,7 @@ export default function Guia() {
                         }
                       >
                         <span className="passo-item__simbolo" aria-hidden="true">
-                          {concluido ? '✓' : String(indice + 1).padStart(2, '0')}
+                          {concluido ? '✓' : indice + 1}
                         </span>
                         <span className="sr-only">
                           {concluido
@@ -301,12 +307,6 @@ export default function Guia() {
               })}
             </ol>
           </section>
-
-          <aside className="retencao" aria-labelledby="retencao-titulo">
-            <p className="retencao__selo">Contraproposta prevista</p>
-            <h2 id="retencao-titulo">O que eles vão tentar oferecer</h2>
-            <p>{guia.retencao}</p>
-          </aside>
 
           {guia.aposCancelar.length > 0 && (
             <section aria-labelledby="depois-titulo" className="dossie__secao">
