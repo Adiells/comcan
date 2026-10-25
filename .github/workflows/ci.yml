@@ -1,0 +1,40 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    name: Validação e Testes
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Validar catálogo de guias JSON
+        run: npm run validate:content
+
+      - name: Executar linter (oxlint)
+        run: npm run lint
+
+      - name: Checagem de tipos (tsc)
+        run: npm run typecheck
+
+      - name: Testes automatizados (Vitest)
+        run: npm test
+
+      - name: Gerar SEO e Build de produção
+        run: npm run build
