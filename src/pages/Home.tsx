@@ -73,7 +73,7 @@ export default function Home() {
         <div className="hero__visual">
           <div className="hero__moldura">
             <img
-              src="/hero-eject.png"
+              src="/hero-eject.webp"
               alt="Botão vermelho de ejetar cortando o cabo de uma assinatura"
             />
             <span className="hero__badge">Ejetar vínculo</span>

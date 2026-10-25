@@ -16,7 +16,7 @@ export default function Layout() {
       <header className="topo">
         <div className="container topo__interno">
           <Link to="/" className="marca">
-            <img className="marca__logo" src="/logo.png" alt="comcan" height={36} />
+            <img className="marca__logo" src="/logo.webp" alt="comcan" height={36} />
           </Link>
 
           <nav aria-label="Navegação principal" className="topo__nav">
@@ -39,7 +39,7 @@ export default function Layout() {
           {/* Coluna 1: Marca & Manifesto */}
           <div className="rodape__coluna rodape__coluna--marca">
             <Link to="/" className="rodape__logo-link">
-              <img className="rodape__logo" src="/logo.png" alt="comcan" height={32} />
+              <img className="rodape__logo" src="/logo.webp" alt="comcan" height={32} />
             </Link>
             <p className="rodape__descricao">
               Guias verificados passo a passo para cancelar assinaturas, planos de celular e serviços digitais sem burocracia ou armadilhas de retenção.

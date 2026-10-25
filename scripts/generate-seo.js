@@ -169,14 +169,14 @@ const webmanifest = {
   theme_color: "#164bf4",
   icons: [
     {
-      src: "/icon.png",
-      sizes: "999x955",
+      src: "/apple-touch-icon.png",
+      sizes: "180x180",
       type: "image/png",
       purpose: "any maskable"
     },
     {
       src: "/favicon.png",
-      sizes: "999x955",
+      sizes: "64x64",
       type: "image/png"
     }
   ]
