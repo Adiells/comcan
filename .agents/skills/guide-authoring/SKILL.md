@@ -90,3 +90,6 @@ When authoring a guide:
    - Run `npm run validate:content` to verify that Zod schema validation passes.
 4. **Step 4: Full Quality Gate**:
    - Run `npm run lint && npm run typecheck && npm test && npm run build`.
+5. **Step 5: Automated SEO & Sitemap Sync**:
+   - `npm run build` automatically executes `scripts/generate-seo.js`, updating `public/sitemap.xml`, `public/robots.txt`, `public/llms.txt`, `public/llms-full.txt`, and `public/site.webmanifest` for `https://comcan.adiels.me`.
+   - If generating without a full build, run `npm run generate:seo` to update the discovery files directly.

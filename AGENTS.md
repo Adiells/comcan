@@ -1,6 +1,7 @@
 # AGENTS.md
 
 **comcan** is a pt-BR site with step-by-step guides for cancelling subscriptions and plans.
+Production domain: **https://comcan.adiels.me**.
 Static SPA built with React 19 + Vite 9 + TypeScript, **no backend** — all content is JSON
 versioned in this repo.
 
@@ -12,8 +13,8 @@ npm run validate:content  # validate guide JSON (fast; run after editing content
 npm run lint              # oxlint — this project does NOT use ESLint
 npm run typecheck         # tsc -b
 npm test                  # Vitest, single run
-npx vitest run src/App.test.tsx   # a single test file
-npm run build             # tsc -b && vite build
+npm run generate:seo      # generates sitemap.xml, robots.txt, llms.txt from guides
+npm run build             # generate:seo && tsc -b && vite build
 ```
 
 Before finishing a change: `lint` → `typecheck` → `test` → `build`.

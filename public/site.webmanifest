@@ -1,0 +1,22 @@
+{
+  "name": "comcan — Como cancelar planos e assinaturas",
+  "short_name": "comcan",
+  "description": "Passo a passo verificado para cancelar assinaturas sem pegadinhas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c0f14",
+  "theme_color": "#164bf4",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "999x955",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "999x955",
+      "type": "image/png"
+    }
+  ]
+}

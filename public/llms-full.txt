@@ -1,0 +1,901 @@
+# comcan — Base de Conhecimento Completa de Cancelamento
+
+O comcan é uma plataforma independente dedicada a orientar consumidores brasileiros sobre como rescindir contratos e cancelar assinaturas recorrentes sem cair em labirintos de retenção.
+
+---
+
+## Como cancelar Adobe Creative Cloud
+- URL Oficial no comcan: https://comcan.adiels.me/guias/adobe
+- Link Direto de Cancelamento: https://www.adobe.com/br/
+- Categoria: software
+- Dificuldade: dificil
+- Canais Viáveis: site, chat
+- Verificado em: 2026-10-25
+- Resumo: Cancele a assinatura da Adobe Creative Cloud, entenda a multa do plano anual e evite a renovação automática da próxima cobrança.
+
+### Alerta de Retenção
+A Adobe oferece troca de plano ou desconto antes de aceitar o cancelamento. Em planos anuais pagos mensalmente, cancelar antes do fim do compromisso pode gerar multa proporcional.
+
+### Passo a Passo:
+1. **Entre em account.adobe.com**: Faça login e abra a aba "Planos" para ver o contrato ativo e a data da próxima cobrança.
+   *Aviso:* Planos comprados pela Microsoft Store ou por revendedores precisam ser cancelados no local da compra.
+2. **Clique em "Gerenciar plano"**: Localize o plano que deseja encerrar e abra as opções de gerenciamento.
+3. **Escolha "Cancelar plano"**: A Adobe mostra o valor da multa, se houver, e a data em que o acesso termina. Leia o resumo antes de avançar.
+4. **Passe pela oferta de retenção**: A tela pode sugerir mudar para um plano mais barato. Se a intenção é cancelar, siga para a confirmação.
+5. **Confirme e guarde o comprovante**: Finalize o cancelamento e salve o e-mail de confirmação. Verifique se o acesso continua até o fim do período pago.
+
+### Fontes Oficiais:
+- [Adobe — cancelar ou alterar um plano](https://helpx.adobe.com/br/manage-account/using/cancel-subscription.html)
+
+---
+
+## Como cancelar Amazon Prime
+- URL Oficial no comcan: https://comcan.adiels.me/guias/amazon-prime
+- Link Direto de Cancelamento: https://www.amazon.com.br
+- Categoria: streaming
+- Dificuldade: media
+- Canais Viáveis: site, app
+- Verificado em: 2026-10-25
+- Resumo: Saiba como cancelar a assinatura do Amazon Prime pelo site ou aplicativo, interromper a renovação automática e manter o acesso até o fim do período pago.
+
+### Alerta de Retenção
+A Amazon apresenta múltiplas telas de confirmação listando os benefícios que serão perdidos (frete grátis, Prime Video, Prime Gaming) e frequentemente sugere a opção de pausar o plano em vez de encerrar definitivamente.
+
+### Passo a Passo:
+1. **Acesse a área de membros Prime**: Faça login no site amazon.com.br ou abra o app da Amazon. No menu da conta, selecione "Sua assinatura Prime".
+2. **Abra as opções de gerenciamento**: Clique na opção "Gerenciar assinatura" no topo da tela para expandir as opções contratuais.
+3. **Inicie o encerramento dos benefícios**: Selecione "Encerrar assinatura e benefícios" para iniciar o processo de cancelamento.
+   *Aviso:* Se sua cobrança é feita por parceiros como TIM ou Claro, o encerramento deve ser solicitado diretamente com a operadora.
+4. **Avance pelas telas de confirmação**: A Amazon exibirá telas intermediárias reforçando os serviços incluídos. Clique em "Continuar para o cancelamento" e conclua clicando em "Cancelar assinatura".
+
+### Fontes Oficiais:
+- [Central de Ajuda Amazon — Cancelar a assinatura do Amazon Prime](https://www.amazon.com.br/gp/help/customer/display.html?nodeId=GT42ME65VMC2992F)
+
+---
+
+## Como cancelar Apple One
+- URL Oficial no comcan: https://comcan.adiels.me/guias/apple-one
+- Link Direto de Cancelamento: https://www.apple.com/br/apple-one/
+- Categoria: software
+- Dificuldade: facil
+- Canais Viáveis: app, site
+- Verificado em: 2026-10-25
+- Resumo: Passo a passo oficial para cancelar o pacote Apple One ou escolher manter serviços individuais pelo iPhone, iPad ou Mac.
+
+### Alerta de Retenção
+A Apple oferece a opção de manter assinaturas avulsas (como iCloud+ ou Apple Music) reduzindo o custo total em vez de cancelar tudo de uma vez.
+
+### Passo a Passo:
+1. **Abra os Ajustes no iOS**: No iPhone ou iPad, abra o app "Ajustes" e toque no seu nome (Conta Apple) no topo da tela.
+2. **Acesse suas assinaturas**: Toque no menu "Assinaturas" e localize a entrada "Apple One" na lista de itens ativos.
+3. **Cancele o pacote**: Toque em "Cancelar Assinatura". Se preferir manter itens isolados (como armazenamento do iCloud), escolha "Escolher Serviços Individuais".
+   *Aviso:* Se você reduzir o plano e possuir mais arquivos no iCloud do que a cota gratuita de 5 GB, faça backup dos seus dados antes.
+4. **Confirme a operação**: Confirme o cancelamento. A renovação é interrompida imediatamente.
+
+### Fontes Oficiais:
+- [Suporte da Apple — Se você quiser cancelar uma assinatura da Apple](https://support.apple.com/pt-br/118428)
+
+---
+
+## Como cancelar C6 Carbon
+- URL Oficial no comcan: https://comcan.adiels.me/guias/c6-carbon
+- Link Direto de Cancelamento: https://www.c6bank.com.br/cartao-c6-carbon-mastercard-black
+- Categoria: financeiro
+- Dificuldade: dificil
+- Canais Viáveis: app, chat, telefone
+- Verificado em: 2026-10-25
+- Resumo: Cancele o cartão C6 Carbon pelo chat ou telefone, cumpra o aviso de 30 dias e entenda a anuidade de R$ 98/mês.
+
+### Alerta de Retenção
+O contrato não prevê autocancelamento: manda falar com o C6 pelos canais de atendimento (chat no app ou telefones). O contrato exige aviso com 30 dias de antecedência. A anuidade é de R$ 98/mês (12x R$ 1.176) e só é zerada com gastos a partir de R$ 8 mil/mês, R$ 50 mil investidos em renda fixa do C6 ou R$ 1 milhão em qualquer produto.
+
+### Passo a Passo:
+1. **Decida se quer cancelar só o cartão ou encerrar a conta**: O cancelamento do cartão é pedido pelos canais de atendimento. O encerramento da conta é feito no app e encerra também o cartão.
+   *Aviso:* Encerrar a conta não quita faturas nem empréstimos em aberto; eles continuam sendo cobrados.
+2. **Abra o chat do app C6 e peça o cancelamento do cartão**: No app, acesse o chat da Central de relacionamento (24h) e peça o cancelamento do cartão C6 Carbon.
+   *Aviso:* O contrato prevê aviso com 30 dias de antecedência; confirme a data efetiva do encerramento e guarde o protocolo.
+3. **Ou ligue para a central**: Ligue para 3003 6116 (capitais e regiões metropolitanas) ou 0800 660 6116 (demais localidades).
+   *Aviso:* Tenha CPF e o número do cartão em mãos; o contrato também cita os telefones impressos no verso do cartão.
+4. **Se quiser encerrar a conta, use o app**: Toque no ícone de perfil → "Configurações" → "Gerenciar Contas" → "Encerrar conta C6" e siga as instruções.
+   *Aviso:* É preciso zerar o saldo, resgatar investimentos, quitar o cheque especial e esvaziar a C6 Conta Global; o C6 tem até 30 dias para concluir.
+5. **Resgate os pontos e confira as faturas**: Converta os pontos C6 Átomos antes do encerramento e confira a última fatura do cartão.
+   *Aviso:* Pontos não convertidos são cancelados com o encerramento da conta; faturas e empréstimos continuam devidos.
+
+### Fontes Oficiais:
+- [C6 Bank — Contrato de Cartão de Crédito (resumo, item 8: Cancelamento do Cartão)](https://terms.c6bank.com.br/c6-docs/individual-credit-card/v18/term.html)
+- [C6 Bank — Cartão C6 Carbon Mastercard Black (anuidade e isenção)](https://www.c6bank.com.br/cartao-c6-carbon-mastercard-black)
+- [C6 Bank — Como realizar o Encerramento da Conta?](https://ajuda.c6bank.com.br/s/article/Como-realizar-o-Encerramento-da-Conta)
+- [C6 Bank — Canais de atendimento](https://www.c6bank.com.br/atendimento)
+
+---
+
+## Como cancelar Canva
+- URL Oficial no comcan: https://comcan.adiels.me/guias/canva
+- Link Direto de Cancelamento: https://www.canva.com/pt_br/
+- Categoria: software
+- Dificuldade: media
+- Canais Viáveis: site, app
+- Verificado em: 2026-10-25
+- Resumo: Cancele o Canva Pro, Pro+ ou Equipes em Configurações > Faturamento e mantenha seus designs no plano grátis.
+
+### Alerta de Retenção
+A Canva sugere pausar em vez de cancelar: a pausa dura até 3 meses, sem cobranças, com retomada automática e lembrete por e-mail (no plano anual, só é possível pausar faltando menos de 2 meses para a renovação). O fluxo tem várias telas: "Cancelar plano", "Continuar cancelamento", escolha do motivo, "Continuar cancelamento" e "Cancelar assinatura". Mesmo depois de cancelar, a página de Cobrança ainda oferece desfazer enquanto a assinatura estiver ativa. Cancelar o Canva Equipes é definitivo. O sistema de cobrança roda em UTC, então a cobrança pode aparecer um dia antes do esperado, e bancos podem manter a recorrência ativa mesmo com cartão cancelado ou expirado.
+
+### Passo a Passo:
+1. **Descubra por onde a assinatura foi feita**: Confira o e-mail de cobrança ou o extrato do cartão para saber se o pagamento foi processado pela Canva ou por uma loja de aplicativos.
+   *Aviso:* Assinaturas feitas no Google Play ou na App Store não podem ser canceladas no app do Canva, e desinstalar o app não cancela nada.
+2. **Abra Configurações > Faturamento**: Na página inicial, selecione o perfil da conta, depois Configurações e Faturamento. No app Android: Menu, perfil, Configurações, Cobrança, ícone de mais ações e Solicitar cancelamento.
+3. **Selecione Cancelar plano**: Na página de faturamento, escolha "Cancelar plano" e, na tela seguinte, "Continuar cancelamento".
+4. **Pule a oferta de pausa**: Na tela seguinte aparece a opção "Quero pausar minha assinatura"; para seguir com o encerramento, escolha continuar o cancelamento.
+   *Aviso:* A pausa dura 3 meses e o plano volta sozinho depois: não é um cancelamento.
+5. **Informe o motivo e confirme**: Escolha o motivo, clique em "Continuar cancelamento" e finalize em "Cancelar assinatura". Guarde o e-mail de confirmação.
+   *Aviso:* Em Canva Equipes o cancelamento é permanente: a equipe não pode voltar ao plano Equipes depois.
+
+### Fontes Oficiais:
+- [Central de Ajuda do Canva — Cancelar um plano do Canva](https://www.canva.com/pt_br/help/cancel-canva-plan/)
+- [Central de Ajuda do Canva — Pausar um plano do Canva](https://www.canva.com/pt_br/help/pause-annual-canva-plan/)
+- [Central de Ajuda do Canva — Reembolsos das assinaturas do Canva](https://www.canva.com/pt_br/help/subscription-refunds/)
+
+---
+
+## Como cancelar ChatGPT Plus
+- URL Oficial no comcan: https://comcan.adiels.me/guias/chatgpt-plus
+- Link Direto de Cancelamento: https://chatgpt.com/
+- Categoria: software
+- Dificuldade: facil
+- Canais Viáveis: site
+- Verificado em: 2026-10-25
+- Resumo: Cancele o ChatGPT Plus em chatgpt.com, em Configurações > Faturamento, e evite a cobrança do próximo mês.
+
+### Alerta de Retenção
+Desinstalar o app não cancela a assinatura. Excluir a conta do ChatGPT cancela apenas as assinaturas cobradas diretamente pelo ChatGPT e não cancela as assinaturas da App Store. Não há reembolso automático: o cancelamento interrompe renovações, mas não devolve valores já cobrados. A OpenAI orienta cancelar com pelo menos 24 horas de antecedência da próxima cobrança, porque abaixo disso a cobrança pode já ter sido processada. Uma assinatura comprada em chatgpt.com não aparece nas assinaturas da Apple ou do Google Play, e vice-versa, e cobranças duplicadas podem indicar mais de uma conta. Assinaturas ChatGPT Business self-service são canceladas nas Configurações do ambiente de trabalho seguro, não no fluxo pessoal.
+
+### Passo a Passo:
+1. **Identifique onde a assinatura foi comprada**: Confira o recibo para saber se a cobrança veio de chatgpt.com, da Apple ou do Google Play.
+2. **Abra chatgpt.com e faça login**: Entre na conta vinculada à cobrança.
+3. **Abra o menu da conta e selecione Configurações**: No chatgpt.com, abra o menu da sua conta e selecione Configurações.
+4. **Selecione Faturamento**: Em "Cancelar plano", selecione "Cancelar" para concluir o encerramento.
+5. **Se a compra foi na Apple**: Abra Ajustes > seu nome > Assinaturas, selecione a assinatura do ChatGPT e toque em Cancelar Assinatura.
+6. **Se a compra foi no Google Play**: No app Google Play, abra o ícone do perfil > Pagamentos e assinaturas > Assinaturas, selecione a assinatura e toque em Cancelar assinatura; ou acesse play.google.com/store/account/subscriptions.
+   *Aviso:* Se a opção "Cancelar assinatura" não aparecer e houver uma data de expiração, a assinatura pode já estar cancelada.
+7. **Cancele com 24h de antecedência**: Faça o cancelamento antes da data de renovação para evitar a cobrança do próximo período.
+   *Aviso:* Desinstalar o app ou excluir a conta não cancela a assinatura da Apple; cancele na loja antes de excluir a conta.
+
+### Fontes Oficiais:
+- [OpenAI — Cancelando sua assinatura do ChatGPT](https://help.openai.com/pt-br/articles/7232927-canceling-your-chatgpt-subscription)
+- [OpenAI — Como solicito um reembolso da minha assinatura do ChatGPT?](https://help.openai.com/pt-br/articles/7232895)
+
+---
+
+## Como cancelar Claro Móvel
+- URL Oficial no comcan: https://comcan.adiels.me/guias/claro
+- Link Direto de Cancelamento: https://www.claro.com.br
+- Categoria: telefonia
+- Dificuldade: dificil
+- Canais Viáveis: telefone, presencial, app
+- Verificado em: 2026-10-25
+- Resumo: Cancele sua linha Claro móvel pelo 1052 ou em uma loja e entenda a fidelidade de 12 meses e a multa.
+
+### Alerta de Retenção
+Antes de liberar o cancelamento, a página da Claro oferece negociar a fatura, abrir suporte técnico e mudar de plano, além de uma área de "ofertas para você continuar com a Claro". O FAQ abre com a frase "Não queremos que isso ocorra!". Quem tem fidelidade de 12 meses pode receber cobrança de taxa de cancelamento.
+
+### Passo a Passo:
+1. **Verifique a carência do plano**: Entre em minhaclaro.claro.com.br com CPF/e-mail e senha, abra o menu "Meu Plano" e clique em "Verificar carência".
+   *Aviso:* A Claro informa que o plano Pós tem fidelidade de 12 meses; pedir troca ou cancelamento antes do fim do prazo pode gerar multa.
+2. **Ligue para a central de cancelamento**: Para produtos móveis (pós, controle e internet móvel), ligue para 1052. Para residencial use 10621, para a antiga Claro tv use 10699 e, em planos Multi, 0800 723 6626.
+   *Aviso:* O FAQ da Claro não descreve um botão de autocancelamento no site. A Anatel exige que a opção de cancelamento apareça na primeira tela após o login no espaço do cliente; se ela não existir, peça o cancelamento automático e registre o protocolo.
+3. **Passe pela retenção**: Diga com clareza que quer o cancelamento da linha, não uma troca de plano. Recuse as ofertas de desconto, troca de plano e negociação de fatura.
+   *Aviso:* A central costuma tratar o pedido como "mudança de plano". Se o atendente insistir, repita o pedido de cancelamento e exija o número de protocolo.
+4. **Confirme os dados cadastrais**: A Claro afirma que entrará em contato para confirmar os dados cadastrais e o cancelamento. Confirme os dados e anote o protocolo e a data.
+   *Aviso:* A confirmação pode vir por telefone depois da solicitação. Atenda e confirme o cancelamento para evitar que o pedido fique pendente.
+5. **Alternativa presencial**: Se preferir, vá a uma loja Claro com documento com foto e peça o cancelamento da linha no atendimento presencial.
+
+### Fontes Oficiais:
+- [Claro FAQ — Como cancelar?](https://www.claro.com.br/faq/atendimento/como-cancelar)
+- [Claro — Cancelamento (página oficial de atendimento)](https://www.claro.com.br/atendimento/cancelamento)
+- [Claro FAQ — Como fazer o cancelamento imediato da linha Claro Flex?](https://www.claro.com.br/faq/claro-flex/como-fazer-o-cancelamento-imediato-da-linha-claro-flex)
+- [Claro FAQ — Como faço pra mudar o Plano Pós? (fidelidade de 12 meses)](https://www.claro.com.br/faq/pos-pago/como-faco-pra-mudar-o-plano-pos)
+
+---
+
+## Como cancelar Clube iFood
+- URL Oficial no comcan: https://comcan.adiels.me/guias/ifood-clube
+- Link Direto de Cancelamento: https://www.ifood.com.br
+- Categoria: entregas
+- Dificuldade: facil
+- Canais Viáveis: app
+- Verificado em: 2026-10-25
+- Resumo: Aprenda a cancelar a renovação automática do Clube iFood pelo aplicativo e use seus cupons restantes até o vencimento do pacote.
+
+### Alerta de Retenção
+O aplicativo alerta sobre a economia estimada obtida com cupons no último mês e solicita o motivo da desistência.
+
+### Passo a Passo:
+1. **Abra o perfil no app**: No aplicativo do iFood, toque na aba "Perfil" no canto inferior direito.
+2. **Acesse a área de assinaturas**: Selecione "Assinaturas" ou clique diretamente no card do "Clube iFood".
+3. **Selecione o plano**: Em assinaturas ativas, clique no plano contratado e role a tela até "Gerenciar assinatura".
+4. **Cancele a renovação**: Toque em "Cancelar assinatura" e confirme na tela seguinte para desativar novas cobranças automáticas.
+   *Aviso:* Verifique a data de validade dos cupons emitidos, pois eles não são reembolsados após o cancelamento.
+
+### Fontes Oficiais:
+- [Ajuda iFood — Como cancelar o Clube iFood](https://ajuda.ifood.com.br)
+
+---
+
+## Como cancelar Deezer
+- URL Oficial no comcan: https://comcan.adiels.me/guias/deezer
+- Link Direto de Cancelamento: https://www.deezer.com
+- Categoria: musica
+- Dificuldade: facil
+- Canais Viáveis: site, app
+- Verificado em: 2026-10-25
+- Resumo: Aprenda como cancelar sua assinatura da Deezer pelo navegador ou aplicativo e descubra o que fazer se o plano estiver atrelado à TIM ou terceiros.
+
+### Alerta de Retenção
+A Deezer alerta sobre a perda da reprodução sem anúncios, do áudio em alta fidelidade e da impossibilidade de baixar faixas offline.
+
+### Passo a Passo:
+1. **Acesse as configurações de conta**: Faça login no site deezer.com ou abra o app, vá em Configurações (ícone de engrenagem) e clique em "Gerenciamento de plano" ou "Configurações da conta".
+2. **Abra a área de assinatura**: Selecione "Gerenciar minha assinatura" ou role a página até a opção "Deseja cancelar sua assinatura?".
+3. **Cancele a assinatura**: Clique em "Cancelar minha assinatura", aponte o motivo do encerramento e confirme a solicitação.
+   *Aviso:* Se o seu plano faz parte de um pacote TIM Black ou TIM Controle, o cancelamento precisa ser feito pelo app Meu TIM ou central da operadora.
+
+### Fontes Oficiais:
+- [Suporte Deezer — Cancelar minha assinatura Deezer](https://support.deezer.com/hc/pt-br/articles/115003864505-Cancelar-minha-assinatura-Deezer)
+
+---
+
+## Como cancelar Disney+
+- URL Oficial no comcan: https://comcan.adiels.me/guias/disney-plus
+- Link Direto de Cancelamento: https://www.disneyplus.com
+- Categoria: streaming
+- Dificuldade: facil
+- Canais Viáveis: site, app
+- Verificado em: 2026-10-25
+- Resumo: Passo a passo para cancelar o plano do Disney+ pelo navegador ou lojas de aplicativos e evitar cobranças automáticas no próximo ciclo.
+
+### Alerta de Retenção
+O Disney+ exibe telas com sugestões de títulos populares recém-adicionados ao catálogo e questiona o motivo da saída antes de confirmar a rescisão.
+
+### Passo a Passo:
+1. **Acesse as configurações de conta**: Entre em disneyplus.com pelo navegador ou abra o app no celular. Selecione o ícone do seu perfil e clique em "Conta".
+2. **Selecione seu plano ativo**: Na seção "Assinatura", clique sobre o nome do seu plano contratado.
+   *Aviso:* Se o faturamento estiver atrelado ao Meli+ (Mercado Livre) ou Globoplay, você verá um aviso indicando que o cancelamento deve ser feito na plataforma parceira.
+3. **Cancele a assinatura**: Clique em "Cancelar assinatura", selecione um motivo opcional na lista e confirme em "Continuar para cancelar".
+
+### Fontes Oficiais:
+- [Central de Ajuda Disney+ — Cancelar a assinatura do Disney+](https://help.disneyplus.com/article/disneyplus-cancel)
+
+---
+
+## Como cancelar Duolingo
+- URL Oficial no comcan: https://comcan.adiels.me/guias/duolingo
+- Link Direto de Cancelamento: https://pt.duolingo.com/
+- Categoria: software
+- Dificuldade: facil
+- Canais Viáveis: site, app
+- Verificado em: 2026-10-25
+- Resumo: Cancele o Super Duolingo no site ou pelo app e mantenha o plano até o fim do período já pago.
+
+### Alerta de Retenção
+A própria Duolingo avisa que apagar o aplicativo ou a conta não cancela a assinatura: quem só desinstala continua sendo cobrado. Não há reembolso retroativo nem devolução proporcional pela data do cancelamento. O acesso continua até o fim do período pago e a assinatura pode ser reativada quando quiser. Assinaturas compradas em loja exigem confirmação na Google Play Store, na App Store ou no Alipay.
+
+### Passo a Passo:
+1. **Identifique por onde a assinatura foi feita**: O caminho muda conforme o canal usado na compra: site, app ou loja de aplicativos.
+   *Aviso:* Apagar o app ou a conta não cancela a cobrança.
+2. **No navegador, abra Configurações**: Na página inicial do site, clique na imagem de perfil e escolha Configurações (pt.duolingo.com/settings).
+3. **Entre em Super Duolingo**: Abra a página do Super Duolingo nas configurações (pt.duolingo.com/settings/super) para ver a assinatura ativa.
+4. **Clique em Cancelar assinatura**: Selecione "Cancelar assinatura" e confirme a operação na tela seguinte.
+5. **No app, use Gerenciar assinatura**: Toque no ícone do Super no topo da página inicial, abra Configurações (engrenagem), escolha "Gerenciar assinatura" e depois "Cancelar assinatura".
+6. **Confirme na loja**: A etapa final é na Google Play Store, na App Store ou no Alipay, conforme o canal da compra.
+   *Aviso:* No Android com assinatura feita pelas configurações do telefone, é preciso abrir uma solicitação de suporte; no iOS, siga as instruções da Apple.
+
+### Fontes Oficiais:
+- [Duolingo — Como cancelo a minha assinatura do Super Duolingo?](https://pt.duolingo.com/help/cancel-my-super-duolingo-subscription)
+- [Duolingo — Como faço para pedir um reembolso?](https://pt.duolingo.com/help/how-do-I-request-a-refund)
+
+---
+
+## Como cancelar Estadão
+- URL Oficial no comcan: https://comcan.adiels.me/guias/estadao
+- Link Direto de Cancelamento: https://www.estadao.com.br
+- Categoria: noticias
+- Dificuldade: dificil
+- Canais Viáveis: site, telefone
+- Verificado em: 2026-10-25
+- Resumo: Cancele a assinatura do Estadão pelo formulário do Portal do Assinante ou pela central e veja a devolução proporcional.
+
+### Alerta de Retenção
+Não existe botão de autocancelamento: o contrato prevê apenas o formulário do Portal do Assinante ou os telefones da central. A página Fale Conosco avisa que o tempo médio de resposta é de até 3 dias úteis. As páginas oficiais divergem sobre o horário de atendimento, e o 0800 só aceita ligação de telefone fixo.
+
+### Passo a Passo:
+1. **Reúna os dados da assinatura**: Tenha em mãos CPF do titular, e-mail cadastrado e, se possível, o número do pedido ou da assinatura, para agilizar a localização do cadastro.
+   *Aviso:* Se houver mais de um plano ou produto vinculado ao mesmo CPF, confirme na central qual será encerrado antes de pedir o cancelamento.
+2. **Cancele pelo formulário do Portal do Assinante**: Acesse https://meu.estadao.com.br/assinante/formulario-contato (endereço indicado na cláusula 4.4 do contrato), entre na sua conta e registre o pedido de cancelamento por escrito.
+   *Aviso:* É o formulário do Portal do Assinante, não um botão de cancelamento imediato. O Fale Conosco informa tempo médio de resposta de até 3 dias úteis; guarde o protocolo ou o número do atendimento.
+3. **Ou ligue para a Central de Atendimento**: Ligue para 4003-5323 (capitais e regiões metropolitanas) ou 0800-014-7720 (demais localidades, somente telefone fixo) e peça o cancelamento da assinatura.
+   *Aviso:* O rodapé do portal informa seg–sex 6h30–18h e sáb/dom/feriados 6h30–13h; o contrato informa seg–sex 6h30–20h e sáb/dom/feriados 6h30–14h. Ligue entre 6h30 e 13h para não pegar a central fechada.
+4. **Peça o protocolo e a devolução proporcional**: Diga que quer cancelar a assinatura, não pausar nem trocar de plano. Peça o número de protocolo, a confirmação por e-mail e o cálculo da devolução, se você pagou à vista ou tem plano por prazo indeterminado.
+   *Aviso:* O contrato prevê devolução proporcional apenas nas hipóteses das cláusulas 4.4.1 e 4.4.2; confirme o valor e a data do crédito.
+5. **Confirme o encerramento e acompanhe a cobrança**: Guarde o e-mail de confirmação e confira a próxima fatura do cartão ou o próximo boleto.
+   *Aviso:* Se a cobrança continuar, use o protocolo para abrir reclamação na central e, se necessário, registre reclamação no consumidor.gov.br.
+
+### Fontes Oficiais:
+- [Estadão — Condições Gerais de Contratação de Assinaturas (cláusula 4.4)](https://assine.estadao.com.br/pdf/contratos/Condicoes-Gerais-de-Contratacao-de-Assinaturas-Estadao.pdf)
+- [Estadão — Fale Conosco (canais e horários)](https://meu.estadao.com.br/fale-conosco)
+- [Estadão — Portal do Assinante (formulário de contato)](https://meu.estadao.com.br/assinante/formulario-contato)
+
+---
+
+## Como cancelar Folha de S.Paulo
+- URL Oficial no comcan: https://comcan.adiels.me/guias/folha-de-s-paulo
+- Link Direto de Cancelamento: https://www.folha.com.br
+- Categoria: noticias
+- Dificuldade: dificil
+- Canais Viáveis: telefone, chat, site
+- Verificado em: 2026-10-25
+- Resumo: Cancele a assinatura da Folha pelo telefone ou pelo Atendimento Online, em horário comercial limitado, sem multa de cancelamento.
+
+### Alerta de Retenção
+O FAQ oficial da Folha não descreve um botão de autocancelamento: o pedido é direcionado ao Serviço de Atendimento ao Assinante por telefone ou ao atendimento online, ambos de segunda a sábado, das 8h às 14h, exceto feriados. O 0800 775 8080 atende somente ligações de telefone fixo, então quem liga do celular precisa usar o número de São Paulo. A oferta comercial usa preço promocional no primeiro mês, com mensalidade maior depois. A Folha declara que não cobra multa pelo cancelamento.
+
+### Passo a Passo:
+1. **Separe os dados da assinatura**: Tenha em mãos o CPF ou e-mail cadastrado e a senha da conta. O atendimento online exige login de assinante.
+2. **Ligue para o Serviço de Atendimento ao Assinante**: Ligue para (11) 3224-3090 (Grande São Paulo) ou 0800 775 8080 (demais localidades, somente telefone fixo), de segunda a sábado, exceto feriados, das 8h às 14h.
+   *Aviso:* O 0800 775 8080 não aceita chamadas de celular. Quem liga do celular precisa usar (11) 3224-3090, com custo de interurbano.
+3. **Ou use o Atendimento Online**: Acesse atendimento.folha.com.br/chat, faça login como assinante e peça o cancelamento no atendimento online, no mesmo horário de 8h às 14h.
+   *Aviso:* O FAQ fala em cancelar "online no site", mas não detalha um caminho de autocancelamento. Se o chat não oferecer a opção, insista com o atendente ou conclua por telefone.
+4. **Peça o protocolo**: Solicite o número de protocolo e a confirmação do cancelamento por e-mail. Anote data e horário do pedido.
+5. **Confira a cobrança seguinte**: Verifique a próxima fatura do cartão ou do débito em conta para garantir que a mensalidade não foi cobrada.
+
+### Fontes Oficiais:
+- [Folha — Dúvidas frequentes (Informações sobre Cancelamento)](https://atendimento.folha.com.br/duvidas-frequentes)
+- [Folha — Atendimento Online ao assinante](https://atendimento.folha.com.br/chat)
+- [Folha — Assine Folha de S.Paulo](https://assinaturas.folha.com.br/)
+
+---
+
+## Como cancelar Globoplay
+- URL Oficial no comcan: https://comcan.adiels.me/guias/globoplay
+- Link Direto de Cancelamento: https://globoplay.globo.com
+- Categoria: streaming
+- Dificuldade: facil
+- Canais Viáveis: site
+- Verificado em: 2026-10-25
+- Resumo: Aprenda a cancelar sua assinatura do Globoplay através da Conta Globo e interrompa renovações automáticas mantendo acesso até o fim do ciclo.
+
+### Alerta de Retenção
+A Globo alerta sobre a perda de acesso a novelas exclusivas, programas ao vivo e pede o motivo do cancelamento antes de autorizar a finalização.
+
+### Passo a Passo:
+1. **Acesse a Conta Globo**: Entre em minhaconta.globo.com pelo navegador do computador ou celular e faça login.
+2. **Gerencie a assinatura**: Na área "Minhas assinaturas", localize o plano do Globoplay e clique no botão "Gerenciar".
+3. **Solicite o cancelamento**: Role até o final da página e clique em "Cancelar assinatura".
+   *Aviso:* Se aparecer a indicação de uma loja como App Store ou Google Play, o cancelamento precisará ser concluído na loja parceira correspondente.
+4. **Confirme a saída**: Selecione o motivo da decisão e confirme para finalizar o encerramento da renovação.
+
+### Fontes Oficiais:
+- [Ajuda Globo — Como cancelar a assinatura do Globoplay](https://ajuda.globo.com/s/article/Como-cancelar-a-assinatura-do-Globoplay)
+
+---
+
+## Como cancelar LinkedIn Premium
+- URL Oficial no comcan: https://comcan.adiels.me/guias/linkedin-premium
+- Link Direto de Cancelamento: https://www.linkedin.com/premium/
+- Categoria: software
+- Dificuldade: media
+- Canais Viáveis: site, app
+- Verificado em: 2026-10-25
+- Resumo: Cancele o LinkedIn Premium pelo site (ou app Android) e mantenha o acesso até o fim do ciclo já pago.
+
+### Alerta de Retenção
+O LinkedIn oferece downgrade para outro plano Premium em vez de encerrar a assinatura, opção disponível apenas no site para computador. Quem cancela perde o preço promocional para sempre: a própria ajuda avisa que, ao cancelar uma promoção ou um plano que não é mais oferecido, você perderá seu preço com desconto. Cancelar um teste grátis encerra o acesso na hora e impede um novo teste por no mínimo 12 meses, e os créditos de InMail acumulados não podem ser recuperados.
+
+### Passo a Passo:
+1. **Confirme onde a assinatura foi comprada**: O canal da compra define o caminho do cancelamento. Assinaturas compradas no LinkedIn, na App Store e no Google Play são tratadas em lugares diferentes.
+   *Aviso:* Compra direta no LinkedIn só pode ser cancelada no site para computador ou no app para Android; no app iOS o cancelamento não está disponível. Compra na App Store deve ser cancelada no dispositivo Apple; no Google Play, pelo site ou app do LinkedIn ou pela Play Store.
+2. **Clique no ícone Eu**: No topo da página inicial do LinkedIn, no computador, abra o ícone "Eu" para acessar as opções da conta.
+3. **Abra Recursos Premium > Gerenciar assinatura**: Na seção "Detalhes do plano", no painel esquerdo, selecione "Gerenciar assinatura". Você é levado à Central de administração do LinkedIn.
+4. **Selecione Compras**: No painel esquerdo da Central de administração, abra "Compras" e escolha a assinatura ativa.
+5. **Clique em Cancelar assinatura**: Em "Ações", selecione "Cancelar assinatura" e confirme em "Confirmar cancelamento".
+6. **Cancele com pelo menos 1 dia de antecedência**: Faça o cancelamento antes da renovação para não ser cobrado no ciclo seguinte.
+   *Aviso:* No app Android, o caminho é foto de perfil, Recursos Premium, Gerenciar assinatura e Cancelar assinatura.
+
+### Fontes Oficiais:
+- [Ajuda do LinkedIn — Cancelar assinatura do LinkedIn Premium](https://www.linkedin.com/help/linkedin/answer/a545578?lang=pt-BR)
+- [Ajuda do LinkedIn — Perguntas frequentes sobre como cancelar assinatura do LinkedIn Premium](https://www.linkedin.com/help/linkedin/answer/125589?lang=pt-BR)
+
+---
+
+## Como cancelar Max
+- URL Oficial no comcan: https://comcan.adiels.me/guias/max
+- Link Direto de Cancelamento: https://www.max.com
+- Categoria: streaming
+- Dificuldade: facil
+- Canais Viáveis: site, app
+- Verificado em: 2026-10-25
+- Resumo: Veja como cancelar o plano da Max pelo site oficial ou identificar sua operadora de cobrança para suspender a assinatura sem multas.
+
+### Alerta de Retenção
+A Max apresenta uma lista de estreias futuras e séries consagradas de seu catálogo para incentivar a manutenção do plano.
+
+### Passo a Passo:
+1. **Acesse a área de assinatura**: Visite max.com/subscription no navegador ou acerte as configurações de perfil no aplicativo.
+2. **Verifique a fonte pagadora**: Observe o topo da página para confirmar se a cobrança é realizada pela WarnerMedia ou por terceiros (Google Play, Apple, Mercado Livre ou operadora).
+3. **Cancele a assinatura**: Clique no botão "Cancelar sua assinatura" e siga as etapas exibidas na tela até a confirmação final.
+   *Aviso:* Se faturada por lojas ou terceiros, utilize o link de redirecionamento exibido para cancelar na plataforma de origem.
+
+### Fontes Oficiais:
+- [Central de Ajuda Max — Cancelar a assinatura Max](https://help.max.com/br-pt/Answer/Detail/000002511)
+
+---
+
+## Como cancelar Meli+
+- URL Oficial no comcan: https://comcan.adiels.me/guias/meli-plus
+- Link Direto de Cancelamento: https://www.mercadolivre.com.br
+- Categoria: entregas
+- Dificuldade: facil
+- Canais Viáveis: site, app
+- Verificado em: 2026-10-25
+- Resumo: Veja o passo a passo para cancelar o plano Meli+ no Mercado Livre pelo aplicativo ou navegador sem burocracia ou cobranças indevidas.
+
+### Alerta de Retenção
+O Mercado Livre enumera a perda do frete grátis e o encerramento do acesso a streamings vinculados, como Disney+, pedindo reconfirmações no rodapé.
+
+### Passo a Passo:
+1. **Acesse a seção Meli+**: No app ou site do Mercado Livre, abra o menu principal e clique na opção "Meli+" ou vá em "Assinaturas".
+2. **Gerencie a assinatura**: Clique em "Administrar assinatura" ou no card correspondente ao plano ativo.
+3. **Role até o rodapé da página**: Desça toda a tela até o final, onde se encontra o botão textual discreto "Eu quero cancelar minha assinatura".
+   *Aviso:* O botão fica posicionado intencionalmente no final da página após os destaques de benefícios.
+4. **Confirme a saída**: Avance pelas telas de confirmação e conclua clicando em "Cancelar assinatura".
+
+### Fontes Oficiais:
+- [Mercado Livre Ajuda — Como cancelar o Meli+](https://www.mercadolivre.com.br/ajuda)
+
+---
+
+## Como cancelar Microsoft 365
+- URL Oficial no comcan: https://comcan.adiels.me/guias/microsoft-365
+- Link Direto de Cancelamento: https://www.microsoft.com/pt-br/microsoft-365
+- Categoria: software
+- Dificuldade: media
+- Canais Viáveis: site, chat
+- Verificado em: 2026-10-25
+- Resumo: Cancele o Microsoft 365 em account.microsoft.com/services e evite a cobrança do próximo ciclo.
+
+### Alerta de Retenção
+A página de cancelamento abre com a seção "Por favor, revise", que pode listar detalhes de assinaturas alternativas, que podem ser mais baratas. No rodapé, o usuário escolhe entre "Quero manter meus benefícios" e "Não quero minha assinatura", e a Microsoft sugere trocar de plano em vez de cancelar. O reembolso não é automático: a própria Microsoft avisa que nem todos os cancelamentos resultarão em reembolso, por isso é preciso cancelar primeiro para verificar a elegibilidade.
+
+### Passo a Passo:
+1. **Acesse Serviços e assinaturas**: Abra account.microsoft.com/services/microsoft365 e entre com a mesma conta Microsoft usada na compra. A página lista as assinaturas vinculadas à conta.
+   *Aviso:* Compras feitas no Google Play, na App Store ou em revendedor terceirizado (por exemplo, a Amazon) são canceladas nesses canais, não na Microsoft.
+2. **Selecione Cancelar assinatura**: Localize a assinatura do Microsoft 365 e abra as opções de gerenciamento. O botão pode aparecer como "Atualizar ou Cancelar".
+   *Aviso:* Se aparecer "Ativar cobrança recorrente" em vez da opção de cancelar, a assinatura já está marcada para expirar na data mostrada e não haverá nova cobrança: não é preciso fazer nada.
+3. **Revise a oferta de retenção**: Leia a seção "Por favor, revise", no topo da página, onde ficam os planos alternativos oferecidos no lugar do cancelamento.
+4. **Confirme o cancelamento**: No fim da página, escolha "Não quero minha assinatura" para concluir. A opção "Quero manter meus benefícios" mantém a assinatura como está.
+5. **Cancele com mais de 2 dias de antecedência**: A Microsoft orienta que o cancelamento seja feito mais de 2 dias antes da data de cobrança para evitar o próximo ciclo.
+   *Aviso:* Dívida em aberto nas formas de pagamento impede o cancelamento até a quitação.
+
+### Fontes Oficiais:
+- [Suporte da Microsoft — Cancelar uma assinatura do Microsoft 365](https://support.microsoft.com/pt-br/accounts-billing/subscriptions/cancel-a-microsoft-365-subscription)
+- [Suporte da Microsoft — Não é possível cancelar sua assinatura da Microsoft](https://support.microsoft.com/pt-br/accounts-billing/subscriptions/unable-to-cancel-your-microsoft-subscription)
+
+---
+
+## Como cancelar Netflix
+- URL Oficial no comcan: https://comcan.adiels.me/guias/netflix
+- Link Direto de Cancelamento: https://www.netflix.com/br/
+- Categoria: streaming
+- Dificuldade: facil
+- Canais Viáveis: site
+- Verificado em: 2026-10-25
+- Resumo: Cancele a assinatura da Netflix pelo site, encerre o plano no fim do período pago e saiba o que acontece com seus perfis.
+
+### Alerta de Retenção
+A Netflix não costuma oferecer desconto no cancelamento, mas lembra que você perde o acesso ao catálogo e mantém o perfil por tempo limitado caso reative depois.
+
+### Passo a Passo:
+1. **Entre na sua conta**: Acesse netflix.com e faça login. O cancelamento não pode ser feito pelo app de TV ou de celular: use o navegador.
+   *Aviso:* Se você entra na conta pelo provedor de TV ou de internet, pode ser redirecionado para o site da operadora.
+2. **Abra a página da conta**: Clique na sua foto de perfil e escolha "Conta". No celular, o menu fica no canto superior direito.
+3. **Clique em "Cancelar assinatura"**: Na seção "Assinatura e cobrança", selecione "Cancelar assinatura" e confirme. A Netflix exibe um resumo do que você perde antes de finalizar.
+4. **Confirme o cancelamento**: Escolha "Concluir cancelamento". Você continua assistindo até o último dia do período já pago e não há cobrança seguinte.
+
+### Fontes Oficiais:
+- [Central de ajuda da Netflix — como cancelar](https://help.netflix.com/pt/node/407)
+
+---
+
+## Como cancelar Nubank Ultravioleta
+- URL Oficial no comcan: https://comcan.adiels.me/guias/nubank-ultravioleta
+- Link Direto de Cancelamento: https://nubank.com.br/ultravioleta
+- Categoria: financeiro
+- Dificuldade: media
+- Canais Viáveis: app, chat, telefone
+- Verificado em: 2026-10-25
+- Resumo: Cancele o Nubank Ultravioleta pelo chat ou telefone, resgate o cashback antes e entenda a cobrança proporcional.
+
+### Alerta de Retenção
+A FAQ oficial não descreve autocancelamento: o pedido é feito pelo chat ou por telefone. A central permite trocar o Ultravioleta por um cartão Gold ou Platinum, o que encerra os benefícios Ultravioleta e Mastercard Black sem encerrar o cartão de crédito. Para encerrar de vez é preciso pedir o cancelamento definitivo. O cashback e os pontos não podem ser resgatados depois do cancelamento.
+
+### Passo a Passo:
+1. **Resgate o cashback e os pontos**: No app, abra a área "Pontos & Cashback" e resgate o saldo para a conta, para a fatura ou para um parceiro antes de pedir o cancelamento.
+   *Aviso:* Os termos dizem que, depois do cancelamento do cartão Mastercard Black Ultravioleta, não é mais possível converter o cashback nem transferir para programas de recompensa, mesmo se o cartão for reativado.
+2. **Abra o chat no app e peça o cancelamento definitivo**: O chat do Nubank funciona 24h. Peça o "cancelamento definitivo do Nubank Ultravioleta" e diga que não quer o downgrade para Gold ou Platinum.
+   *Aviso:* A troca de categoria é feita na hora. Se você aceitar, o Ultravioleta e os benefícios Mastercard Black acabam, mas o cartão de crédito continua ativo.
+3. **Ou ligue para a central**: Ligue para 4020 0185 (capitais e regiões metropolitanas) ou 0800 591 2117 (demais localidades) e peça o cancelamento definitivo.
+   *Aviso:* São os mesmos números do atendimento geral; tenha CPF e senha em mãos e anote o protocolo.
+4. **Confirme o que será cancelado**: O cancelamento do Ultravioleta encerra todos os produtos do pacote, inclusive o cartão Mastercard Black e os benefícios Mastercard.
+   *Aviso:* Se o objetivo for encerrar a conta ou o cartão de crédito por completo, diga isso explicitamente; o pedido de cancelamento do Ultravioleta não é a mesma coisa.
+5. **Confira a fatura seguinte**: O contrato prevê a cobrança do valor proporcional da mensalidade usada na próxima fatura.
+   *Aviso:* A mensalidade é R$ 89 e só é zerada com gastos acima de R$ 8 mil no cartão ou R$ 50 mil guardados/investidos no Nubank; confira o valor proporcional antes de pagar.
+
+### Fontes Oficiais:
+- [Nubank — Termos e Condições Ultravioleta](https://nubank.com.br/contratos/termos-e-condicoes-nubank-ultravioleta)
+- [Nubank — Perguntas frequentes (cancelamento do cartão Ultravioleta)](https://nubank.com.br/perguntas)
+- [Nubank Ultravioleta — mensalidade e isenção](https://nubank.com.br/ultravioleta)
+- [Nubank — Todos os canais de atendimento](https://nubank.com.br/contatos)
+
+---
+
+## Como cancelar O Globo
+- URL Oficial no comcan: https://comcan.adiels.me/guias/o-globo
+- Link Direto de Cancelamento: https://oglobo.globo.com
+- Categoria: noticias
+- Dificuldade: dificil
+- Canais Viáveis: telefone, chat, site
+- Verificado em: 2026-10-25
+- Resumo: Cancele a assinatura digital de O Globo pela Central de Atendimento, quite parcelas em aberto e evite a renovação automática.
+
+### Alerta de Retenção
+O contrato de assinatura digital prevê renovação automática por períodos sucessivos até que o cliente peça o cancelamento. O cancelamento precisa ser solicitado à Central de Atendimento, por telefone, WhatsApp, Telegram ou chat; o Portal do Assinante divulga apenas atualização de dados de pagamento e 2ª via de boleto. Parcelas em aberto precisam ser quitadas antes do pedido, e brindes recebidos podem ser cobrados ou precisam ser devolvidos.
+
+### Passo a Passo:
+1. **Localize sua assinatura**: Acesse o Portal do Assinante em editoraglobo.my.site.com/assinante/s/ e faça login para confirmar o código de assinatura ou o número do contrato.
+2. **Ligue para a Central de Atendimento**: Ligue para (21) 4002-5300 (capitais e grandes cidades) ou 0800 021 8433 (demais localidades).
+   *Aviso:* Também há atendimento por WhatsApp e Telegram no número (21) 4002-5300. O Portal do Assinante não oferece botão de cancelamento.
+3. **Quite o que estiver em aberto**: O contrato exige que parcelas em aberto sejam quitadas para que o cancelamento seja efetuado. Verifique boletos ou faturas pendentes antes de ligar.
+   *Aviso:* Se houver crédito a favor, o acesso digital continua liberado até o crédito acabar.
+4. **Peça o cancelamento e o protocolo**: Solicite o cancelamento da assinatura digital e o número de protocolo. Confirme também o fim da renovação automática.
+5. **Confirme por escrito**: Peça a confirmação por e-mail e guarde o protocolo com data e horário.
+
+### Fontes Oficiais:
+- [O Globo — Contrato de assinatura digital (cláusulas 2.5, 3.1, 4.1 e 5.1.1)](https://editoraglobo.my.site.com/assinante/resource/1614018870000/PDA_MinhaAssinatura_PDF/ContratoDigitalAssinante.pdf)
+- [O Globo — Meu O Globo (atendimento e Portal do Assinante)](https://oglobo.globo.com/meu-o-globo)
+- [O Globo — Jornal Digital (telefones de atendimento)](https://jornaldigital.oglobo.globo.com/)
+
+---
+
+## Como cancelar Paramount+
+- URL Oficial no comcan: https://comcan.adiels.me/guias/paramount-plus
+- Link Direto de Cancelamento: https://www.paramountplus.com
+- Categoria: streaming
+- Dificuldade: facil
+- Canais Viáveis: site, app
+- Verificado em: 2026-10-25
+- Resumo: Veja como cancelar a assinatura do Paramount+ pelo navegador, lojas de aplicativos ou canais parceiros como Prime Video sem burocracia.
+
+### Alerta de Retenção
+O serviço relembra estreias exclusivas de filmes e transmissões esportivas antes de solicitar a confirmação final da rescisão.
+
+### Passo a Passo:
+1. **Acesse sua conta**: Visite paramountplus.com pelo navegador de internet e faça login. Clique no ícone do perfil no canto superior direito e selecione "Conta".
+2. **Localize a área de cobrança**: Role a página até a seção "Assinatura e Cobrança".
+3. **Inicie o cancelamento**: Clique no link "Cancelar assinatura" e selecione o motivo do cancelamento.
+   *Aviso:* Se você assinou pelos Canais do Prime Video ou pelo Mercado Livre, o cancelamento precisa ser feito no painel da Amazon ou do Meli+.
+4. **Confirme o encerramento**: Clique em "Sim, cancelar" e em seguida finalize clicando no botão de confirmação.
+
+### Fontes Oficiais:
+- [Central de Ajuda Paramount+ — Como posso cancelar minha assinatura do Paramount+?](https://help.paramountplus.com/s/article/PD-How-can-I-cancel-my-Paramount-subscription)
+
+---
+
+## Como cancelar PlayStation Plus
+- URL Oficial no comcan: https://comcan.adiels.me/guias/playstation-plus
+- Link Direto de Cancelamento: https://www.playstation.com/pt-br/ps-plus/
+- Categoria: jogos
+- Dificuldade: facil
+- Canais Viáveis: site, app
+- Verificado em: 2026-10-25
+- Resumo: Cancele o PlayStation Plus pelo site, PS5, PS4 ou PS App e use os benefícios até a próxima data de pagamento.
+
+### Alerta de Retenção
+A mesma tela de assinatura oferece "Alterar plano" (Essencial, Extra ou Deluxe) e "Reativar assinatura" para quem acabou de cancelar, com reativação válida até a data do próximo pagamento. O cancelamento não devolve o valor do período em curso: a assinatura será desativada a partir da data do próximo pagamento, e um eventual reembolso é um pedido separado, pela política da PS Store. No downgrade de nível, a troca só vale na próxima data de pagamento e o usuário perde os benefícios exclusivos do plano anterior.
+
+### Passo a Passo:
+1. **Pelo navegador, abra Gerenciamento da conta**: Acesse playstation.com/acct/management e entre com a conta PlayStation Network.
+2. **Selecione Assinatura**: No menu à esquerda da tela, abra a seção "Assinatura".
+3. **Selecione Cancelar assinatura**: Escolha a opção "Cancelar assinatura" ao lado de PlayStation Plus e confirme.
+4. **Ou cancele no PS5**: No console, abra Configurações > Usuários e contas > Conta > Pagamento e assinaturas > Assinaturas > PlayStation Plus > Cancelar assinatura.
+5. **Ou cancele no PS4**: No console, abra PlayStation Plus > Gerenciar assinatura > Assinatura > Cancelar assinatura.
+6. **Ou cancele no PS App**: Toque no ícone PlayStation Store na parte inferior, abra o ícone de menu no canto superior direito, entre em Gerenciamento de assinaturas e escolha Cancelar.
+   *Aviso:* Cancele antes da data do próximo pagamento: a assinatura só é desativada a partir dela.
+
+### Fontes Oficiais:
+- [Suporte do PlayStation — Cancelar o PlayStation Plus](https://www.playstation.com/pt-br/support/subscriptions/cancel-playstation-plus/)
+- [Suporte do PlayStation — Como gerenciar suas assinaturas no PlayStation](https://www.playstation.com/pt-br/support/store/cancel-ps-store-subscription/)
+- [Suporte do PlayStation — Alterar a assinatura do PlayStation Plus](https://www.playstation.com/pt-br/support/subscriptions/change-ps-plus/)
+
+---
+
+## Como cancelar Sem Parar
+- URL Oficial no comcan: https://comcan.adiels.me/guias/sem-parar
+- Link Direto de Cancelamento: https://www.semparar.com.br
+- Categoria: financeiro
+- Dificuldade: media
+- Canais Viáveis: telefone, site
+- Verificado em: 2026-10-25
+- Resumo: Cancele o Sem Parar pela central de relacionamento com CPF e placa; não há fidelidade nem multa.
+
+### Alerta de Retenção
+A página oficial não oferece autocancelamento: o pedido de cancelamento é feito pela central de relacionamento. Antes de cancelar, a empresa oferece troca de veículo (se você vendeu o carro) e mudança de família de plano (se o problema é custo). Bloquear a tag do carro vendido não encerra o plano: a mensalidade continua sendo cobrada enquanto o plano estiver ativo.
+
+### Passo a Passo:
+1. **Separe CPF e placa**: A central pede CPF e placa para localizar o cadastro. Se possível, tenha também a fatura ou o extrato à mão.
+2. **Ligue para a central de relacionamento**: Ligue para 4002-1552 (capitais e regiões metropolitanas) ou 0800 015 0252 (demais localidades) e peça o cancelamento do plano.
+   *Aviso:* O WhatsApp (11) 98991-2822 e o SAC 0800 723 2245 são canais de atendimento, mas a página oficial de cancelamento indica a central de relacionamento por telefone.
+3. **Recuse as alternativas de retenção**: Se o motivo for troca de carro, a empresa oferece a substituição da tag; se for custo, oferece mudança de plano. Diga que quer cancelar mesmo assim.
+   *Aviso:* Aceitar a substituição mantém o plano e a cobrança da mensalidade.
+4. **Peça o protocolo e confirme os dados**: Anote o número do protocolo, a data do pedido, o valor da última fatura e o status das passagens pendentes.
+5. **Confira a fatura seguinte**: Verifique se não houve nova cobrança de mensalidade e se as passagens pendentes foram lançadas.
+   *Aviso:* As concessionárias podem registrar passagens com atraso; guarde o extrato e o protocolo para contestar.
+
+### Fontes Oficiais:
+- [Sem Parar — Como cancelar meu Sem Parar?](https://ajuda.semparar.com.br/hc/pt-br/articles/360046997432-Como-cancelar-meu-Sem-Parar)
+- [Sem Parar — Quais os canais de atendimento digitais do Sem Parar?](https://ajuda.semparar.com.br/hc/pt-br/articles/360048998812-Quais-os-canais-de-atendimento-digitais-do-Sem-Parar)
+- [Sem Parar — Tag Sem Parar: planos, uso e cancelamento](https://blog.semparar.com.br/tag-sem-parar)
+
+---
+
+## Como cancelar Serasa Premium
+- URL Oficial no comcan: https://comcan.adiels.me/guias/serasa-premium
+- Link Direto de Cancelamento: https://www.serasa.com.br/premium
+- Categoria: financeiro
+- Dificuldade: facil
+- Canais Viáveis: site, telefone
+- Verificado em: 2026-10-25
+- Resumo: Cancele o Serasa Premium sozinho na área do plano e veja quando o reembolso de 7 dias se aplica.
+
+### Alerta de Retenção
+O cancelamento é autosserviço e fica dentro da área do plano, sem oferta de retenção descrita na página oficial. A armadilha está na origem da cobrança: quem assinou pelo Google Play ou pela App Store não consegue cancelar no site da Serasa. O reembolso integral de 7 dias vale só para a contratação, não para planos renovados.
+
+### Passo a Passo:
+1. **Descubra onde a assinatura foi contratada**: Confira se a cobrança está no cartão/Pix Automático pelo site da Serasa, no Google Play (Android) ou na App Store (iPhone/iPad).
+   *Aviso:* O cancelamento só funciona no mesmo canal da cobrança; a Serasa não cancela assinaturas contratadas nas lojas de aplicativos.
+2. **Acesse a área do plano**: Entre em https://www.serasa.com.br/area-cliente/minha-conta/plano com CPF e senha.
+3. **Selecione o plano e clique em "Cancelar assinatura"**: Escolha o Serasa Premium, clique em "Cancelar assinatura" e siga as orientações da tela até confirmar.
+   *Aviso:* O cancelamento é registrado na hora; confira se a mensagem de confirmação apareceu antes de sair da página.
+4. **Guarde a confirmação por e-mail**: A Serasa envia a confirmação por e-mail e mantém os benefícios até o fim do período já pago.
+5. **Se assinou pela loja, cancele na loja**: Google Play: play.google.com/store/account/subscriptions → "Serasa Premium" → "Gerenciar" → "Cancelar assinatura". App Store: Ajustes → seu nome → "Assinaturas" → "Serasa Premium" → "Cancelar assinatura".
+   *Aviso:* O reembolso do Google Play é pedido na própria loja em até 48 horas; na App Store a Apple analisa caso a caso. A Serasa não consegue cancelar por você.
+
+### Fontes Oficiais:
+- [Serasa — Como cancelar o Serasa Premium?](https://www.serasa.com.br/ajuda/protecao-do-cpf/como-cancelar-o-serasa-premium)
+- [Serasa — Tenho direito a estorno se meu plano Serasa Premium foi renovado?](https://www.serasa.com.br/ajuda/protecao-do-cpf/tenho-direito-a-estorno-se-meu-plano-serasa-premium-foi-renovado)
+- [Serasa Premium](https://www.serasa.com.br/premium)
+
+---
+
+## Como cancelar Smart Fit
+- URL Oficial no comcan: https://comcan.adiels.me/guias/smart-fit
+- Link Direto de Cancelamento: https://www.smartfit.com.br/
+- Categoria: fitness
+- Dificuldade: dificil
+- Canais Viáveis: presencial, site
+- Verificado em: 2026-10-25
+- Resumo: Cancele o plano Smart Fit na recepção de qualquer unidade ou pelo Fale Conosco e cumpra o aviso prévio.
+
+### Alerta de Retenção
+Não existe botão de cancelar no app ou no site: a Central de Ajuda oficial oferece apenas a recepção de qualquer unidade e o formulário Fale Conosco. Os planos Fit e Black têm fidelidade de 12 meses, e o cancelamento antes do prazo gera multa de 20% sobre as mensalidades restantes. Planos promocionais têm permanência mínima de 3 meses e, se você sair antes, paga a diferença da promoção. Há aviso prévio de 30 dias, ou 20 dias no Rio de Janeiro, com cálculo pró-rata pelos dias usados. O descancelamento só vale até a data de expiração, e valores pagos no cancelamento viram crédito, que expira se você cancelar de novo antes de usá-lo. Trancamento é restrito a motivo médico com atestado e não é retroativo.
+
+### Passo a Passo:
+1. **Descubra seu plano e a data de início**: O plano Smart não tem fidelidade; os planos Fit e Black têm 12 meses; promoções têm permanência mínima de 3 meses.
+2. **Vá à recepção de qualquer unidade**: É o canal presencial indicado oficialmente. Peça o cancelamento ao atendimento da unidade.
+3. **Ou abra o Fale Conosco**: Acesse smartfit.com.br/fale-conosco e registre a solicitação de cancelamento.
+   *Aviso:* A Central de Ajuda não oferece cancelamento por botão no app ou no site; desistir do app não encerra o contrato.
+4. **Cumpra o aviso prévio**: São 30 dias, ou 20 dias no Rio de Janeiro. Você pode treinar até a data de expiração, com cobrança proporcional aos dias usados (pró-rata).
+5. **Confira multa e ajuste**: Nos planos Fit e Black, sair antes de 12 meses gera multa de 20% sobre as mensalidades restantes. Em promoção, sair antes de 3 meses cobra a diferença da promoção.
+   *Aviso:* O valor pago no cancelamento vira crédito para mensalidades futuras, não reembolso em dinheiro; se cancelar de novo, o crédito restante expira.
+6. **Guarde o protocolo do atendimento**: Anote a data, o valor cobrado e a data de expiração informados pela Smart Fit.
+
+### Fontes Oficiais:
+- [Smart Fit — Como cancelar meu plano?](https://ajuda.smartfit.com.br/hc/pt-br/articles/360051874111-Como-cancelar-meu-plano)
+- [Smart Fit — Como funciona o descancelamento?](https://ajuda.smartfit.com.br/hc/pt-br/articles/360051398372-Como-funciona-o-descancelamento)
+- [Smart Fit — Posso trancar o meu plano?](https://ajuda.smartfit.com.br/hc/pt-br/articles/360051873831-Posso-trancar-o-meu-plano)
+- [Smart Fit — O que é cancelamento automático?](https://ajuda.smartfit.com.br/hc/pt-br/articles/360051874071-O-que-%C3%A9-cancelamento-autom%C3%A1tico)
+- [Smart Fit — O que é o plano Smart?](https://ajuda.smartfit.com.br/hc/pt-br/articles/360051873731-O-que-%C3%A9-o-plano-Smart)
+
+---
+
+## Como cancelar Spotify Premium
+- URL Oficial no comcan: https://comcan.adiels.me/guias/spotify
+- Link Direto de Cancelamento: https://www.spotify.com/br/
+- Categoria: musica
+- Dificuldade: facil
+- Canais Viáveis: site
+- Verificado em: 2026-10-25
+- Resumo: Cancele o Spotify Premium sem perder a conta: o plano volta para o gratuito com anúncios e o acesso pago dura até o fim do período.
+
+### Alerta de Retenção
+Antes de concluir, o Spotify costuma oferecer meses grátis ou desconto temporário. A oferta só vale se você aceitar; recusar não impede o cancelamento.
+
+### Passo a Passo:
+1. **Acesse sua conta**: Abra spotify.com/account e entre com a mesma conta usada no aplicativo.
+   *Aviso:* Assinaturas pagas pela App Store ou pelo Google Play não aparecem aqui: cancele pela loja.
+2. **Abra "Seu plano"**: Na página da conta, localize a seção do plano Premium atual.
+3. **Clique em "Alterar plano"**: Role até "Spotify Free" e selecione "Cancelar Premium".
+4. **Ignore ou recuse a oferta de retenção**: O Spotify pode mostrar um desconto ou um período grátis. Escolha a opção de continuar com o cancelamento.
+5. **Confirme**: Finalize a alteração. O Premium continua ativo até a data de renovação já paga e depois a conta volta ao plano gratuito.
+
+### Fontes Oficiais:
+- [Suporte do Spotify — cancelar o Premium](https://support.spotify.com/br/article/cancel-premium/)
+
+---
+
+## Como cancelar TIM
+- URL Oficial no comcan: https://comcan.adiels.me/guias/tim
+- Link Direto de Cancelamento: https://www.tim.com.br
+- Categoria: telefonia
+- Dificuldade: media
+- Canais Viáveis: app, site, telefone, chat, presencial
+- Verificado em: 2026-10-25
+- Resumo: Cancele a linha TIM pelo app Meu TIM ou pelo site, ou ainda por *144, 1056, SMS, WhatsApp e loja. Veja prazos e multa.
+
+### Alerta de Retenção
+A TIM afirma que o cancelamento é irreversível e destaca que, para apenas trocar de plano, não é necessário cancelar a linha. Em planos com fidelidade (Controle com benefícios e Pós) há multa proporcional ao tempo restante do contrato. O cancelamento feito com atendente é imediato, mas o sistema leva até 24 horas para concluir.
+
+### Passo a Passo:
+1. **Separe CPF e código do cliente**: O CPF identifica o titular e o código do cliente é exigido no cancelamento por SMS. Se não souber o código, use o app, o site ou a central de atendimento para cancelar.
+2. **Cancele pelo app Meu TIM**: Abra o app, entre em "Atendimento" e escolha "Cancelamento de linha". Siga as instruções e confirme.
+3. **Ou use o site Meu TIM**: Acesse meutim.tim.com.br, faça login, clique em "Serviços" e depois em "Cancelamento de linha".
+   *Aviso:* O cancelamento digital leva até 2 dias úteis para ser processado. Nesse prazo ainda há cobrança pelo consumo.
+4. **Canais alternativos**: Ligue para *144 de um celular TIM ou 1056 de qualquer telefone. Também é possível enviar SMS com a palavra CANCELAMENTO, o CPF e o código do cliente para 4199, ou falar pelo WhatsApp (41) 4141-4141. Há atendimento em loja TIM.
+   *Aviso:* Pelo *144 a TIM envia o protocolo por SMS com data e hora. Guarde essa mensagem.
+5. **Confirme o protocolo e o prazo**: Anote o protocolo. Com atendente, o cancelamento tem efeito imediato; sem atendente, em até 2 dias úteis. A conclusão no sistema pode levar até 24 horas.
+
+### Fontes Oficiais:
+- [TIM — Perguntas frequentes sobre cancelamento de linha](https://www.tim.com.br/ajuda/perguntas-frequentes/conta-e-pagamento/cancelamento-de-linha)
+- [TIM — Atendimento: cancelamento de linha](https://www.tim.com.br/sobre-a-tim/regulatorio/novas-regras-de-atendimento/cancelamento)
+- [TIM — Fale conosco e SAC](https://www.tim.com.br/para-voce/atendimento/fale-conosco)
+
+---
+
+## Como cancelar Tinder
+- URL Oficial no comcan: https://comcan.adiels.me/guias/tinder
+- Link Direto de Cancelamento: https://tinder.com/
+- Categoria: outros
+- Dificuldade: media
+- Canais Viáveis: site, app
+- Verificado em: 2026-10-25
+- Resumo: Cancele o Tinder Plus, Gold, Platinum ou Select pelo app, pela loja ou em tinder.com e evite a renovação.
+
+### Alerta de Retenção
+Desinstalar ou excluir o app não cancela a assinatura, que fica associada a uma única conta Tinder por vez e renova automaticamente até ser cancelada. Assinaturas não migram entre plataformas: quem trocou de aparelho, por exemplo de iOS para Android, precisa cancelar no aparelho antigo. A Apple e o Google cuidam dos próprios reembolsos; o Tinder só atende pedidos de TNDR ou COSU, de cartão, PayPal ou Google CC, feitos nos últimos 14 dias, com o mesmo e-mail da compra e o número do pedido. Compras de terceiros, fora do app ou do tinder.com, devem ser canceladas e reembolsadas pelo próprio comerciante.
+
+### Passo a Passo:
+1. **Descubra o prefixo do seu pedido**: MK indica Apple, GPA indica Google Play, TNDR indica tinder.com ou cartão no Android, e COSU indica consumível.
+2. **iOS: Ajustes > seu nome > Assinaturas**: Selecione a assinatura do Tinder e toque em Cancelar Assinatura.
+3. **Android pela Google Play**: No app Google Play, abra o ícone do perfil > Pagamentos e assinaturas > Assinaturas, selecione o Tinder e toque em Cancelar Assinatura.
+4. **Android com cartão ou PayPal**: No app do Tinder, abra o ícone do perfil > Gerenciar conta de pagamento, selecione a assinatura e toque em Cancelar Assinatura.
+5. **Tinder.com**: Acesse tinder.com, abra o ícone do perfil > Gerenciar conta de pagamento, selecione a assinatura e toque em Cancelar Assinatura.
+   *Aviso:* Se você trocou de celular, cancele no aparelho antigo; a assinatura não é transferida entre plataformas.
+6. **Reembolso, se aplicável**: Para pedidos TNDR ou COSU dos últimos 14 dias, abra uma solicitação em help.tinder.com/hc/pt-br/requests/new com o mesmo e-mail da compra e o número do pedido.
+   *Aviso:* Compras feitas pela Apple ou pelo Google devem ser reembolsadas diretamente nessas plataformas.
+
+### Fontes Oficiais:
+- [Tinder — Cancelar sua assinatura](https://www.help.tinder.com/hc/pt-br/articles/115003554466)
+- [Tinder — Pedidos de reembolso](https://www.help.tinder.com/hc/pt-br/articles/115003521343)
+
+---
+
+## Como cancelar Vivo Móvel
+- URL Oficial no comcan: https://comcan.adiels.me/guias/vivo
+- Link Direto de Cancelamento: https://www.vivo.com.br
+- Categoria: telefonia
+- Dificuldade: media
+- Canais Viáveis: site, app, telefone
+- Verificado em: 2026-10-25
+- Resumo: Cancele a linha Vivo pelo Meu Vivo, em Meu plano > Cancelamento, ou pelos telefones *8486 e 103 15, atento à fidelidade.
+
+### Alerta de Retenção
+A Vivo oferece o desligamento temporário (30 a 120 dias sem cobrança) como alternativa ao cancelamento; depois de 120 dias a linha é religada automaticamente e a cobrança recomeça. Alguns planos Controle têm permanência mínima de 12 meses, com multa proporcional aos meses restantes, e a fidelidade por aparelho é adicional e independente da do plano.
+
+### Passo a Passo:
+1. **Confira a fidelidade**: No Meu Vivo, abra "Meu plano" e confira as condições do plano antes de pedir o cancelamento.
+   *Aviso:* Alguns planos Controle têm permanência mínima de 12 meses. A compra de aparelho com desconto cria uma fidelidade separada, também de 12 meses.
+2. **Cancele pelo Meu Vivo**: Acesse o site do Meu Vivo ou o app, faça login, clique em "Meu plano" e depois em "Cancelamento". Selecione o serviço que deseja cancelar.
+   *Aviso:* O caminho é indicado pela Vivo para planos Controle e Pós. Se a opção não aparecer, o cancelamento deve ser concluído pela central.
+3. **Ligue se preferir**: Do seu celular Vivo, ligue para *8486. De qualquer telefone, use 103 15, a Central de Relacionamento Vivo Fixo e Móvel. Para linhas Multivivo ou dependentes, a Vivo indica o 1058. Escolha a opção de cancelar serviços.
+   *Aviso:* O *8486 é exclusivo para cliente Vivo com serviço móvel. O 1058 atende linhas Multivivo e dependentes.
+4. **Recuse o desligamento e as ofertas**: Deixe claro que quer o cancelamento definitivo, não o desligamento temporário nem a troca de plano. Anote o protocolo ao final.
+   *Aviso:* O desligamento parece cancelamento, mas a linha volta sozinha após 120 dias e a cobrança é retomada.
+5. **Guarde a confirmação**: Confirme o protocolo e verifique se o pedido aparece como cancelado no Meu Vivo.
+
+### Fontes Oficiais:
+- [Vivo — Dúvidas e respostas sobre Cancelamento](https://www.vivo.com.br/para-voce/ajuda/duvidas/cancelamento)
+- [Vivo — Dúvidas sobre os planos Vivo Controle (permanência de 12 meses)](https://www.vivo.com.br/para-voce/ajuda/duvidas/celular/vivo-controle)
+- [Vivo — Telefones de atendimento](https://www.vivo.com.br/para-voce/ajuda/mais-ajuda/telefones-de-atendimento)
+
+---
+
+## Como cancelar Wellhub
+- URL Oficial no comcan: https://comcan.adiels.me/guias/wellhub
+- Link Direto de Cancelamento: https://wellhub.com/pt-br/
+- Categoria: fitness
+- Dificuldade: media
+- Canais Viáveis: app
+- Verificado em: 2026-10-25
+- Resumo: Cancele o Wellhub pelo app, em Perfil > Configurações > Conta, e evite a renovação automática do próximo ciclo.
+
+### Alerta de Retenção
+Só o titular pode cancelar: um familiar não consegue encerrar o próprio plano nem o do titular. Um plano com downgrade agendado não pode ser cancelado, e um plano mensal pausado também não. No plano anual há duas saídas: o cancelamento padrão, agendado para o fim dos 12 meses de fidelidade e sem taxa, ou o cancelamento antecipado, que encerra no fim do ciclo atual mediante taxa de 20% sobre os meses restantes, sem reembolso. O cancelamento precisa ser feito com 24 horas de antecedência da data de cobrança; abaixo disso o sistema pode cobrar mais um ciclo. O direito de arrependimento de 7 dias vale apenas para a primeira assinatura, não para renovação, upgrade, downgrade ou reativação.
+
+### Passo a Passo:
+1. **Abra o app Wellhub**: Entre com a conta titular, a mesma que contratou o plano.
+2. **Vá em Perfil > Configurações > Conta**: O ícone de configurações é a engrenagem.
+3. **Em Assinatura, toque em Gerenciar assinatura**: A seção mostra o plano ativo e as opções de gerenciamento.
+4. **Toque em Cancelar Assinatura**: Siga as instruções na tela para concluir a solicitação.
+5. **No plano anual, escolha o tipo**: O cancelamento padrão vale até o fim dos 12 meses, sem taxa. O cancelamento antecipado encerra no fim do ciclo atual, com taxa de 20% sobre os meses restantes e sem reembolso.
+   *Aviso:* Downgrade agendado e plano mensal pausado precisam ser revertidos ou concluídos antes de cancelar.
+6. **Cancele com 24h de antecedência**: Confira a data de cobrança no histórico de pagamentos e faça o cancelamento antes dela.
+   *Aviso:* Se cancelar no dia da renovação ou com menos de 24h, pode ser cobrado mais um ciclo, e o cancelamento passa a valer no fim dele.
+
+### Fontes Oficiais:
+- [Wellhub — Como cancelar o seu plano ou de um familiar?](https://helpcenter.gympass.com/pt-br/articles/como-cancelar-o-seu-plano-ou-de-um-familiar)
+- [Wellhub — Como funciona a assinatura anual?](https://helpcenter.gympass.com/pt-br/articles/como-funciona-a-assinatura-anual)
+- [Wellhub — Por que fui cobrado após cancelar um plano Wellhub?](https://helpcenter.gympass.com/pt-br/articles/por-que-fui-cobrado-apos-cancelar-um-plano-wellhub)
+- [Wellhub — Como funciona a pausa da assinatura?](https://helpcenter.gympass.com/pt-br/articles/6027422346771)
+
+---
+
+## Como cancelar Xbox Game Pass
+- URL Oficial no comcan: https://comcan.adiels.me/guias/xbox-game-pass
+- Link Direto de Cancelamento: https://www.xbox.com/pt-BR/xbox-game-pass
+- Categoria: jogos
+- Dificuldade: media
+- Canais Viáveis: site, chat
+- Verificado em: 2026-10-25
+- Resumo: Cancele o Xbox Game Pass no console ou em account.microsoft.com/services e evite a próxima renovação.
+
+### Alerta de Retenção
+A página oficial separa duas coisas: "Desativar o faturamento recorrente", que interrompe cobranças futuras e mantém os benefícios até a data de vencimento, e "cancelar imediatamente com reembolso". A segunda opção não é garantida, porque nem todas as taxas de assinatura podem ser reembolsadas. O Brasil não está na tabela de reembolso proporcional da Microsoft, que cobre Finlândia, Alemanha (compras desde 01/03/2022), Países Baixos, Polônia, Portugal, Canadá, Dinamarca, França, Israel, Coreia do Sul e Turquia. Saldo em aberto bloqueia o gerenciamento da assinatura.
+
+### Passo a Passo:
+1. **No console, abra Assinaturas**: Pressione o botão Xbox no controle e siga para Perfil e sistema > Configurações > Conta > Assinaturas.
+2. **Selecione o Xbox Game Pass**: Escolha a assinatura que deseja gerenciar.
+   *Aviso:* A tela mostra plano, validade, histórico de cobrança e forma de pagamento; confirme que é a assinatura certa antes de alterar.
+3. **Escolha como encerrar**: A página oficial distingue desativar o faturamento recorrente, que mantém os benefícios até o vencimento, de cancelar imediatamente, que abre um pedido de reembolso.
+   *Aviso:* O Brasil não está na lista de reembolso proporcional; o reembolso imediato depende de análise e não é garantido.
+4. **Ou faça pelo navegador**: Acesse account.microsoft.com/services com a mesma conta Microsoft e selecione a assinatura do Game Pass.
+5. **Confirme e guarde a data de validade**: Depois de desativar a renovação, a assinatura continua ativa até a data mostrada e não há nova cobrança.
+   *Aviso:* Se houver mensalidade vencida, quite o saldo primeiro: assinaturas com pagamento em atraso ficam bloqueadas para gerenciamento.
+
+### Fontes Oficiais:
+- [Suporte do Xbox — Cancelamentos e reembolsos de assinatura do XBOX](https://support.xbox.com/pt-BR/help/subscriptions-billing/manage-subscriptions/cancel-recurring-billing-or-subscription)
+- [Suporte do Xbox — Visualize e gerencie suas assinaturas no XBOX](https://support.xbox.com/pt-BR/help/subscriptions-billing/manage-subscriptions/viewing-and-managing-your-memberships)
+- [Suporte do Xbox — Perguntas frequentes sobre o XBOX Game Pass](https://support.xbox.com/pt-BR/help/subscriptions-billing/manage-subscriptions/xbox-game-pass-faq)
+
+---
+
+## Como cancelar YouTube Premium
+- URL Oficial no comcan: https://comcan.adiels.me/guias/youtube-premium
+- Link Direto de Cancelamento: https://www.youtube.com
+- Categoria: streaming
+- Dificuldade: facil
+- Canais Viáveis: site, app
+- Verificado em: 2026-10-25
+- Resumo: Saiba como cancelar o YouTube Premium pelo computador, Android ou iPhone e continuar assistindo sem anúncios até o final do período vigente.
+
+### Alerta de Retenção
+O YouTube oferece a opção de pausar o pagamento por até 6 meses antes de processar o cancelamento definitivo.
+
+### Passo a Passo:
+1. **Acesse as assinaturas pagas**: Visite youtube.com/paid_memberships no navegador ou abra o app do YouTube, toque na sua foto e vá em "Compras e assinaturas".
+2. **Gerencie a assinatura ativa**: Localize o YouTube Premium e clique em "Gerenciar assinatura".
+3. **Escolha cancelar**: Clique em "Desativar". Se o sistema sugerir pausar o plano, selecione "Continuar para cancelar".
+   *Aviso:* Assinaturas iniciadas em aparelhos Apple precisam ser canceladas nos Ajustes do iOS na aba de assinaturas do ID Apple.
+4. **Confirme a desativação**: Indique um motivo opcional e clique em "Cancelar Premium" para encerrar as cobranças.
+
+### Fontes Oficiais:
+- [Ajuda do YouTube — Cancelar ou pausar uma assinatura paga](https://support.google.com/youtube/answer/6308278)
+

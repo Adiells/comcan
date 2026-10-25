@@ -1,0 +1,49 @@
+# comcan
+
+> Guias passo a passo verificados para cancelar assinaturas, serviços de streaming, planos de celular e contratos sem burocracia, taxas indevidas ou pegadinhas de retenção.
+
+- Website: https://comcan.adiels.me
+- Idioma: Português do Brasil (pt-BR)
+- Licença: Código aberto (MIT)
+- Repositório: https://github.com/Adiells/comcan
+
+## Catálogo de Serviços e Guias de Cancelamento
+
+- [Como cancelar Adobe Creative Cloud](https://comcan.adiels.me/guias/adobe): Cancele a assinatura da Adobe Creative Cloud, entenda a multa do plano anual e evite a renovação automática da próxima cobrança. (Canais: site, chat | Dificuldade: dificil)
+- [Como cancelar Amazon Prime](https://comcan.adiels.me/guias/amazon-prime): Saiba como cancelar a assinatura do Amazon Prime pelo site ou aplicativo, interromper a renovação automática e manter o acesso até o fim do período pago. (Canais: site, app | Dificuldade: media)
+- [Como cancelar Apple One](https://comcan.adiels.me/guias/apple-one): Passo a passo oficial para cancelar o pacote Apple One ou escolher manter serviços individuais pelo iPhone, iPad ou Mac. (Canais: app, site | Dificuldade: facil)
+- [Como cancelar C6 Carbon](https://comcan.adiels.me/guias/c6-carbon): Cancele o cartão C6 Carbon pelo chat ou telefone, cumpra o aviso de 30 dias e entenda a anuidade de R$ 98/mês. (Canais: app, chat, telefone | Dificuldade: dificil)
+- [Como cancelar Canva](https://comcan.adiels.me/guias/canva): Cancele o Canva Pro, Pro+ ou Equipes em Configurações > Faturamento e mantenha seus designs no plano grátis. (Canais: site, app | Dificuldade: media)
+- [Como cancelar ChatGPT Plus](https://comcan.adiels.me/guias/chatgpt-plus): Cancele o ChatGPT Plus em chatgpt.com, em Configurações > Faturamento, e evite a cobrança do próximo mês. (Canais: site | Dificuldade: facil)
+- [Como cancelar Claro Móvel](https://comcan.adiels.me/guias/claro): Cancele sua linha Claro móvel pelo 1052 ou em uma loja e entenda a fidelidade de 12 meses e a multa. (Canais: telefone, presencial, app | Dificuldade: dificil)
+- [Como cancelar Clube iFood](https://comcan.adiels.me/guias/ifood-clube): Aprenda a cancelar a renovação automática do Clube iFood pelo aplicativo e use seus cupons restantes até o vencimento do pacote. (Canais: app | Dificuldade: facil)
+- [Como cancelar Deezer](https://comcan.adiels.me/guias/deezer): Aprenda como cancelar sua assinatura da Deezer pelo navegador ou aplicativo e descubra o que fazer se o plano estiver atrelado à TIM ou terceiros. (Canais: site, app | Dificuldade: facil)
+- [Como cancelar Disney+](https://comcan.adiels.me/guias/disney-plus): Passo a passo para cancelar o plano do Disney+ pelo navegador ou lojas de aplicativos e evitar cobranças automáticas no próximo ciclo. (Canais: site, app | Dificuldade: facil)
+- [Como cancelar Duolingo](https://comcan.adiels.me/guias/duolingo): Cancele o Super Duolingo no site ou pelo app e mantenha o plano até o fim do período já pago. (Canais: site, app | Dificuldade: facil)
+- [Como cancelar Estadão](https://comcan.adiels.me/guias/estadao): Cancele a assinatura do Estadão pelo formulário do Portal do Assinante ou pela central e veja a devolução proporcional. (Canais: site, telefone | Dificuldade: dificil)
+- [Como cancelar Folha de S.Paulo](https://comcan.adiels.me/guias/folha-de-s-paulo): Cancele a assinatura da Folha pelo telefone ou pelo Atendimento Online, em horário comercial limitado, sem multa de cancelamento. (Canais: telefone, chat, site | Dificuldade: dificil)
+- [Como cancelar Globoplay](https://comcan.adiels.me/guias/globoplay): Aprenda a cancelar sua assinatura do Globoplay através da Conta Globo e interrompa renovações automáticas mantendo acesso até o fim do ciclo. (Canais: site | Dificuldade: facil)
+- [Como cancelar LinkedIn Premium](https://comcan.adiels.me/guias/linkedin-premium): Cancele o LinkedIn Premium pelo site (ou app Android) e mantenha o acesso até o fim do ciclo já pago. (Canais: site, app | Dificuldade: media)
+- [Como cancelar Max](https://comcan.adiels.me/guias/max): Veja como cancelar o plano da Max pelo site oficial ou identificar sua operadora de cobrança para suspender a assinatura sem multas. (Canais: site, app | Dificuldade: facil)
+- [Como cancelar Meli+](https://comcan.adiels.me/guias/meli-plus): Veja o passo a passo para cancelar o plano Meli+ no Mercado Livre pelo aplicativo ou navegador sem burocracia ou cobranças indevidas. (Canais: site, app | Dificuldade: facil)
+- [Como cancelar Microsoft 365](https://comcan.adiels.me/guias/microsoft-365): Cancele o Microsoft 365 em account.microsoft.com/services e evite a cobrança do próximo ciclo. (Canais: site, chat | Dificuldade: media)
+- [Como cancelar Netflix](https://comcan.adiels.me/guias/netflix): Cancele a assinatura da Netflix pelo site, encerre o plano no fim do período pago e saiba o que acontece com seus perfis. (Canais: site | Dificuldade: facil)
+- [Como cancelar Nubank Ultravioleta](https://comcan.adiels.me/guias/nubank-ultravioleta): Cancele o Nubank Ultravioleta pelo chat ou telefone, resgate o cashback antes e entenda a cobrança proporcional. (Canais: app, chat, telefone | Dificuldade: media)
+- [Como cancelar O Globo](https://comcan.adiels.me/guias/o-globo): Cancele a assinatura digital de O Globo pela Central de Atendimento, quite parcelas em aberto e evite a renovação automática. (Canais: telefone, chat, site | Dificuldade: dificil)
+- [Como cancelar Paramount+](https://comcan.adiels.me/guias/paramount-plus): Veja como cancelar a assinatura do Paramount+ pelo navegador, lojas de aplicativos ou canais parceiros como Prime Video sem burocracia. (Canais: site, app | Dificuldade: facil)
+- [Como cancelar PlayStation Plus](https://comcan.adiels.me/guias/playstation-plus): Cancele o PlayStation Plus pelo site, PS5, PS4 ou PS App e use os benefícios até a próxima data de pagamento. (Canais: site, app | Dificuldade: facil)
+- [Como cancelar Sem Parar](https://comcan.adiels.me/guias/sem-parar): Cancele o Sem Parar pela central de relacionamento com CPF e placa; não há fidelidade nem multa. (Canais: telefone, site | Dificuldade: media)
+- [Como cancelar Serasa Premium](https://comcan.adiels.me/guias/serasa-premium): Cancele o Serasa Premium sozinho na área do plano e veja quando o reembolso de 7 dias se aplica. (Canais: site, telefone | Dificuldade: facil)
+- [Como cancelar Smart Fit](https://comcan.adiels.me/guias/smart-fit): Cancele o plano Smart Fit na recepção de qualquer unidade ou pelo Fale Conosco e cumpra o aviso prévio. (Canais: presencial, site | Dificuldade: dificil)
+- [Como cancelar Spotify Premium](https://comcan.adiels.me/guias/spotify): Cancele o Spotify Premium sem perder a conta: o plano volta para o gratuito com anúncios e o acesso pago dura até o fim do período. (Canais: site | Dificuldade: facil)
+- [Como cancelar TIM](https://comcan.adiels.me/guias/tim): Cancele a linha TIM pelo app Meu TIM ou pelo site, ou ainda por *144, 1056, SMS, WhatsApp e loja. Veja prazos e multa. (Canais: app, site, telefone, chat, presencial | Dificuldade: media)
+- [Como cancelar Tinder](https://comcan.adiels.me/guias/tinder): Cancele o Tinder Plus, Gold, Platinum ou Select pelo app, pela loja ou em tinder.com e evite a renovação. (Canais: site, app | Dificuldade: media)
+- [Como cancelar Vivo Móvel](https://comcan.adiels.me/guias/vivo): Cancele a linha Vivo pelo Meu Vivo, em Meu plano > Cancelamento, ou pelos telefones *8486 e 103 15, atento à fidelidade. (Canais: site, app, telefone | Dificuldade: media)
+- [Como cancelar Wellhub](https://comcan.adiels.me/guias/wellhub): Cancele o Wellhub pelo app, em Perfil > Configurações > Conta, e evite a renovação automática do próximo ciclo. (Canais: app | Dificuldade: media)
+- [Como cancelar Xbox Game Pass](https://comcan.adiels.me/guias/xbox-game-pass): Cancele o Xbox Game Pass no console ou em account.microsoft.com/services e evite a próxima renovação. (Canais: site, chat | Dificuldade: media)
+- [Como cancelar YouTube Premium](https://comcan.adiels.me/guias/youtube-premium): Saiba como cancelar o YouTube Premium pelo computador, Android ou iPhone e continuar assistindo sem anúncios até o final do período vigente. (Canais: site, app | Dificuldade: facil)
+
+## Links Opcionais
+
+- [Catálogo Geral](https://comcan.adiels.me/guias): Lista com todos os 33 serviços documentados.
+- [Repositório GitHub](https://github.com/Adiells/comcan): Código-fonte e contribuição de novos guias.
