@@ -1,0 +1,69 @@
+{
+  "slug": "microsoft-365",
+  "nome": "Microsoft 365",
+  "categoria": "software",
+  "resumo": "Cancele o Microsoft 365 em account.microsoft.com/services e evite a cobrança do próximo ciclo.",
+  "siteUrl": "https://www.microsoft.com/pt-br/microsoft-365",
+  "dificuldade": "media",
+  "canais": ["site", "chat"],
+  "retencao": "A página de cancelamento abre com a seção \"Por favor, revise\", que pode listar detalhes de assinaturas alternativas, que podem ser mais baratas. No rodapé, o usuário escolhe entre \"Quero manter meus benefícios\" e \"Não quero minha assinatura\", e a Microsoft sugere trocar de plano em vez de cancelar. O reembolso não é automático: a própria Microsoft avisa que nem todos os cancelamentos resultarão em reembolso, por isso é preciso cancelar primeiro para verificar a elegibilidade.",
+  "requisitos": [
+    "Conta Microsoft usada na compra da assinatura",
+    "Saber onde a assinatura foi comprada: Microsoft, Google Play, App Store ou revendedor"
+  ],
+  "passos": [
+    {
+      "titulo": "Acesse Serviços e assinaturas",
+      "detalhe": "Abra account.microsoft.com/services/microsoft365 e entre com a mesma conta Microsoft usada na compra. A página lista as assinaturas vinculadas à conta.",
+      "aviso": "Compras feitas no Google Play, na App Store ou em revendedor terceirizado (por exemplo, a Amazon) são canceladas nesses canais, não na Microsoft."
+    },
+    {
+      "titulo": "Selecione Cancelar assinatura",
+      "detalhe": "Localize a assinatura do Microsoft 365 e abra as opções de gerenciamento. O botão pode aparecer como \"Atualizar ou Cancelar\".",
+      "aviso": "Se aparecer \"Ativar cobrança recorrente\" em vez da opção de cancelar, a assinatura já está marcada para expirar na data mostrada e não haverá nova cobrança: não é preciso fazer nada."
+    },
+    {
+      "titulo": "Revise a oferta de retenção",
+      "detalhe": "Leia a seção \"Por favor, revise\", no topo da página, onde ficam os planos alternativos oferecidos no lugar do cancelamento."
+    },
+    {
+      "titulo": "Confirme o cancelamento",
+      "detalhe": "No fim da página, escolha \"Não quero minha assinatura\" para concluir. A opção \"Quero manter meus benefícios\" mantém a assinatura como está."
+    },
+    {
+      "titulo": "Cancele com mais de 2 dias de antecedência",
+      "detalhe": "A Microsoft orienta que o cancelamento seja feito mais de 2 dias antes da data de cobrança para evitar o próximo ciclo.",
+      "aviso": "Dívida em aberto nas formas de pagamento impede o cancelamento até a quitação."
+    }
+  ],
+  "aposCancelar": [
+    "O acesso aos aplicativos e ao armazenamento pago continua até o fim do período já pago.",
+    "A cota volta a 5 GB no OneDrive e a 15 GB no Outlook.com; acima disso não é possível enviar ou receber e-mails nem sincronizar novos arquivos.",
+    "A Microsoft pode excluir o OneDrive e os arquivos 6 meses após o fim da assinatura, então faça backup antes.",
+    "No Microsoft 365 Família ou Premium, quem compartilha a assinatura também perde a cota extra.",
+    "O cancelamento não garante reembolso: é preciso cancelar antes para verificar a elegibilidade."
+  ],
+  "alternativas": [
+    {
+      "nome": "Microsoft 365 Básico",
+      "url": "https://www.microsoft.com/pt-br/microsoft-365/basic",
+      "motivo": "Plano de entrada mais barato, com apps para web e celular e armazenamento em nuvem; confira os recursos na página oficial."
+    },
+    {
+      "nome": "Apps web gratuitos",
+      "url": "https://www.microsoft.com/pt-br/microsoft-365/free-office-online-for-the-web",
+      "motivo": "Word, Excel e PowerPoint no navegador sem assinatura."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Suporte da Microsoft — Cancelar uma assinatura do Microsoft 365",
+      "url": "https://support.microsoft.com/pt-br/accounts-billing/subscriptions/cancel-a-microsoft-365-subscription"
+    },
+    {
+      "titulo": "Suporte da Microsoft — Não é possível cancelar sua assinatura da Microsoft",
+      "url": "https://support.microsoft.com/pt-br/accounts-billing/subscriptions/unable-to-cancel-your-microsoft-subscription"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

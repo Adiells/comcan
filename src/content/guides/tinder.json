@@ -1,0 +1,78 @@
+{
+  "slug": "tinder",
+  "nome": "Tinder",
+  "categoria": "outros",
+  "resumo": "Cancele o Tinder Plus, Gold, Platinum ou Select pelo app, pela loja ou em tinder.com e evite a renovação.",
+  "siteUrl": "https://tinder.com/",
+  "dificuldade": "media",
+  "canais": ["site", "app"],
+  "retencao": "Desinstalar ou excluir o app não cancela a assinatura, que fica associada a uma única conta Tinder por vez e renova automaticamente até ser cancelada. Assinaturas não migram entre plataformas: quem trocou de aparelho, por exemplo de iOS para Android, precisa cancelar no aparelho antigo. A Apple e o Google cuidam dos próprios reembolsos; o Tinder só atende pedidos de TNDR ou COSU, de cartão, PayPal ou Google CC, feitos nos últimos 14 dias, com o mesmo e-mail da compra e o número do pedido. Compras de terceiros, fora do app ou do tinder.com, devem ser canceladas e reembolsadas pelo próprio comerciante.",
+  "requisitos": [
+    "Saber o prefixo do número do pedido: MK, GPA, TNDR ou COSU",
+    "Login na conta Tinder e/ou na conta da loja usada na compra",
+    "Acesso ao aparelho antigo, se você trocou de plataforma"
+  ],
+  "passos": [
+    {
+      "titulo": "Descubra o prefixo do seu pedido",
+      "detalhe": "MK indica Apple, GPA indica Google Play, TNDR indica tinder.com ou cartão no Android, e COSU indica consumível."
+    },
+    {
+      "titulo": "iOS: Ajustes > seu nome > Assinaturas",
+      "detalhe": "Selecione a assinatura do Tinder e toque em Cancelar Assinatura."
+    },
+    {
+      "titulo": "Android pela Google Play",
+      "detalhe": "No app Google Play, abra o ícone do perfil > Pagamentos e assinaturas > Assinaturas, selecione o Tinder e toque em Cancelar Assinatura."
+    },
+    {
+      "titulo": "Android com cartão ou PayPal",
+      "detalhe": "No app do Tinder, abra o ícone do perfil > Gerenciar conta de pagamento, selecione a assinatura e toque em Cancelar Assinatura."
+    },
+    {
+      "titulo": "Tinder.com",
+      "detalhe": "Acesse tinder.com, abra o ícone do perfil > Gerenciar conta de pagamento, selecione a assinatura e toque em Cancelar Assinatura.",
+      "aviso": "Se você trocou de celular, cancele no aparelho antigo; a assinatura não é transferida entre plataformas."
+    },
+    {
+      "titulo": "Reembolso, se aplicável",
+      "detalhe": "Para pedidos TNDR ou COSU dos últimos 14 dias, abra uma solicitação em help.tinder.com/hc/pt-br/requests/new com o mesmo e-mail da compra e o número do pedido.",
+      "aviso": "Compras feitas pela Apple ou pelo Google devem ser reembolsadas diretamente nessas plataformas."
+    }
+  ],
+  "aposCancelar": [
+    "O cancelamento interrompe a renovação automática e evita as cobranças futuras.",
+    "Não há reembolso automático: Apple e Google decidem os pedidos das compras feitas nas lojas.",
+    "O Tinder analisa pedidos de reembolso de TNDR e COSU feitos nos últimos 14 dias, com o e-mail e o número do pedido.",
+    "Desinstalar o app ou excluir a conta não cancela a assinatura.",
+    "É possível assinar novamente depois, na mesma conta ou em outra plataforma."
+  ],
+  "alternativas": [
+    {
+      "nome": "Tinder gratuito",
+      "url": "https://tinder.com/",
+      "motivo": "Mantém o uso básico sem assinatura."
+    },
+    {
+      "nome": "Comparar planos (Plus, Gold, Platinum e Select)",
+      "url": "https://tinder.com/feature/subscription-tiers",
+      "motivo": "Permite escolher um nível diferente em vez de encerrar a assinatura."
+    },
+    {
+      "nome": "Central de ajuda do Tinder",
+      "url": "https://www.help.tinder.com/hc/pt-br",
+      "motivo": "Reúne artigos de cobrança, reembolso e conta."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Tinder — Cancelar sua assinatura",
+      "url": "https://www.help.tinder.com/hc/pt-br/articles/115003554466"
+    },
+    {
+      "titulo": "Tinder — Pedidos de reembolso",
+      "url": "https://www.help.tinder.com/hc/pt-br/articles/115003521343"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

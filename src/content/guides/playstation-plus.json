@@ -1,0 +1,75 @@
+{
+  "slug": "playstation-plus",
+  "nome": "PlayStation Plus",
+  "categoria": "jogos",
+  "resumo": "Cancele o PlayStation Plus pelo site, PS5, PS4 ou PS App e use os benefícios até a próxima data de pagamento.",
+  "siteUrl": "https://www.playstation.com/pt-br/ps-plus/",
+  "dificuldade": "facil",
+  "canais": ["site", "app"],
+  "retencao": "A mesma tela de assinatura oferece \"Alterar plano\" (Essencial, Extra ou Deluxe) e \"Reativar assinatura\" para quem acabou de cancelar, com reativação válida até a data do próximo pagamento. O cancelamento não devolve o valor do período em curso: a assinatura será desativada a partir da data do próximo pagamento, e um eventual reembolso é um pedido separado, pela política da PS Store. No downgrade de nível, a troca só vale na próxima data de pagamento e o usuário perde os benefícios exclusivos do plano anterior.",
+  "requisitos": [
+    "Login na conta PlayStation Network",
+    "Acesso à web, ao console PS5 ou PS4, ou ao PS App",
+    "Saber a data do próximo pagamento da assinatura"
+  ],
+  "passos": [
+    {
+      "titulo": "Pelo navegador, abra Gerenciamento da conta",
+      "detalhe": "Acesse playstation.com/acct/management e entre com a conta PlayStation Network."
+    },
+    {
+      "titulo": "Selecione Assinatura",
+      "detalhe": "No menu à esquerda da tela, abra a seção \"Assinatura\"."
+    },
+    {
+      "titulo": "Selecione Cancelar assinatura",
+      "detalhe": "Escolha a opção \"Cancelar assinatura\" ao lado de PlayStation Plus e confirme."
+    },
+    {
+      "titulo": "Ou cancele no PS5",
+      "detalhe": "No console, abra Configurações > Usuários e contas > Conta > Pagamento e assinaturas > Assinaturas > PlayStation Plus > Cancelar assinatura."
+    },
+    {
+      "titulo": "Ou cancele no PS4",
+      "detalhe": "No console, abra PlayStation Plus > Gerenciar assinatura > Assinatura > Cancelar assinatura."
+    },
+    {
+      "titulo": "Ou cancele no PS App",
+      "detalhe": "Toque no ícone PlayStation Store na parte inferior, abra o ícone de menu no canto superior direito, entre em Gerenciamento de assinaturas e escolha Cancelar.",
+      "aviso": "Cancele antes da data do próximo pagamento: a assinatura só é desativada a partir dela."
+    }
+  ],
+  "aposCancelar": [
+    "Você mantém todos os benefícios até o fim do período já pago.",
+    "Depois disso, perde os jogos mensais, o armazenamento online e o modo multijogador online.",
+    "Os jogos mensais baixados deixam de ficar disponíveis; pacotes e avatares resgatados e compras feitas com desconto continuam sendo seus.",
+    "É possível reativar a assinatura antes da data do próximo pagamento."
+  ],
+  "alternativas": [
+    {
+      "nome": "PlayStation Plus Essencial",
+      "url": "https://www.playstation.com/pt-br/ps-plus/",
+      "motivo": "Plano mais barato, mantém o multijogador online e os jogos mensais."
+    },
+    {
+      "nome": "Alterar plano (downgrade)",
+      "url": "https://www.playstation.com/pt-br/support/subscriptions/change-ps-plus/",
+      "motivo": "Troca para um nível inferior sem encerrar a assinatura; a mudança passa a valer na próxima data de pagamento."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Suporte do PlayStation — Cancelar o PlayStation Plus",
+      "url": "https://www.playstation.com/pt-br/support/subscriptions/cancel-playstation-plus/"
+    },
+    {
+      "titulo": "Suporte do PlayStation — Como gerenciar suas assinaturas no PlayStation",
+      "url": "https://www.playstation.com/pt-br/support/store/cancel-ps-store-subscription/"
+    },
+    {
+      "titulo": "Suporte do PlayStation — Alterar a assinatura do PlayStation Plus",
+      "url": "https://www.playstation.com/pt-br/support/subscriptions/change-ps-plus/"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "chatgpt-plus",
+  "nome": "ChatGPT Plus",
+  "categoria": "software",
+  "resumo": "Cancele o ChatGPT Plus em chatgpt.com, em Configurações > Faturamento, e evite a cobrança do próximo mês.",
+  "siteUrl": "https://chatgpt.com/",
+  "dificuldade": "facil",
+  "canais": ["site"],
+  "retencao": "Desinstalar o app não cancela a assinatura. Excluir a conta do ChatGPT cancela apenas as assinaturas cobradas diretamente pelo ChatGPT e não cancela as assinaturas da App Store. Não há reembolso automático: o cancelamento interrompe renovações, mas não devolve valores já cobrados. A OpenAI orienta cancelar com pelo menos 24 horas de antecedência da próxima cobrança, porque abaixo disso a cobrança pode já ter sido processada. Uma assinatura comprada em chatgpt.com não aparece nas assinaturas da Apple ou do Google Play, e vice-versa, e cobranças duplicadas podem indicar mais de uma conta. Assinaturas ChatGPT Business self-service são canceladas nas Configurações do ambiente de trabalho seguro, não no fluxo pessoal.",
+  "requisitos": [
+    "Login na conta OpenAI usada na compra",
+    "Saber onde a assinatura foi comprada: chatgpt.com, Apple App Store ou Google Play",
+    "Para o Business: acesso de administrador ao workspace"
+  ],
+  "passos": [
+    {
+      "titulo": "Identifique onde a assinatura foi comprada",
+      "detalhe": "Confira o recibo para saber se a cobrança veio de chatgpt.com, da Apple ou do Google Play."
+    },
+    {
+      "titulo": "Abra chatgpt.com e faça login",
+      "detalhe": "Entre na conta vinculada à cobrança."
+    },
+    {
+      "titulo": "Abra o menu da conta e selecione Configurações",
+      "detalhe": "No chatgpt.com, abra o menu da sua conta e selecione Configurações."
+    },
+    {
+      "titulo": "Selecione Faturamento",
+      "detalhe": "Em \"Cancelar plano\", selecione \"Cancelar\" para concluir o encerramento."
+    },
+    {
+      "titulo": "Se a compra foi na Apple",
+      "detalhe": "Abra Ajustes > seu nome > Assinaturas, selecione a assinatura do ChatGPT e toque em Cancelar Assinatura."
+    },
+    {
+      "titulo": "Se a compra foi no Google Play",
+      "detalhe": "No app Google Play, abra o ícone do perfil > Pagamentos e assinaturas > Assinaturas, selecione a assinatura e toque em Cancelar assinatura; ou acesse play.google.com/store/account/subscriptions.",
+      "aviso": "Se a opção \"Cancelar assinatura\" não aparecer e houver uma data de expiração, a assinatura pode já estar cancelada."
+    },
+    {
+      "titulo": "Cancele com 24h de antecedência",
+      "detalhe": "Faça o cancelamento antes da data de renovação para evitar a cobrança do próximo período.",
+      "aviso": "Desinstalar o app ou excluir a conta não cancela a assinatura da Apple; cancele na loja antes de excluir a conta."
+    }
+  ],
+  "aposCancelar": [
+    "Os recursos pagos continuam disponíveis até o fim do período de faturamento atual.",
+    "Se um reembolso for concedido, o acesso coberto pelo valor reembolsado normalmente termina mais cedo.",
+    "Não há reembolso automático dos valores já cobrados; a elegibilidade depende da compra e da localização.",
+    "É possível assinar novamente depois.",
+    "Excluir a conta cancela assinaturas cobradas diretamente pelo ChatGPT, mas não as da App Store."
+  ],
+  "alternativas": [
+    {
+      "nome": "ChatGPT gratuito",
+      "url": "https://chatgpt.com/",
+      "motivo": "Mantém o uso básico sem mensalidade."
+    },
+    {
+      "nome": "Comparar planos do ChatGPT",
+      "url": "https://chatgpt.com/pricing",
+      "motivo": "Mostra os planos disponíveis e os recursos de cada um."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "OpenAI — Cancelando sua assinatura do ChatGPT",
+      "url": "https://help.openai.com/pt-br/articles/7232927-canceling-your-chatgpt-subscription"
+    },
+    {
+      "titulo": "OpenAI — Como solicito um reembolso da minha assinatura do ChatGPT?",
+      "url": "https://help.openai.com/pt-br/articles/7232895"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "xbox-game-pass",
+  "nome": "Xbox Game Pass",
+  "categoria": "jogos",
+  "resumo": "Cancele o Xbox Game Pass no console ou em account.microsoft.com/services e evite a próxima renovação.",
+  "siteUrl": "https://www.xbox.com/pt-BR/xbox-game-pass",
+  "dificuldade": "media",
+  "canais": ["site", "chat"],
+  "retencao": "A página oficial separa duas coisas: \"Desativar o faturamento recorrente\", que interrompe cobranças futuras e mantém os benefícios até a data de vencimento, e \"cancelar imediatamente com reembolso\". A segunda opção não é garantida, porque nem todas as taxas de assinatura podem ser reembolsadas. O Brasil não está na tabela de reembolso proporcional da Microsoft, que cobre Finlândia, Alemanha (compras desde 01/03/2022), Países Baixos, Polônia, Portugal, Canadá, Dinamarca, França, Israel, Coreia do Sul e Turquia. Saldo em aberto bloqueia o gerenciamento da assinatura.",
+  "requisitos": [
+    "Conta Microsoft usada na compra",
+    "Acesso a um console Xbox ou a um navegador",
+    "Saber a data de vencimento ou de cobrança da assinatura"
+  ],
+  "passos": [
+    {
+      "titulo": "No console, abra Assinaturas",
+      "detalhe": "Pressione o botão Xbox no controle e siga para Perfil e sistema > Configurações > Conta > Assinaturas."
+    },
+    {
+      "titulo": "Selecione o Xbox Game Pass",
+      "detalhe": "Escolha a assinatura que deseja gerenciar.",
+      "aviso": "A tela mostra plano, validade, histórico de cobrança e forma de pagamento; confirme que é a assinatura certa antes de alterar."
+    },
+    {
+      "titulo": "Escolha como encerrar",
+      "detalhe": "A página oficial distingue desativar o faturamento recorrente, que mantém os benefícios até o vencimento, de cancelar imediatamente, que abre um pedido de reembolso.",
+      "aviso": "O Brasil não está na lista de reembolso proporcional; o reembolso imediato depende de análise e não é garantido."
+    },
+    {
+      "titulo": "Ou faça pelo navegador",
+      "detalhe": "Acesse account.microsoft.com/services com a mesma conta Microsoft e selecione a assinatura do Game Pass."
+    },
+    {
+      "titulo": "Confirme e guarde a data de validade",
+      "detalhe": "Depois de desativar a renovação, a assinatura continua ativa até a data mostrada e não há nova cobrança.",
+      "aviso": "Se houver mensalidade vencida, quite o saldo primeiro: assinaturas com pagamento em atraso ficam bloqueadas para gerenciamento."
+    }
+  ],
+  "aposCancelar": [
+    "Com a cobrança recorrente desativada, você mantém o acesso ao catálogo e aos benefícios até a data de vencimento e não é cobrado de novo.",
+    "No cancelamento imediato com reembolso, o acesso termina antes; o reembolso só ocorre se a solicitação for elegível.",
+    "Ao fim do período, o acesso ao catálogo do Game Pass e aos benefícios do plano é encerrado.",
+    "É possível assinar novamente depois, sujeito aos preços e planos vigentes."
+  ],
+  "alternativas": [
+    {
+      "nome": "Comparar os planos Essential, Premium e Ultimate",
+      "url": "https://www.xbox.com/pt-BR/xbox-game-pass",
+      "motivo": "Permite escolher um nível mais barato em vez de encerrar a conta."
+    },
+    {
+      "nome": "Central de assinaturas da Microsoft",
+      "url": "https://account.microsoft.com/services",
+      "motivo": "Mostra todas as assinaturas e as datas de renovação."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Suporte do Xbox — Cancelamentos e reembolsos de assinatura do XBOX",
+      "url": "https://support.xbox.com/pt-BR/help/subscriptions-billing/manage-subscriptions/cancel-recurring-billing-or-subscription"
+    },
+    {
+      "titulo": "Suporte do Xbox — Visualize e gerencie suas assinaturas no XBOX",
+      "url": "https://support.xbox.com/pt-BR/help/subscriptions-billing/manage-subscriptions/viewing-and-managing-your-memberships"
+    },
+    {
+      "titulo": "Suporte do Xbox — Perguntas frequentes sobre o XBOX Game Pass",
+      "url": "https://support.xbox.com/pt-BR/help/subscriptions-billing/manage-subscriptions/xbox-game-pass-faq"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

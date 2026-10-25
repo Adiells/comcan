@@ -1,0 +1,91 @@
+{
+  "slug": "smart-fit",
+  "nome": "Smart Fit",
+  "categoria": "fitness",
+  "resumo": "Cancele o plano Smart Fit na recepção de qualquer unidade ou pelo Fale Conosco e cumpra o aviso prévio.",
+  "siteUrl": "https://www.smartfit.com.br/",
+  "dificuldade": "dificil",
+  "canais": ["presencial", "site"],
+  "retencao": "Não existe botão de cancelar no app ou no site: a Central de Ajuda oficial oferece apenas a recepção de qualquer unidade e o formulário Fale Conosco. Os planos Fit e Black têm fidelidade de 12 meses, e o cancelamento antes do prazo gera multa de 20% sobre as mensalidades restantes. Planos promocionais têm permanência mínima de 3 meses e, se você sair antes, paga a diferença da promoção. Há aviso prévio de 30 dias, ou 20 dias no Rio de Janeiro, com cálculo pró-rata pelos dias usados. O descancelamento só vale até a data de expiração, e valores pagos no cancelamento viram crédito, que expira se você cancelar de novo antes de usá-lo. Trancamento é restrito a motivo médico com atestado e não é retroativo.",
+  "requisitos": [
+    "Ser o titular do plano, com o CPF do contrato",
+    "Ir a uma unidade ou usar o Fale Conosco",
+    "Saber o plano contratado (Smart, Fit ou Black) e a data de início",
+    "Atestado médico, apenas se a intenção for trancar"
+  ],
+  "passos": [
+    {
+      "titulo": "Descubra seu plano e a data de início",
+      "detalhe": "O plano Smart não tem fidelidade; os planos Fit e Black têm 12 meses; promoções têm permanência mínima de 3 meses."
+    },
+    {
+      "titulo": "Vá à recepção de qualquer unidade",
+      "detalhe": "É o canal presencial indicado oficialmente. Peça o cancelamento ao atendimento da unidade."
+    },
+    {
+      "titulo": "Ou abra o Fale Conosco",
+      "detalhe": "Acesse smartfit.com.br/fale-conosco e registre a solicitação de cancelamento.",
+      "aviso": "A Central de Ajuda não oferece cancelamento por botão no app ou no site; desistir do app não encerra o contrato."
+    },
+    {
+      "titulo": "Cumpra o aviso prévio",
+      "detalhe": "São 30 dias, ou 20 dias no Rio de Janeiro. Você pode treinar até a data de expiração, com cobrança proporcional aos dias usados (pró-rata)."
+    },
+    {
+      "titulo": "Confira multa e ajuste",
+      "detalhe": "Nos planos Fit e Black, sair antes de 12 meses gera multa de 20% sobre as mensalidades restantes. Em promoção, sair antes de 3 meses cobra a diferença da promoção.",
+      "aviso": "O valor pago no cancelamento vira crédito para mensalidades futuras, não reembolso em dinheiro; se cancelar de novo, o crédito restante expira."
+    },
+    {
+      "titulo": "Guarde o protocolo do atendimento",
+      "detalhe": "Anote a data, o valor cobrado e a data de expiração informados pela Smart Fit."
+    }
+  ],
+  "aposCancelar": [
+    "O acesso continua até a data de expiração do aviso prévio; depois, o plano é encerrado.",
+    "Multa e pró-rata pagos podem gerar crédito, e o crédito não usado expira em um novo cancelamento.",
+    "Débitos pendentes continuam sendo cobrados mesmo após o cancelamento automático por atraso.",
+    "Antes da expiração é possível fazer o descancelamento e retomar o mesmo plano, preço e fidelidade; depois, é preciso um novo contrato.",
+    "O trancamento continua restrito a motivo médico com atestado."
+  ],
+  "alternativas": [
+    {
+      "nome": "Plano Smart (sem fidelidade)",
+      "url": "https://ajuda.smartfit.com.br/hc/pt-br/articles/360051873731-O-que-%C3%A9-o-plano-Smart",
+      "motivo": "Plano básico, sem a fidelidade de 12 meses dos planos Fit e Black."
+    },
+    {
+      "nome": "Trancamento por motivo médico",
+      "url": "https://ajuda.smartfit.com.br/hc/pt-br/articles/360051873831-Posso-trancar-o-meu-plano",
+      "motivo": "Suspensão do plano mediante atestado, sem caráter retroativo."
+    },
+    {
+      "nome": "Descancelamento",
+      "url": "https://ajuda.smartfit.com.br/hc/pt-br/articles/360051398372-Como-funciona-o-descancelamento",
+      "motivo": "Reverte o cancelamento antes da expiração, mantendo preço e fidelidade."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Smart Fit — Como cancelar meu plano?",
+      "url": "https://ajuda.smartfit.com.br/hc/pt-br/articles/360051874111-Como-cancelar-meu-plano"
+    },
+    {
+      "titulo": "Smart Fit — Como funciona o descancelamento?",
+      "url": "https://ajuda.smartfit.com.br/hc/pt-br/articles/360051398372-Como-funciona-o-descancelamento"
+    },
+    {
+      "titulo": "Smart Fit — Posso trancar o meu plano?",
+      "url": "https://ajuda.smartfit.com.br/hc/pt-br/articles/360051873831-Posso-trancar-o-meu-plano"
+    },
+    {
+      "titulo": "Smart Fit — O que é cancelamento automático?",
+      "url": "https://ajuda.smartfit.com.br/hc/pt-br/articles/360051874071-O-que-%C3%A9-cancelamento-autom%C3%A1tico"
+    },
+    {
+      "titulo": "Smart Fit — O que é o plano Smart?",
+      "url": "https://ajuda.smartfit.com.br/hc/pt-br/articles/360051873731-O-que-%C3%A9-o-plano-Smart"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

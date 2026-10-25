@@ -1,0 +1,71 @@
+{
+  "slug": "duolingo",
+  "nome": "Duolingo",
+  "categoria": "software",
+  "resumo": "Cancele o Super Duolingo no site ou pelo app e mantenha o plano até o fim do período já pago.",
+  "siteUrl": "https://pt.duolingo.com/",
+  "dificuldade": "facil",
+  "canais": ["site", "app"],
+  "retencao": "A própria Duolingo avisa que apagar o aplicativo ou a conta não cancela a assinatura: quem só desinstala continua sendo cobrado. Não há reembolso retroativo nem devolução proporcional pela data do cancelamento. O acesso continua até o fim do período pago e a assinatura pode ser reativada quando quiser. Assinaturas compradas em loja exigem confirmação na Google Play Store, na App Store ou no Alipay.",
+  "requisitos": [
+    "Login na conta Duolingo",
+    "Saber por onde a assinatura foi feita: site, app iOS, app Android ou configurações do telefone"
+  ],
+  "passos": [
+    {
+      "titulo": "Identifique por onde a assinatura foi feita",
+      "detalhe": "O caminho muda conforme o canal usado na compra: site, app ou loja de aplicativos.",
+      "aviso": "Apagar o app ou a conta não cancela a cobrança."
+    },
+    {
+      "titulo": "No navegador, abra Configurações",
+      "detalhe": "Na página inicial do site, clique na imagem de perfil e escolha Configurações (pt.duolingo.com/settings)."
+    },
+    {
+      "titulo": "Entre em Super Duolingo",
+      "detalhe": "Abra a página do Super Duolingo nas configurações (pt.duolingo.com/settings/super) para ver a assinatura ativa."
+    },
+    {
+      "titulo": "Clique em Cancelar assinatura",
+      "detalhe": "Selecione \"Cancelar assinatura\" e confirme a operação na tela seguinte."
+    },
+    {
+      "titulo": "No app, use Gerenciar assinatura",
+      "detalhe": "Toque no ícone do Super no topo da página inicial, abra Configurações (engrenagem), escolha \"Gerenciar assinatura\" e depois \"Cancelar assinatura\"."
+    },
+    {
+      "titulo": "Confirme na loja",
+      "detalhe": "A etapa final é na Google Play Store, na App Store ou no Alipay, conforme o canal da compra.",
+      "aviso": "No Android com assinatura feita pelas configurações do telefone, é preciso abrir uma solicitação de suporte; no iOS, siga as instruções da Apple."
+    }
+  ],
+  "aposCancelar": [
+    "A ofensiva e o progresso de aprendizado não são afetados.",
+    "Os recursos do Super Duolingo continuam até o fim do período da assinatura; depois, não há mais cobranças automáticas.",
+    "Não há reembolso retroativo nem proporcional.",
+    "A assinatura pode ser reativada quando quiser."
+  ],
+  "alternativas": [
+    {
+      "nome": "Duolingo grátis",
+      "url": "https://pt.duolingo.com/",
+      "motivo": "Mantém as lições e o progresso, com anúncios e vidas limitadas."
+    },
+    {
+      "nome": "Duolingo Max",
+      "url": "https://pt.duolingo.com/help/what-is-duolingo-max",
+      "motivo": "Inclui os benefícios do Super e recursos de IA; só pode ser assinado nos apps Android e iOS, não no navegador."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Duolingo — Como cancelo a minha assinatura do Super Duolingo?",
+      "url": "https://pt.duolingo.com/help/cancel-my-super-duolingo-subscription"
+    },
+    {
+      "titulo": "Duolingo — Como faço para pedir um reembolso?",
+      "url": "https://pt.duolingo.com/help/how-do-I-request-a-refund"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

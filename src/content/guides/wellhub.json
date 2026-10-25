@@ -1,0 +1,87 @@
+{
+  "slug": "wellhub",
+  "nome": "Wellhub",
+  "categoria": "fitness",
+  "resumo": "Cancele o Wellhub pelo app, em Perfil > Configurações > Conta, e evite a renovação automática do próximo ciclo.",
+  "siteUrl": "https://wellhub.com/pt-br/",
+  "dificuldade": "media",
+  "canais": ["app"],
+  "retencao": "Só o titular pode cancelar: um familiar não consegue encerrar o próprio plano nem o do titular. Um plano com downgrade agendado não pode ser cancelado, e um plano mensal pausado também não. No plano anual há duas saídas: o cancelamento padrão, agendado para o fim dos 12 meses de fidelidade e sem taxa, ou o cancelamento antecipado, que encerra no fim do ciclo atual mediante taxa de 20% sobre os meses restantes, sem reembolso. O cancelamento precisa ser feito com 24 horas de antecedência da data de cobrança; abaixo disso o sistema pode cobrar mais um ciclo. O direito de arrependimento de 7 dias vale apenas para a primeira assinatura, não para renovação, upgrade, downgrade ou reativação.",
+  "requisitos": [
+    "Ser o titular da conta",
+    "App Wellhub instalado e atualizado",
+    "Saber a data de cobrança, em Perfil > Configurações > Conta > Pagamentos > Histórico de pagamentos"
+  ],
+  "passos": [
+    {
+      "titulo": "Abra o app Wellhub",
+      "detalhe": "Entre com a conta titular, a mesma que contratou o plano."
+    },
+    {
+      "titulo": "Vá em Perfil > Configurações > Conta",
+      "detalhe": "O ícone de configurações é a engrenagem."
+    },
+    {
+      "titulo": "Em Assinatura, toque em Gerenciar assinatura",
+      "detalhe": "A seção mostra o plano ativo e as opções de gerenciamento."
+    },
+    {
+      "titulo": "Toque em Cancelar Assinatura",
+      "detalhe": "Siga as instruções na tela para concluir a solicitação."
+    },
+    {
+      "titulo": "No plano anual, escolha o tipo",
+      "detalhe": "O cancelamento padrão vale até o fim dos 12 meses, sem taxa. O cancelamento antecipado encerra no fim do ciclo atual, com taxa de 20% sobre os meses restantes e sem reembolso.",
+      "aviso": "Downgrade agendado e plano mensal pausado precisam ser revertidos ou concluídos antes de cancelar."
+    },
+    {
+      "titulo": "Cancele com 24h de antecedência",
+      "detalhe": "Confira a data de cobrança no histórico de pagamentos e faça o cancelamento antes dela.",
+      "aviso": "Se cancelar no dia da renovação ou com menos de 24h, pode ser cobrado mais um ciclo, e o cancelamento passa a valer no fim dele."
+    }
+  ],
+  "aposCancelar": [
+    "No plano mensal, você mantém o acesso aos parceiros até o fim do ciclo já pago; depois, não renova.",
+    "No plano anual padrão, o acesso continua até o fim dos 12 meses de fidelidade.",
+    "No plano anual antecipado, o acesso encerra no fim do ciclo atual, com taxa de 20% sobre os meses restantes e sem reembolso.",
+    "O arrependimento de 7 dias vale só na primeira assinatura, contados da ativação.",
+    "Cada plano familiar é independente: cancelar o do titular não cancela automaticamente os dos familiares, exceto na saída da empresa descrita pela Wellhub.",
+    "Os benefícios flexíveis da empresa continuam sendo creditados."
+  ],
+  "alternativas": [
+    {
+      "nome": "Pausar a assinatura anual",
+      "url": "https://helpcenter.gympass.com/pt-br/articles/6027422346771",
+      "motivo": "Pausa de 15 a 30 dias, uma vez a cada seis meses, com extensão da fidelidade."
+    },
+    {
+      "nome": "Cancelamento antecipado explicado",
+      "url": "https://helpcenter.gympass.com/pt-br/articles/como-funciona-o-cancelamento-antecipado-da-assinatura-anual",
+      "motivo": "Detalha a taxa de 20% sobre os meses restantes do plano anual."
+    },
+    {
+      "nome": "Comparar assinatura mensal e anual",
+      "url": "https://helpcenter.gympass.com/pt-br/articles/como-funciona-a-assinatura-anual",
+      "motivo": "Mostra a diferença de preço, fidelidade e regras de renovação."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Wellhub — Como cancelar o seu plano ou de um familiar?",
+      "url": "https://helpcenter.gympass.com/pt-br/articles/como-cancelar-o-seu-plano-ou-de-um-familiar"
+    },
+    {
+      "titulo": "Wellhub — Como funciona a assinatura anual?",
+      "url": "https://helpcenter.gympass.com/pt-br/articles/como-funciona-a-assinatura-anual"
+    },
+    {
+      "titulo": "Wellhub — Por que fui cobrado após cancelar um plano Wellhub?",
+      "url": "https://helpcenter.gympass.com/pt-br/articles/por-que-fui-cobrado-apos-cancelar-um-plano-wellhub"
+    },
+    {
+      "titulo": "Wellhub — Como funciona a pausa da assinatura?",
+      "url": "https://helpcenter.gympass.com/pt-br/articles/6027422346771"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

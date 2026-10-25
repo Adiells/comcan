@@ -1,0 +1,73 @@
+{
+  "slug": "linkedin-premium",
+  "nome": "LinkedIn Premium",
+  "categoria": "software",
+  "resumo": "Cancele o LinkedIn Premium pelo site (ou app Android) e mantenha o acesso até o fim do ciclo já pago.",
+  "siteUrl": "https://www.linkedin.com/premium/",
+  "dificuldade": "media",
+  "canais": ["site", "app"],
+  "retencao": "O LinkedIn oferece downgrade para outro plano Premium em vez de encerrar a assinatura, opção disponível apenas no site para computador. Quem cancela perde o preço promocional para sempre: a própria ajuda avisa que, ao cancelar uma promoção ou um plano que não é mais oferecido, você perderá seu preço com desconto. Cancelar um teste grátis encerra o acesso na hora e impede um novo teste por no mínimo 12 meses, e os créditos de InMail acumulados não podem ser recuperados.",
+  "requisitos": [
+    "Login na conta do LinkedIn",
+    "Saber onde a assinatura foi comprada: LinkedIn, Apple App Store ou Google Play",
+    "Computador, para assinaturas compradas diretamente no LinkedIn"
+  ],
+  "passos": [
+    {
+      "titulo": "Confirme onde a assinatura foi comprada",
+      "detalhe": "O canal da compra define o caminho do cancelamento. Assinaturas compradas no LinkedIn, na App Store e no Google Play são tratadas em lugares diferentes.",
+      "aviso": "Compra direta no LinkedIn só pode ser cancelada no site para computador ou no app para Android; no app iOS o cancelamento não está disponível. Compra na App Store deve ser cancelada no dispositivo Apple; no Google Play, pelo site ou app do LinkedIn ou pela Play Store."
+    },
+    {
+      "titulo": "Clique no ícone Eu",
+      "detalhe": "No topo da página inicial do LinkedIn, no computador, abra o ícone \"Eu\" para acessar as opções da conta."
+    },
+    {
+      "titulo": "Abra Recursos Premium > Gerenciar assinatura",
+      "detalhe": "Na seção \"Detalhes do plano\", no painel esquerdo, selecione \"Gerenciar assinatura\". Você é levado à Central de administração do LinkedIn."
+    },
+    {
+      "titulo": "Selecione Compras",
+      "detalhe": "No painel esquerdo da Central de administração, abra \"Compras\" e escolha a assinatura ativa."
+    },
+    {
+      "titulo": "Clique em Cancelar assinatura",
+      "detalhe": "Em \"Ações\", selecione \"Cancelar assinatura\" e confirme em \"Confirmar cancelamento\"."
+    },
+    {
+      "titulo": "Cancele com pelo menos 1 dia de antecedência",
+      "detalhe": "Faça o cancelamento antes da renovação para não ser cobrado no ciclo seguinte.",
+      "aviso": "No app Android, o caminho é foto de perfil, Recursos Premium, Gerenciar assinatura e Cancelar assinatura."
+    }
+  ],
+  "aposCancelar": [
+    "A conta volta ao plano Basic (gratuito) ao fim do ciclo; perfil, conexões e demais dados permanecem.",
+    "Você perde os créditos de InMail (não recuperáveis), a lista completa de \"Quem viu meu perfil\", o LinkedIn Learning, os filtros avançados, o selo Premium e os insights.",
+    "A forma de pagamento só pode ser excluída depois do fim do ciclo de cobrança.",
+    "Um teste grátis cancelado encerra o acesso Premium imediatamente.",
+    "O preço promocional perdido não pode ser recuperado."
+  ],
+  "alternativas": [
+    {
+      "nome": "LinkedIn Basic (gratuito)",
+      "url": "https://www.linkedin.com/",
+      "motivo": "Mantém perfil, conexões e busca básica sem mensalidade."
+    },
+    {
+      "nome": "Downgrade para outro plano Premium",
+      "url": "https://www.linkedin.com/help/linkedin/answer/a1447279?lang=pt-BR",
+      "motivo": "Troca por um plano mais barato sem encerrar a assinatura; disponível apenas no site para computador."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Ajuda do LinkedIn — Cancelar assinatura do LinkedIn Premium",
+      "url": "https://www.linkedin.com/help/linkedin/answer/a545578?lang=pt-BR"
+    },
+    {
+      "titulo": "Ajuda do LinkedIn — Perguntas frequentes sobre como cancelar assinatura do LinkedIn Premium",
+      "url": "https://www.linkedin.com/help/linkedin/answer/125589?lang=pt-BR"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

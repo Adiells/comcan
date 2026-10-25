@@ -1,0 +1,73 @@
+{
+  "slug": "canva",
+  "nome": "Canva",
+  "categoria": "software",
+  "resumo": "Cancele o Canva Pro, Pro+ ou Equipes em Configurações > Faturamento e mantenha seus designs no plano grátis.",
+  "siteUrl": "https://www.canva.com/pt_br/",
+  "dificuldade": "media",
+  "canais": ["site", "app"],
+  "retencao": "A Canva sugere pausar em vez de cancelar: a pausa dura até 3 meses, sem cobranças, com retomada automática e lembrete por e-mail (no plano anual, só é possível pausar faltando menos de 2 meses para a renovação). O fluxo tem várias telas: \"Cancelar plano\", \"Continuar cancelamento\", escolha do motivo, \"Continuar cancelamento\" e \"Cancelar assinatura\". Mesmo depois de cancelar, a página de Cobrança ainda oferece desfazer enquanto a assinatura estiver ativa. Cancelar o Canva Equipes é definitivo. O sistema de cobrança roda em UTC, então a cobrança pode aparecer um dia antes do esperado, e bancos podem manter a recorrência ativa mesmo com cartão cancelado ou expirado.",
+  "requisitos": [
+    "Login na conta ou na equipe correta, a mesma que tem a assinatura",
+    "Saber se a cobrança veio da Canva, do Google Play, da App Store ou do PayPal"
+  ],
+  "passos": [
+    {
+      "titulo": "Descubra por onde a assinatura foi feita",
+      "detalhe": "Confira o e-mail de cobrança ou o extrato do cartão para saber se o pagamento foi processado pela Canva ou por uma loja de aplicativos.",
+      "aviso": "Assinaturas feitas no Google Play ou na App Store não podem ser canceladas no app do Canva, e desinstalar o app não cancela nada."
+    },
+    {
+      "titulo": "Abra Configurações > Faturamento",
+      "detalhe": "Na página inicial, selecione o perfil da conta, depois Configurações e Faturamento. No app Android: Menu, perfil, Configurações, Cobrança, ícone de mais ações e Solicitar cancelamento."
+    },
+    {
+      "titulo": "Selecione Cancelar plano",
+      "detalhe": "Na página de faturamento, escolha \"Cancelar plano\" e, na tela seguinte, \"Continuar cancelamento\"."
+    },
+    {
+      "titulo": "Pule a oferta de pausa",
+      "detalhe": "Na tela seguinte aparece a opção \"Quero pausar minha assinatura\"; para seguir com o encerramento, escolha continuar o cancelamento.",
+      "aviso": "A pausa dura 3 meses e o plano volta sozinho depois: não é um cancelamento."
+    },
+    {
+      "titulo": "Informe o motivo e confirme",
+      "detalhe": "Escolha o motivo, clique em \"Continuar cancelamento\" e finalize em \"Cancelar assinatura\". Guarde o e-mail de confirmação.",
+      "aviso": "Em Canva Equipes o cancelamento é permanente: a equipe não pode voltar ao plano Equipes depois."
+    }
+  ],
+  "aposCancelar": [
+    "Você mantém os recursos pagos até o fim do período de cobrança atual.",
+    "Designs, pastas e kit de marca continuam acessíveis no Canva Grátis, e a conta segue ativa.",
+    "O Affinity continua gratuito com a conta Canva.",
+    "Em Canva Equipes, os membros perdem os recursos pagos no fim do ciclo e o espaço vira plano grátis, com o admin ainda como titular.",
+    "Você recebe um e-mail de confirmação: guarde-o como comprovante."
+  ],
+  "alternativas": [
+    {
+      "nome": "Canva Grátis",
+      "url": "https://www.canva.com/pt_br/precos/",
+      "motivo": "Mantém os designs e os recursos básicos sem mensalidade."
+    },
+    {
+      "nome": "Pausar por 3 meses",
+      "url": "https://www.canva.com/pt_br/help/pause-annual-canva-plan/",
+      "motivo": "Suspende cobranças e recursos premium, com retomada automática ao fim do período."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Central de Ajuda do Canva — Cancelar um plano do Canva",
+      "url": "https://www.canva.com/pt_br/help/cancel-canva-plan/"
+    },
+    {
+      "titulo": "Central de Ajuda do Canva — Pausar um plano do Canva",
+      "url": "https://www.canva.com/pt_br/help/pause-annual-canva-plan/"
+    },
+    {
+      "titulo": "Central de Ajuda do Canva — Reembolsos das assinaturas do Canva",
+      "url": "https://www.canva.com/pt_br/help/subscription-refunds/"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}
