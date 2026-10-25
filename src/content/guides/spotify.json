@@ -1,0 +1,47 @@
+{
+  "slug": "spotify",
+  "nome": "Spotify Premium",
+  "categoria": "musica",
+  "resumo": "Cancele o Spotify Premium sem perder a conta: o plano volta para o gratuito com anúncios e o acesso pago dura até o fim do período.",
+  "siteUrl": "https://www.spotify.com/br/",
+  "dificuldade": "facil",
+  "canais": ["site"],
+  "retencao": "Antes de concluir, o Spotify costuma oferecer meses grátis ou desconto temporário. A oferta só vale se você aceitar; recusar não impede o cancelamento.",
+  "requisitos": ["Login na conta do Spotify", "Navegador no computador ou no celular"],
+  "passos": [
+    {
+      "titulo": "Acesse sua conta",
+      "detalhe": "Abra spotify.com/account e entre com a mesma conta usada no aplicativo.",
+      "aviso": "Assinaturas pagas pela App Store ou pelo Google Play não aparecem aqui: cancele pela loja."
+    },
+    {
+      "titulo": "Abra \"Seu plano\"",
+      "detalhe": "Na página da conta, localize a seção do plano Premium atual."
+    },
+    {
+      "titulo": "Clique em \"Alterar plano\"",
+      "detalhe": "Role até \"Spotify Free\" e selecione \"Cancelar Premium\"."
+    },
+    {
+      "titulo": "Ignore ou recuse a oferta de retenção",
+      "detalhe": "O Spotify pode mostrar um desconto ou um período grátis. Escolha a opção de continuar com o cancelamento."
+    },
+    {
+      "titulo": "Confirme",
+      "detalhe": "Finalize a alteração. O Premium continua ativo até a data de renovação já paga e depois a conta volta ao plano gratuito."
+    }
+  ],
+  "aposCancelar": [
+    "Playlists, curtidas e histórico permanecem na conta.",
+    "Downloads ficam indisponíveis e o plano gratuito tem anúncios.",
+    "Você pode reassinar o Premium quando quiser."
+  ],
+  "alternativas": [],
+  "fontes": [
+    {
+      "titulo": "Suporte do Spotify — cancelar o Premium",
+      "url": "https://support.spotify.com/br/article/cancel-premium/"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

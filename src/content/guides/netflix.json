@@ -1,0 +1,48 @@
+{
+  "slug": "netflix",
+  "nome": "Netflix",
+  "categoria": "streaming",
+  "resumo": "Cancele a assinatura da Netflix pelo site, encerre o plano no fim do período pago e saiba o que acontece com seus perfis.",
+  "siteUrl": "https://www.netflix.com/br/",
+  "dificuldade": "facil",
+  "canais": ["site"],
+  "retencao": "A Netflix não costuma oferecer desconto no cancelamento, mas lembra que você perde o acesso ao catálogo e mantém o perfil por tempo limitado caso reative depois.",
+  "requisitos": ["Acesso ao e-mail e à senha da conta", "Navegador no computador ou no celular"],
+  "passos": [
+    {
+      "titulo": "Entre na sua conta",
+      "detalhe": "Acesse netflix.com e faça login. O cancelamento não pode ser feito pelo app de TV ou de celular: use o navegador.",
+      "aviso": "Se você entra na conta pelo provedor de TV ou de internet, pode ser redirecionado para o site da operadora."
+    },
+    {
+      "titulo": "Abra a página da conta",
+      "detalhe": "Clique na sua foto de perfil e escolha \"Conta\". No celular, o menu fica no canto superior direito."
+    },
+    {
+      "titulo": "Clique em \"Cancelar assinatura\"",
+      "detalhe": "Na seção \"Assinatura e cobrança\", selecione \"Cancelar assinatura\" e confirme. A Netflix exibe um resumo do que você perde antes de finalizar."
+    },
+    {
+      "titulo": "Confirme o cancelamento",
+      "detalhe": "Escolha \"Concluir cancelamento\". Você continua assistindo até o último dia do período já pago e não há cobrança seguinte."
+    }
+  ],
+  "aposCancelar": [
+    "O acesso ao catálogo segue até o fim do mês já pago.",
+    "Você recebe um e-mail de confirmação: guarde como comprovante.",
+    "Se a cobrança aparecer depois, verifique se a assinatura foi feita pela operadora ou pela loja de aplicativos."
+  ],
+  "alternativas": [
+    {
+      "nome": "Planos com anúncios",
+      "motivo": "Costumam ser mais baratos que o plano padrão."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Central de ajuda da Netflix — como cancelar",
+      "url": "https://help.netflix.com/pt/node/407"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

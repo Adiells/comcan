@@ -1,0 +1,57 @@
+{
+  "slug": "adobe",
+  "nome": "Adobe Creative Cloud",
+  "categoria": "software",
+  "resumo": "Cancele a assinatura da Adobe Creative Cloud, entenda a multa do plano anual e evite a renovação automática da próxima cobrança.",
+  "siteUrl": "https://www.adobe.com/br/",
+  "dificuldade": "dificil",
+  "canais": ["site", "chat"],
+  "retencao": "A Adobe oferece troca de plano ou desconto antes de aceitar o cancelamento. Em planos anuais pagos mensalmente, cancelar antes do fim do compromisso pode gerar multa proporcional.",
+  "requisitos": [
+    "Login na conta Adobe",
+    "Saber se o plano é mensal ou anual (a multa muda conforme o caso)",
+    "Cartão ou forma de pagamento em mãos se houver cobrança pendente"
+  ],
+  "passos": [
+    {
+      "titulo": "Entre em account.adobe.com",
+      "detalhe": "Faça login e abra a aba \"Planos\" para ver o contrato ativo e a data da próxima cobrança.",
+      "aviso": "Planos comprados pela Microsoft Store ou por revendedores precisam ser cancelados no local da compra."
+    },
+    {
+      "titulo": "Clique em \"Gerenciar plano\"",
+      "detalhe": "Localize o plano que deseja encerrar e abra as opções de gerenciamento."
+    },
+    {
+      "titulo": "Escolha \"Cancelar plano\"",
+      "detalhe": "A Adobe mostra o valor da multa, se houver, e a data em que o acesso termina. Leia o resumo antes de avançar."
+    },
+    {
+      "titulo": "Passe pela oferta de retenção",
+      "detalhe": "A tela pode sugerir mudar para um plano mais barato. Se a intenção é cancelar, siga para a confirmação."
+    },
+    {
+      "titulo": "Confirme e guarde o comprovante",
+      "detalhe": "Finalize o cancelamento e salve o e-mail de confirmação. Verifique se o acesso continua até o fim do período pago."
+    }
+  ],
+  "aposCancelar": [
+    "Os arquivos na nuvem podem ser removidos após o fim do período de tolerância: baixe tudo antes.",
+    "O acesso aos apps pagos termina na data indicada na confirmação.",
+    "Se a multa foi cobrada, ela aparece na fatura seguinte."
+  ],
+  "alternativas": [
+    {
+      "nome": "Plano Fotografia",
+      "url": "https://www.adobe.com/br/creativecloud/photography.html",
+      "motivo": "Custa menos e cobre Lightroom e Photoshop para uso fotográfico."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Adobe — cancelar ou alterar um plano",
+      "url": "https://helpx.adobe.com/br/manage-account/using/cancel-subscription.html"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}
