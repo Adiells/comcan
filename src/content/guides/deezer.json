@@ -1,0 +1,46 @@
+{
+  "slug": "deezer",
+  "nome": "Deezer",
+  "categoria": "musica",
+  "resumo": "Aprenda como cancelar sua assinatura da Deezer pelo navegador ou aplicativo e descubra o que fazer se o plano estiver atrelado à TIM ou terceiros.",
+  "siteUrl": "https://www.deezer.com",
+  "dificuldade": "facil",
+  "canais": ["site", "app"],
+  "retencao": "A Deezer alerta sobre a perda da reprodução sem anúncios, do áudio em alta fidelidade e da impossibilidade de baixar faixas offline.",
+  "requisitos": [
+    "Login e senha da conta Deezer",
+    "Verificar se o plano foi contratado avulso ou através de parceria (TIM, Mercado Livre, etc.)"
+  ],
+  "passos": [
+    {
+      "titulo": "Acesse as configurações de conta",
+      "detalhe": "Faça login no site deezer.com ou abra o app, vá em Configurações (ícone de engrenagem) e clique em \"Gerenciamento de plano\" ou \"Configurações da conta\"."
+    },
+    {
+      "titulo": "Abra a área de assinatura",
+      "detalhe": "Selecione \"Gerenciar minha assinatura\" ou role a página até a opção \"Deseja cancelar sua assinatura?\"."
+    },
+    {
+      "titulo": "Cancele a assinatura",
+      "detalhe": "Clique em \"Cancelar minha assinatura\", aponte o motivo do encerramento e confirme a solicitação.",
+      "aviso": "Se o seu plano faz parte de um pacote TIM Black ou TIM Controle, o cancelamento precisa ser feito pelo app Meu TIM ou central da operadora."
+    }
+  ],
+  "aposCancelar": [
+    "A reprodução ilimitada sem anúncios continua liberada até o término do período faturado.",
+    "A conta migra automaticamente para o modo gratuito (Deezer Free), mantendo todas as playlists e músicas curtidas intactas."
+  ],
+  "alternativas": [
+    {
+      "nome": "Deezer Free",
+      "motivo": "Modalidade gratuita com reprodução em modo aleatório e anúncios."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Suporte Deezer — Cancelar minha assinatura Deezer",
+      "url": "https://support.deezer.com/hc/pt-br/articles/115003864505-Cancelar-minha-assinatura-Deezer"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "amazon-prime",
+  "nome": "Amazon Prime",
+  "categoria": "streaming",
+  "resumo": "Saiba como cancelar a assinatura do Amazon Prime pelo site ou aplicativo, interromper a renovação automática e manter o acesso até o fim do período pago.",
+  "siteUrl": "https://www.amazon.com.br",
+  "dificuldade": "media",
+  "canais": ["site", "app"],
+  "retencao": "A Amazon apresenta múltiplas telas de confirmação listando os benefícios que serão perdidos (frete grátis, Prime Video, Prime Gaming) e frequentemente sugere a opção de pausar o plano em vez de encerrar definitivamente.",
+  "requisitos": [
+    "E-mail e senha da conta Amazon",
+    "Acesso a navegador ou aplicativo da Amazon"
+  ],
+  "passos": [
+    {
+      "titulo": "Acesse a área de membros Prime",
+      "detalhe": "Faça login no site amazon.com.br ou abra o app da Amazon. No menu da conta, selecione \"Sua assinatura Prime\"."
+    },
+    {
+      "titulo": "Abra as opções de gerenciamento",
+      "detalhe": "Clique na opção \"Gerenciar assinatura\" no topo da tela para expandir as opções contratuais."
+    },
+    {
+      "titulo": "Inicie o encerramento dos benefícios",
+      "detalhe": "Selecione \"Encerrar assinatura e benefícios\" para iniciar o processo de cancelamento.",
+      "aviso": "Se sua cobrança é feita por parceiros como TIM ou Claro, o encerramento deve ser solicitado diretamente com a operadora."
+    },
+    {
+      "titulo": "Avance pelas telas de confirmação",
+      "detalhe": "A Amazon exibirá telas intermediárias reforçando os serviços incluídos. Clique em \"Continuar para o cancelamento\" e conclua clicando em \"Cancelar assinatura\"."
+    }
+  ],
+  "aposCancelar": [
+    "Os benefícios de frete grátis e catálogo de vídeos continuam disponíveis até o último dia do período faturado.",
+    "Um e-mail de confirmação é enviado para o endereço cadastrado na conta.",
+    "Não haverá cobranças futuras no cartão cadastrado."
+  ],
+  "alternativas": [
+    {
+      "nome": "Pausar assinatura",
+      "motivo": "Permite suspender temporariamente a cobrança sem perder histórico de pedidos ou listas."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Central de Ajuda Amazon — Cancelar a assinatura do Amazon Prime",
+      "url": "https://www.amazon.com.br/gp/help/customer/display.html?nodeId=GT42ME65VMC2992F"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

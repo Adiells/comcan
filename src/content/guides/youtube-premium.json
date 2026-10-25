@@ -1,0 +1,50 @@
+{
+  "slug": "youtube-premium",
+  "nome": "YouTube Premium",
+  "categoria": "streaming",
+  "resumo": "Saiba como cancelar o YouTube Premium pelo computador, Android ou iPhone e continuar assistindo sem anúncios até o final do período vigente.",
+  "siteUrl": "https://www.youtube.com",
+  "dificuldade": "facil",
+  "canais": ["site", "app"],
+  "retencao": "O YouTube oferece a opção de pausar o pagamento por até 6 meses antes de processar o cancelamento definitivo.",
+  "requisitos": [
+    "Conta Google utilizada na assinatura",
+    "Acesso ao navegador ou app do YouTube/Google Play"
+  ],
+  "passos": [
+    {
+      "titulo": "Acesse as assinaturas pagas",
+      "detalhe": "Visite youtube.com/paid_memberships no navegador ou abra o app do YouTube, toque na sua foto e vá em \"Compras e assinaturas\"."
+    },
+    {
+      "titulo": "Gerencie a assinatura ativa",
+      "detalhe": "Localize o YouTube Premium e clique em \"Gerenciar assinatura\"."
+    },
+    {
+      "titulo": "Escolha cancelar",
+      "detalhe": "Clique em \"Desativar\". Se o sistema sugerir pausar o plano, selecione \"Continuar para cancelar\".",
+      "aviso": "Assinaturas iniciadas em aparelhos Apple precisam ser canceladas nos Ajustes do iOS na aba de assinaturas do ID Apple."
+    },
+    {
+      "titulo": "Confirme a desativação",
+      "detalhe": "Indique um motivo opcional e clique em \"Cancelar Premium\" para encerrar as cobranças."
+    }
+  ],
+  "aposCancelar": [
+    "Os vídeos continuam sem anúncios e os downloads ativos até a data de renovação informada.",
+    "Após o término, a conta retorna para a modalidade padrão gratuita com anúncios."
+  ],
+  "alternativas": [
+    {
+      "nome": "YouTube Music avulso",
+      "motivo": "Plano focado apenas em streaming de música por um custo menor."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Ajuda do YouTube — Cancelar ou pausar uma assinatura paga",
+      "url": "https://support.google.com/youtube/answer/6308278"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

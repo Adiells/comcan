@@ -1,0 +1,46 @@
+{
+  "slug": "max",
+  "nome": "Max",
+  "categoria": "streaming",
+  "resumo": "Veja como cancelar o plano da Max pelo site oficial ou identificar sua operadora de cobrança para suspender a assinatura sem multas.",
+  "siteUrl": "https://www.max.com",
+  "dificuldade": "facil",
+  "canais": ["site", "app"],
+  "retencao": "A Max apresenta uma lista de estreias futuras e séries consagradas de seu catálogo para incentivar a manutenção do plano.",
+  "requisitos": [
+    "E-mail e senha da conta Max",
+    "Saber se a assinatura foi feita direto ou via Meli+, Prime Channels ou operadora"
+  ],
+  "passos": [
+    {
+      "titulo": "Acesse a área de assinatura",
+      "detalhe": "Visite max.com/subscription no navegador ou acerte as configurações de perfil no aplicativo."
+    },
+    {
+      "titulo": "Verifique a fonte pagadora",
+      "detalhe": "Observe o topo da página para confirmar se a cobrança é realizada pela WarnerMedia ou por terceiros (Google Play, Apple, Mercado Livre ou operadora)."
+    },
+    {
+      "titulo": "Cancele a assinatura",
+      "detalhe": "Clique no botão \"Cancelar sua assinatura\" e siga as etapas exibidas na tela até a confirmação final.",
+      "aviso": "Se faturada por lojas ou terceiros, utilize o link de redirecionamento exibido para cancelar na plataforma de origem."
+    }
+  ],
+  "aposCancelar": [
+    "O streaming permanece disponível até o último dia do período faturado.",
+    "Perfis e configurações continuam salvos caso deseje assinar novamente no futuro."
+  ],
+  "alternativas": [
+    {
+      "nome": "Plano Básico com anúncios",
+      "motivo": "Modalidade mais econômica com inserções publicitárias."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Central de Ajuda Max — Cancelar a assinatura Max",
+      "url": "https://help.max.com/br-pt/Answer/Detail/000002511"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

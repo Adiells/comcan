@@ -1,0 +1,50 @@
+{
+  "slug": "apple-one",
+  "nome": "Apple One",
+  "categoria": "software",
+  "resumo": "Passo a passo oficial para cancelar o pacote Apple One ou escolher manter serviços individuais pelo iPhone, iPad ou Mac.",
+  "siteUrl": "https://www.apple.com/br/apple-one/",
+  "dificuldade": "facil",
+  "canais": ["app", "site"],
+  "retencao": "A Apple oferece a opção de manter assinaturas avulsas (como iCloud+ ou Apple Music) reduzindo o custo total em vez de cancelar tudo de uma vez.",
+  "requisitos": [
+    "Aparelho Apple conectado com o ID Apple / Conta Apple da assinatura",
+    "Acesso aos Ajustes do sistema ou Mac App Store"
+  ],
+  "passos": [
+    {
+      "titulo": "Abra os Ajustes no iOS",
+      "detalhe": "No iPhone ou iPad, abra o app \"Ajustes\" e toque no seu nome (Conta Apple) no topo da tela."
+    },
+    {
+      "titulo": "Acesse suas assinaturas",
+      "detalhe": "Toque no menu \"Assinaturas\" e localize a entrada \"Apple One\" na lista de itens ativos."
+    },
+    {
+      "titulo": "Cancele o pacote",
+      "detalhe": "Toque em \"Cancelar Assinatura\". Se preferir manter itens isolados (como armazenamento do iCloud), escolha \"Escolher Serviços Individuais\".",
+      "aviso": "Se você reduzir o plano e possuir mais arquivos no iCloud do que a cota gratuita de 5 GB, faça backup dos seus dados antes."
+    },
+    {
+      "titulo": "Confirme a operação",
+      "detalhe": "Confirme o cancelamento. A renovação é interrompida imediatamente."
+    }
+  ],
+  "aposCancelar": [
+    "Os serviços (Music, TV+, Arcade e iCloud estendido) permanecem ativos até a data final do ciclo faturado.",
+    "Caso o iCloud volte para 5 GB, fotos e arquivos antigos não são apagados de imediato, mas novos uploads e backups são pausados."
+  ],
+  "alternativas": [
+    {
+      "nome": "iCloud+ individual",
+      "motivo": "Contratação somente do espaço de armazenamento com mensalidades a partir de R$ 4,90."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Suporte da Apple — Se você quiser cancelar uma assinatura da Apple",
+      "url": "https://support.apple.com/pt-br/118428"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

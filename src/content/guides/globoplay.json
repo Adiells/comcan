@@ -1,0 +1,50 @@
+{
+  "slug": "globoplay",
+  "nome": "Globoplay",
+  "categoria": "streaming",
+  "resumo": "Aprenda a cancelar sua assinatura do Globoplay através da Conta Globo e interrompa renovações automáticas mantendo acesso até o fim do ciclo.",
+  "siteUrl": "https://globoplay.globo.com",
+  "dificuldade": "facil",
+  "canais": ["site"],
+  "retencao": "A Globo alerta sobre a perda de acesso a novelas exclusivas, programas ao vivo e pede o motivo do cancelamento antes de autorizar a finalização.",
+  "requisitos": [
+    "E-mail e senha da Conta Globo",
+    "Acesso a navegador web"
+  ],
+  "passos": [
+    {
+      "titulo": "Acesse a Conta Globo",
+      "detalhe": "Entre em minhaconta.globo.com pelo navegador do computador ou celular e faça login."
+    },
+    {
+      "titulo": "Gerencie a assinatura",
+      "detalhe": "Na área \"Minhas assinaturas\", localize o plano do Globoplay e clique no botão \"Gerenciar\"."
+    },
+    {
+      "titulo": "Solicite o cancelamento",
+      "detalhe": "Role até o final da página e clique em \"Cancelar assinatura\".",
+      "aviso": "Se aparecer a indicação de uma loja como App Store ou Google Play, o cancelamento precisará ser concluído na loja parceira correspondente."
+    },
+    {
+      "titulo": "Confirme a saída",
+      "detalhe": "Selecione o motivo da decisão e confirme para finalizar o encerramento da renovação."
+    }
+  ],
+  "aposCancelar": [
+    "Os conteúdos continuam liberados até a data final do ciclo já pago.",
+    "A Conta Globo básica gratuita segue ativa para outros serviços gratuitos da emissora."
+  ],
+  "alternativas": [
+    {
+      "nome": "Conta Globo gratuita",
+      "motivo": "Permite assistir a trechos e programação ao vivo aberta sem pagar mensalidade."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Ajuda Globo — Como cancelar a assinatura do Globoplay",
+      "url": "https://ajuda.globo.com/s/article/Como-cancelar-a-assinatura-do-Globoplay"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

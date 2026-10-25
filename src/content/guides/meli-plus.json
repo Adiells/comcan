@@ -1,0 +1,50 @@
+{
+  "slug": "meli-plus",
+  "nome": "Meli+",
+  "categoria": "entregas",
+  "resumo": "Veja o passo a passo para cancelar o plano Meli+ no Mercado Livre pelo aplicativo ou navegador sem burocracia ou cobranças indevidas.",
+  "siteUrl": "https://www.mercadolivre.com.br",
+  "dificuldade": "facil",
+  "canais": ["site", "app"],
+  "retencao": "O Mercado Livre enumera a perda do frete grátis e o encerramento do acesso a streamings vinculados, como Disney+, pedindo reconfirmações no rodapé.",
+  "requisitos": [
+    "Conta no Mercado Livre com login ativo",
+    "Acesso pelo aplicativo ou navegador de internet"
+  ],
+  "passos": [
+    {
+      "titulo": "Acesse a seção Meli+",
+      "detalhe": "No app ou site do Mercado Livre, abra o menu principal e clique na opção \"Meli+\" ou vá em \"Assinaturas\"."
+    },
+    {
+      "titulo": "Gerencie a assinatura",
+      "detalhe": "Clique em \"Administrar assinatura\" ou no card correspondente ao plano ativo."
+    },
+    {
+      "titulo": "Role até o rodapé da página",
+      "detalhe": "Desça toda a tela até o final, onde se encontra o botão textual discreto \"Eu quero cancelar minha assinatura\".",
+      "aviso": "O botão fica posicionado intencionalmente no final da página após os destaques de benefícios."
+    },
+    {
+      "titulo": "Confirme a saída",
+      "detalhe": "Avance pelas telas de confirmação e conclua clicando em \"Cancelar assinatura\"."
+    }
+  ],
+  "aposCancelar": [
+    "Os benefícios de frete e streamings parceiros continuam funcionando até o último dia do mês pago.",
+    "A conta básica do Mercado Livre e Mercado Pago continua funcionando normalmente."
+  ],
+  "alternativas": [
+    {
+      "nome": "Frete padrão por compra",
+      "motivo": "Adequado para quem realiza compras com pouca frequência na plataforma."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Mercado Livre Ajuda — Como cancelar o Meli+",
+      "url": "https://www.mercadolivre.com.br/ajuda"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

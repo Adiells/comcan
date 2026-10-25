@@ -1,0 +1,50 @@
+{
+  "slug": "paramount-plus",
+  "nome": "Paramount+",
+  "categoria": "streaming",
+  "resumo": "Veja como cancelar a assinatura do Paramount+ pelo navegador, lojas de aplicativos ou canais parceiros como Prime Video sem burocracia.",
+  "siteUrl": "https://www.paramountplus.com",
+  "dificuldade": "facil",
+  "canais": ["site", "app"],
+  "retencao": "O serviço relembra estreias exclusivas de filmes e transmissões esportivas antes de solicitar a confirmação final da rescisão.",
+  "requisitos": [
+    "E-mail e senha da conta Paramount+",
+    "Saber se a assinatura foi feita direto no site ou via Apple, Google Play ou Prime Channels"
+  ],
+  "passos": [
+    {
+      "titulo": "Acesse sua conta",
+      "detalhe": "Visite paramountplus.com pelo navegador de internet e faça login. Clique no ícone do perfil no canto superior direito e selecione \"Conta\"."
+    },
+    {
+      "titulo": "Localize a área de cobrança",
+      "detalhe": "Role a página até a seção \"Assinatura e Cobrança\"."
+    },
+    {
+      "titulo": "Inicie o cancelamento",
+      "detalhe": "Clique no link \"Cancelar assinatura\" e selecione o motivo do cancelamento.",
+      "aviso": "Se você assinou pelos Canais do Prime Video ou pelo Mercado Livre, o cancelamento precisa ser feito no painel da Amazon ou do Meli+."
+    },
+    {
+      "titulo": "Confirme o encerramento",
+      "detalhe": "Clique em \"Sim, cancelar\" e em seguida finalize clicando no botão de confirmação."
+    }
+  ],
+  "aposCancelar": [
+    "O acesso a filmes e séries segue disponível até o último dia do mês corrente pago.",
+    "Não haverá cobranças futuras no método de pagamento cadastrado."
+  ],
+  "alternativas": [
+    {
+      "nome": "Plano Básico Móvel",
+      "motivo": "Modalidade focada em celulares e tablets com valor de assinatura inferior."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Central de Ajuda Paramount+ — Como posso cancelar minha assinatura do Paramount+?",
+      "url": "https://help.paramountplus.com/s/article/PD-How-can-I-cancel-my-Paramount-subscription"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

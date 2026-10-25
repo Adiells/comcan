@@ -1,0 +1,50 @@
+{
+  "slug": "ifood-clube",
+  "nome": "Clube iFood",
+  "categoria": "entregas",
+  "resumo": "Aprenda a cancelar a renovação automática do Clube iFood pelo aplicativo e use seus cupons restantes até o vencimento do pacote.",
+  "siteUrl": "https://www.ifood.com.br",
+  "dificuldade": "facil",
+  "canais": ["app"],
+  "retencao": "O aplicativo alerta sobre a economia estimada obtida com cupons no último mês e solicita o motivo da desistência.",
+  "requisitos": [
+    "Aplicativo do iFood instalado no celular",
+    "Login ativo na conta"
+  ],
+  "passos": [
+    {
+      "titulo": "Abra o perfil no app",
+      "detalhe": "No aplicativo do iFood, toque na aba \"Perfil\" no canto inferior direito."
+    },
+    {
+      "titulo": "Acesse a área de assinaturas",
+      "detalhe": "Selecione \"Assinaturas\" ou clique diretamente no card do \"Clube iFood\"."
+    },
+    {
+      "titulo": "Selecione o plano",
+      "detalhe": "Em assinaturas ativas, clique no plano contratado e role a tela até \"Gerenciar assinatura\"."
+    },
+    {
+      "titulo": "Cancele a renovação",
+      "detalhe": "Toque em \"Cancelar assinatura\" e confirme na tela seguinte para desativar novas cobranças automáticas.",
+      "aviso": "Verifique a data de validade dos cupons emitidos, pois eles não são reembolsados após o cancelamento."
+    }
+  ],
+  "aposCancelar": [
+    "Os cupons já liberados no pacote mensal continuam válidos até o fim do período vigente.",
+    "Não haverá nova cobrança no cartão cadastrado no mês seguinte."
+  ],
+  "alternativas": [
+    {
+      "nome": "Cupons avulsos do app",
+      "motivo": "Uso de promoções sazonais sem compromisso de mensalidade fixa."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Ajuda iFood — Como cancelar o Clube iFood",
+      "url": "https://ajuda.ifood.com.br"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "disney-plus",
+  "nome": "Disney+",
+  "categoria": "streaming",
+  "resumo": "Passo a passo para cancelar o plano do Disney+ pelo navegador ou lojas de aplicativos e evitar cobranças automáticas no próximo ciclo.",
+  "siteUrl": "https://www.disneyplus.com",
+  "dificuldade": "facil",
+  "canais": ["site", "app"],
+  "retencao": "O Disney+ exibe telas com sugestões de títulos populares recém-adicionados ao catálogo e questiona o motivo da saída antes de confirmar a rescisão.",
+  "requisitos": [
+    "E-mail e senha da conta Disney+",
+    "Identificação de qual plataforma faz a cobrança (site oficial, Meli+, Google ou Apple)"
+  ],
+  "passos": [
+    {
+      "titulo": "Acesse as configurações de conta",
+      "detalhe": "Entre em disneyplus.com pelo navegador ou abra o app no celular. Selecione o ícone do seu perfil e clique em \"Conta\"."
+    },
+    {
+      "titulo": "Selecione seu plano ativo",
+      "detalhe": "Na seção \"Assinatura\", clique sobre o nome do seu plano contratado.",
+      "aviso": "Se o faturamento estiver atrelado ao Meli+ (Mercado Livre) ou Globoplay, você verá um aviso indicando que o cancelamento deve ser feito na plataforma parceira."
+    },
+    {
+      "titulo": "Cancele a assinatura",
+      "detalhe": "Clique em \"Cancelar assinatura\", selecione um motivo opcional na lista e confirme em \"Continuar para cancelar\"."
+    }
+  ],
+  "aposCancelar": [
+    "O acesso a filmes e séries permanece liberado até o término do ciclo faturado.",
+    "Seus perfis, histórico e listas são mantidos se você decidir reativar a conta futuramente."
+  ],
+  "alternativas": [
+    {
+      "nome": "Plano Padrão com anúncios",
+      "motivo": "Opção com valor de mensalidade reduzido."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Central de Ajuda Disney+ — Cancelar a assinatura do Disney+",
+      "url": "https://help.disneyplus.com/article/disneyplus-cancel"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}
