@@ -1,0 +1,71 @@
+{
+  "slug": "sem-parar",
+  "nome": "Sem Parar",
+  "categoria": "financeiro",
+  "resumo": "Cancele o Sem Parar pela central de relacionamento com CPF e placa; não há fidelidade nem multa.",
+  "siteUrl": "https://www.semparar.com.br",
+  "dificuldade": "media",
+  "canais": ["telefone", "site"],
+  "retencao": "A página oficial não oferece autocancelamento: o pedido de cancelamento é feito pela central de relacionamento. Antes de cancelar, a empresa oferece troca de veículo (se você vendeu o carro) e mudança de família de plano (se o problema é custo). Bloquear a tag do carro vendido não encerra o plano: a mensalidade continua sendo cobrada enquanto o plano estiver ativo.",
+  "requisitos": [
+    "CPF do titular",
+    "Placa do veículo",
+    "Número da tag ou fatura/extrato, se tiver em mãos"
+  ],
+  "passos": [
+    {
+      "titulo": "Separe CPF e placa",
+      "detalhe": "A central pede CPF e placa para localizar o cadastro. Se possível, tenha também a fatura ou o extrato à mão."
+    },
+    {
+      "titulo": "Ligue para a central de relacionamento",
+      "detalhe": "Ligue para 4002-1552 (capitais e regiões metropolitanas) ou 0800 015 0252 (demais localidades) e peça o cancelamento do plano.",
+      "aviso": "O WhatsApp (11) 98991-2822 e o SAC 0800 723 2245 são canais de atendimento, mas a página oficial de cancelamento indica a central de relacionamento por telefone."
+    },
+    {
+      "titulo": "Recuse as alternativas de retenção",
+      "detalhe": "Se o motivo for troca de carro, a empresa oferece a substituição da tag; se for custo, oferece mudança de plano. Diga que quer cancelar mesmo assim.",
+      "aviso": "Aceitar a substituição mantém o plano e a cobrança da mensalidade."
+    },
+    {
+      "titulo": "Peça o protocolo e confirme os dados",
+      "detalhe": "Anote o número do protocolo, a data do pedido, o valor da última fatura e o status das passagens pendentes."
+    },
+    {
+      "titulo": "Confira a fatura seguinte",
+      "detalhe": "Verifique se não houve nova cobrança de mensalidade e se as passagens pendentes foram lançadas.",
+      "aviso": "As concessionárias podem registrar passagens com atraso; guarde o extrato e o protocolo para contestar."
+    }
+  ],
+  "aposCancelar": [
+    "Não há fidelidade nem multa por cancelamento, segundo o blog oficial do Sem Parar.",
+    "A mensalidade deixa de ser cobrada quando o plano é cancelado; bloquear apenas a tag não encerra a cobrança.",
+    "Guarde o protocolo e o extrato final.",
+    "Se a cobrança continuar, acione o SAC 0800 723 2245 ou a Ouvidoria 0800 770 0686 (é necessário ter o protocolo)."
+  ],
+  "alternativas": [
+    {
+      "nome": "Trocar de plano em vez de cancelar",
+      "motivo": "A central e o SuperApp permitem mudar de família de plano; a substituição de veículo mantém as condições comerciais."
+    },
+    {
+      "nome": "Bloquear a tag do carro vendido",
+      "motivo": "Se você vendeu o carro e não tem outro, o bloqueio impede uso indevido, mas a mensalidade continua enquanto o plano estiver ativo."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Sem Parar — Como cancelar meu Sem Parar?",
+      "url": "https://ajuda.semparar.com.br/hc/pt-br/articles/360046997432-Como-cancelar-meu-Sem-Parar"
+    },
+    {
+      "titulo": "Sem Parar — Quais os canais de atendimento digitais do Sem Parar?",
+      "url": "https://ajuda.semparar.com.br/hc/pt-br/articles/360048998812-Quais-os-canais-de-atendimento-digitais-do-Sem-Parar"
+    },
+    {
+      "titulo": "Sem Parar — Tag Sem Parar: planos, uso e cancelamento",
+      "url": "https://blog.semparar.com.br/tag-sem-parar"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

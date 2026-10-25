@@ -1,0 +1,75 @@
+{
+  "slug": "c6-carbon",
+  "nome": "C6 Carbon",
+  "categoria": "financeiro",
+  "resumo": "Cancele o cartão C6 Carbon pelo chat ou telefone, cumpra o aviso de 30 dias e entenda a anuidade de R$ 98/mês.",
+  "siteUrl": "https://www.c6bank.com.br/cartao-c6-carbon-mastercard-black",
+  "dificuldade": "dificil",
+  "canais": ["app", "chat", "telefone"],
+  "retencao": "O contrato não prevê autocancelamento: manda falar com o C6 pelos canais de atendimento (chat no app ou telefones). O contrato exige aviso com 30 dias de antecedência. A anuidade é de R$ 98/mês (12x R$ 1.176) e só é zerada com gastos a partir de R$ 8 mil/mês, R$ 50 mil investidos em renda fixa do C6 ou R$ 1 milhão em qualquer produto.",
+  "requisitos": [
+    "Aplicativo C6 Bank com acesso à conta",
+    "CPF e senha",
+    "Faturas e empréstimos em aberto identificados",
+    "Para encerrar a conta: saldo zerado, investimentos resgatados e Conta Global sem saldo"
+  ],
+  "passos": [
+    {
+      "titulo": "Decida se quer cancelar só o cartão ou encerrar a conta",
+      "detalhe": "O cancelamento do cartão é pedido pelos canais de atendimento. O encerramento da conta é feito no app e encerra também o cartão.",
+      "aviso": "Encerrar a conta não quita faturas nem empréstimos em aberto; eles continuam sendo cobrados."
+    },
+    {
+      "titulo": "Abra o chat do app C6 e peça o cancelamento do cartão",
+      "detalhe": "No app, acesse o chat da Central de relacionamento (24h) e peça o cancelamento do cartão C6 Carbon.",
+      "aviso": "O contrato prevê aviso com 30 dias de antecedência; confirme a data efetiva do encerramento e guarde o protocolo."
+    },
+    {
+      "titulo": "Ou ligue para a central",
+      "detalhe": "Ligue para 3003 6116 (capitais e regiões metropolitanas) ou 0800 660 6116 (demais localidades).",
+      "aviso": "Tenha CPF e o número do cartão em mãos; o contrato também cita os telefones impressos no verso do cartão."
+    },
+    {
+      "titulo": "Se quiser encerrar a conta, use o app",
+      "detalhe": "Toque no ícone de perfil → \"Configurações\" → \"Gerenciar Contas\" → \"Encerrar conta C6\" e siga as instruções.",
+      "aviso": "É preciso zerar o saldo, resgatar investimentos, quitar o cheque especial e esvaziar a C6 Conta Global; o C6 tem até 30 dias para concluir."
+    },
+    {
+      "titulo": "Resgate os pontos e confira as faturas",
+      "detalhe": "Converta os pontos C6 Átomos antes do encerramento e confira a última fatura do cartão.",
+      "aviso": "Pontos não convertidos são cancelados com o encerramento da conta; faturas e empréstimos continuam devidos."
+    }
+  ],
+  "aposCancelar": [
+    "O contrato permite cancelar o cartão a qualquer momento, mas exige aviso ao C6 com 30 dias de antecedência (resumo do contrato, item 8).",
+    "Com o encerramento da conta, você perde cartões, limites, chaves Pix, C6 Tag e C6 Conta Global; o chat do app continua disponível para extratos e faturas.",
+    "O C6 tem até 30 dias para concluir o encerramento e confirma por e-mail.",
+    "Faturas e empréstimos em aberto continuam sendo cobrados depois do encerramento.",
+    "Se a cobrança da anuidade continuar, use o protocolo e acione o SAC 0800 660 0060 ou a Ouvidoria 0800 660 6060 (seg–sex, 9h–18h)."
+  ],
+  "alternativas": [
+    {
+      "nome": "Pedir isenção da anuidade em vez de cancelar",
+      "motivo": "A anuidade de R$ 98/mês é zerada para quem gasta a partir de R$ 8 mil/mês na fatura ou investe R$ 50 mil em renda fixa do C6 (ou R$ 1 milhão em qualquer produto)."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "C6 Bank — Contrato de Cartão de Crédito (resumo, item 8: Cancelamento do Cartão)",
+      "url": "https://terms.c6bank.com.br/c6-docs/individual-credit-card/v18/term.html"
+    },
+    {
+      "titulo": "C6 Bank — Cartão C6 Carbon Mastercard Black (anuidade e isenção)",
+      "url": "https://www.c6bank.com.br/cartao-c6-carbon-mastercard-black"
+    },
+    {
+      "titulo": "C6 Bank — Como realizar o Encerramento da Conta?",
+      "url": "https://ajuda.c6bank.com.br/s/article/Como-realizar-o-Encerramento-da-Conta"
+    },
+    {
+      "titulo": "C6 Bank — Canais de atendimento",
+      "url": "https://www.c6bank.com.br/atendimento"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

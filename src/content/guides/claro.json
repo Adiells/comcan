@@ -1,0 +1,79 @@
+{
+  "slug": "claro",
+  "nome": "Claro Móvel",
+  "categoria": "telefonia",
+  "resumo": "Cancele sua linha Claro móvel pelo 1052 ou em uma loja e entenda a fidelidade de 12 meses e a multa.",
+  "siteUrl": "https://www.claro.com.br",
+  "dificuldade": "dificil",
+  "canais": ["telefone", "presencial", "app"],
+  "retencao": "Antes de liberar o cancelamento, a página da Claro oferece negociar a fatura, abrir suporte técnico e mudar de plano, além de uma área de \"ofertas para você continuar com a Claro\". O FAQ abre com a frase \"Não queremos que isso ocorra!\". Quem tem fidelidade de 12 meses pode receber cobrança de taxa de cancelamento.",
+  "requisitos": [
+    "CPF e dados cadastrais do titular da linha",
+    "Senha de acesso do Minha Claro (ou autenticação por SMS)",
+    "Número da linha que será cancelada",
+    "Fatura ou código do cliente em mãos"
+  ],
+  "passos": [
+    {
+      "titulo": "Verifique a carência do plano",
+      "detalhe": "Entre em minhaclaro.claro.com.br com CPF/e-mail e senha, abra o menu \"Meu Plano\" e clique em \"Verificar carência\".",
+      "aviso": "A Claro informa que o plano Pós tem fidelidade de 12 meses; pedir troca ou cancelamento antes do fim do prazo pode gerar multa."
+    },
+    {
+      "titulo": "Ligue para a central de cancelamento",
+      "detalhe": "Para produtos móveis (pós, controle e internet móvel), ligue para 1052. Para residencial use 10621, para a antiga Claro tv use 10699 e, em planos Multi, 0800 723 6626.",
+      "aviso": "O FAQ da Claro não descreve um botão de autocancelamento no site. A Anatel exige que a opção de cancelamento apareça na primeira tela após o login no espaço do cliente; se ela não existir, peça o cancelamento automático e registre o protocolo."
+    },
+    {
+      "titulo": "Passe pela retenção",
+      "detalhe": "Diga com clareza que quer o cancelamento da linha, não uma troca de plano. Recuse as ofertas de desconto, troca de plano e negociação de fatura.",
+      "aviso": "A central costuma tratar o pedido como \"mudança de plano\". Se o atendente insistir, repita o pedido de cancelamento e exija o número de protocolo."
+    },
+    {
+      "titulo": "Confirme os dados cadastrais",
+      "detalhe": "A Claro afirma que entrará em contato para confirmar os dados cadastrais e o cancelamento. Confirme os dados e anote o protocolo e a data.",
+      "aviso": "A confirmação pode vir por telefone depois da solicitação. Atenda e confirme o cancelamento para evitar que o pedido fique pendente."
+    },
+    {
+      "titulo": "Alternativa presencial",
+      "detalhe": "Se preferir, vá a uma loja Claro com documento com foto e peça o cancelamento da linha no atendimento presencial."
+    }
+  ],
+  "aposCancelar": [
+    "Segundo a Claro, o funcionamento da linha móvel se encerra após a solicitação ser concluída.",
+    "A Claro informa que o número da linha é perdido em até 180 dias após o encerramento.",
+    "O cancelamento antes do fim da fidelidade pode gerar taxa de cancelamento; confira o valor na fatura seguinte.",
+    "Guarde o número de protocolo e a confirmação por e-mail. Se a cobrança continuar, registre reclamação na Anatel pelo 1331 (dias úteis, 8h às 20h) informando o protocolo da Claro.",
+    "Você pode consultar seus contratos logando no Minha Claro."
+  ],
+  "alternativas": [
+    {
+      "nome": "Mudar de plano em vez de cancelar",
+      "motivo": "A Claro permite trocar de plano pelo Minha Claro; a mudança evita perder o número, mas também está sujeita à fidelidade de 12 meses."
+    },
+    {
+      "nome": "Portabilidade para outra operadora",
+      "url": "https://www.claro.com.br/celular/portabilidade",
+      "motivo": "A portabilidade mantém o número atual e pode sair mais barato que continuar no plano."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Claro FAQ — Como cancelar?",
+      "url": "https://www.claro.com.br/faq/atendimento/como-cancelar"
+    },
+    {
+      "titulo": "Claro — Cancelamento (página oficial de atendimento)",
+      "url": "https://www.claro.com.br/atendimento/cancelamento"
+    },
+    {
+      "titulo": "Claro FAQ — Como fazer o cancelamento imediato da linha Claro Flex?",
+      "url": "https://www.claro.com.br/faq/claro-flex/como-fazer-o-cancelamento-imediato-da-linha-claro-flex"
+    },
+    {
+      "titulo": "Claro FAQ — Como faço pra mudar o Plano Pós? (fidelidade de 12 meses)",
+      "url": "https://www.claro.com.br/faq/pos-pago/como-faco-pra-mudar-o-plano-pos"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

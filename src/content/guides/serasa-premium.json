@@ -1,0 +1,62 @@
+{
+  "slug": "serasa-premium",
+  "nome": "Serasa Premium",
+  "categoria": "financeiro",
+  "resumo": "Cancele o Serasa Premium sozinho na área do plano e veja quando o reembolso de 7 dias se aplica.",
+  "siteUrl": "https://www.serasa.com.br/premium",
+  "dificuldade": "facil",
+  "canais": ["site", "telefone"],
+  "retencao": "O cancelamento é autosserviço e fica dentro da área do plano, sem oferta de retenção descrita na página oficial. A armadilha está na origem da cobrança: quem assinou pelo Google Play ou pela App Store não consegue cancelar no site da Serasa. O reembolso integral de 7 dias vale só para a contratação, não para planos renovados.",
+  "requisitos": [
+    "Login da Serasa com CPF e senha",
+    "Saber se a assinatura foi feita no site, no Google Play ou na App Store",
+    "Acesso à área do plano (para assinaturas do site ou Pix Automático)"
+  ],
+  "passos": [
+    {
+      "titulo": "Descubra onde a assinatura foi contratada",
+      "detalhe": "Confira se a cobrança está no cartão/Pix Automático pelo site da Serasa, no Google Play (Android) ou na App Store (iPhone/iPad).",
+      "aviso": "O cancelamento só funciona no mesmo canal da cobrança; a Serasa não cancela assinaturas contratadas nas lojas de aplicativos."
+    },
+    {
+      "titulo": "Acesse a área do plano",
+      "detalhe": "Entre em https://www.serasa.com.br/area-cliente/minha-conta/plano com CPF e senha."
+    },
+    {
+      "titulo": "Selecione o plano e clique em \"Cancelar assinatura\"",
+      "detalhe": "Escolha o Serasa Premium, clique em \"Cancelar assinatura\" e siga as orientações da tela até confirmar.",
+      "aviso": "O cancelamento é registrado na hora; confira se a mensagem de confirmação apareceu antes de sair da página."
+    },
+    {
+      "titulo": "Guarde a confirmação por e-mail",
+      "detalhe": "A Serasa envia a confirmação por e-mail e mantém os benefícios até o fim do período já pago."
+    },
+    {
+      "titulo": "Se assinou pela loja, cancele na loja",
+      "detalhe": "Google Play: play.google.com/store/account/subscriptions → \"Serasa Premium\" → \"Gerenciar\" → \"Cancelar assinatura\". App Store: Ajustes → seu nome → \"Assinaturas\" → \"Serasa Premium\" → \"Cancelar assinatura\".",
+      "aviso": "O reembolso do Google Play é pedido na própria loja em até 48 horas; na App Store a Apple analisa caso a caso. A Serasa não consegue cancelar por você."
+    }
+  ],
+  "aposCancelar": [
+    "Os benefícios continuam até o fim do período já pago.",
+    "Não há novas cobranças depois do cancelamento; no Pix Automático, cada cobrança corresponde ao período seguinte.",
+    "O reembolso integral pode ser solicitado em até 7 dias após a compra, conforme o CDC, e vale apenas para a contratação; planos renovados não têm estorno.",
+    "Assinantes podem usar o atendimento exclusivo no 0800 591 5161."
+  ],
+  "alternativas": [],
+  "fontes": [
+    {
+      "titulo": "Serasa — Como cancelar o Serasa Premium?",
+      "url": "https://www.serasa.com.br/ajuda/protecao-do-cpf/como-cancelar-o-serasa-premium"
+    },
+    {
+      "titulo": "Serasa — Tenho direito a estorno se meu plano Serasa Premium foi renovado?",
+      "url": "https://www.serasa.com.br/ajuda/protecao-do-cpf/tenho-direito-a-estorno-se-meu-plano-serasa-premium-foi-renovado"
+    },
+    {
+      "titulo": "Serasa Premium",
+      "url": "https://www.serasa.com.br/premium"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

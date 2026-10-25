@@ -1,0 +1,70 @@
+{
+  "slug": "o-globo",
+  "nome": "O Globo",
+  "categoria": "noticias",
+  "resumo": "Cancele a assinatura digital de O Globo pela Central de Atendimento, quite parcelas em aberto e evite a renovação automática.",
+  "siteUrl": "https://oglobo.globo.com",
+  "dificuldade": "dificil",
+  "canais": ["telefone", "chat", "site"],
+  "retencao": "O contrato de assinatura digital prevê renovação automática por períodos sucessivos até que o cliente peça o cancelamento. O cancelamento precisa ser solicitado à Central de Atendimento, por telefone, WhatsApp, Telegram ou chat; o Portal do Assinante divulga apenas atualização de dados de pagamento e 2ª via de boleto. Parcelas em aberto precisam ser quitadas antes do pedido, e brindes recebidos podem ser cobrados ou precisam ser devolvidos.",
+  "requisitos": [
+    "CPF e código de assinatura ou número do contrato",
+    "E-mail cadastrado",
+    "Acesso ao telefone, WhatsApp ou chat"
+  ],
+  "passos": [
+    {
+      "titulo": "Localize sua assinatura",
+      "detalhe": "Acesse o Portal do Assinante em editoraglobo.my.site.com/assinante/s/ e faça login para confirmar o código de assinatura ou o número do contrato."
+    },
+    {
+      "titulo": "Ligue para a Central de Atendimento",
+      "detalhe": "Ligue para (21) 4002-5300 (capitais e grandes cidades) ou 0800 021 8433 (demais localidades).",
+      "aviso": "Também há atendimento por WhatsApp e Telegram no número (21) 4002-5300. O Portal do Assinante não oferece botão de cancelamento."
+    },
+    {
+      "titulo": "Quite o que estiver em aberto",
+      "detalhe": "O contrato exige que parcelas em aberto sejam quitadas para que o cancelamento seja efetuado. Verifique boletos ou faturas pendentes antes de ligar.",
+      "aviso": "Se houver crédito a favor, o acesso digital continua liberado até o crédito acabar."
+    },
+    {
+      "titulo": "Peça o cancelamento e o protocolo",
+      "detalhe": "Solicite o cancelamento da assinatura digital e o número de protocolo. Confirme também o fim da renovação automática."
+    },
+    {
+      "titulo": "Confirme por escrito",
+      "detalhe": "Peça a confirmação por e-mail e guarde o protocolo com data e horário."
+    }
+  ],
+  "aposCancelar": [
+    "A renovação automática é interrompida; o contrato prevê acesso digital até o fim do crédito a favor, quando houver.",
+    "Se continuar com acesso após o cancelamento, o próprio contrato recomenda contatar a Editora Globo, pois pode ter havido falha no processamento.",
+    "Brindes de campanhas podem ser cobrados ou precisam ser devolvidos nas mesmas condições da entrega.",
+    "Guarde o protocolo e confira a próxima cobrança no cartão."
+  ],
+  "alternativas": [
+    {
+      "nome": "Plano Globo Light",
+      "motivo": "O contrato lista o Globo Light como plano mais enxuto, com acesso ao site do jornal, sem Acervo, app e Clube O Globo."
+    },
+    {
+      "nome": "Suspensão temporária da entrega",
+      "motivo": "Assinantes do jornal impresso podem programar transferência temporária da entrega pelo Portal do Assinante."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "O Globo — Contrato de assinatura digital (cláusulas 2.5, 3.1, 4.1 e 5.1.1)",
+      "url": "https://editoraglobo.my.site.com/assinante/resource/1614018870000/PDA_MinhaAssinatura_PDF/ContratoDigitalAssinante.pdf"
+    },
+    {
+      "titulo": "O Globo — Meu O Globo (atendimento e Portal do Assinante)",
+      "url": "https://oglobo.globo.com/meu-o-globo"
+    },
+    {
+      "titulo": "O Globo — Jornal Digital (telefones de atendimento)",
+      "url": "https://jornaldigital.oglobo.globo.com/"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

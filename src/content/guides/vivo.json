@@ -1,0 +1,72 @@
+{
+  "slug": "vivo",
+  "nome": "Vivo Móvel",
+  "categoria": "telefonia",
+  "resumo": "Cancele a linha Vivo pelo Meu Vivo, em Meu plano > Cancelamento, ou pelos telefones *8486 e 103 15, atento à fidelidade.",
+  "siteUrl": "https://www.vivo.com.br",
+  "dificuldade": "media",
+  "canais": ["site", "app", "telefone"],
+  "retencao": "A Vivo oferece o desligamento temporário (30 a 120 dias sem cobrança) como alternativa ao cancelamento; depois de 120 dias a linha é religada automaticamente e a cobrança recomeça. Alguns planos Controle têm permanência mínima de 12 meses, com multa proporcional aos meses restantes, e a fidelidade por aparelho é adicional e independente da do plano.",
+  "requisitos": [
+    "CPF do titular e senha do Meu Vivo",
+    "Número da linha ou código do cliente (para linha fixa)",
+    "Acesso ao site ou ao app Meu Vivo"
+  ],
+  "passos": [
+    {
+      "titulo": "Confira a fidelidade",
+      "detalhe": "No Meu Vivo, abra \"Meu plano\" e confira as condições do plano antes de pedir o cancelamento.",
+      "aviso": "Alguns planos Controle têm permanência mínima de 12 meses. A compra de aparelho com desconto cria uma fidelidade separada, também de 12 meses."
+    },
+    {
+      "titulo": "Cancele pelo Meu Vivo",
+      "detalhe": "Acesse o site do Meu Vivo ou o app, faça login, clique em \"Meu plano\" e depois em \"Cancelamento\". Selecione o serviço que deseja cancelar.",
+      "aviso": "O caminho é indicado pela Vivo para planos Controle e Pós. Se a opção não aparecer, o cancelamento deve ser concluído pela central."
+    },
+    {
+      "titulo": "Ligue se preferir",
+      "detalhe": "Do seu celular Vivo, ligue para *8486. De qualquer telefone, use 103 15, a Central de Relacionamento Vivo Fixo e Móvel. Para linhas Multivivo ou dependentes, a Vivo indica o 1058. Escolha a opção de cancelar serviços.",
+      "aviso": "O *8486 é exclusivo para cliente Vivo com serviço móvel. O 1058 atende linhas Multivivo e dependentes."
+    },
+    {
+      "titulo": "Recuse o desligamento e as ofertas",
+      "detalhe": "Deixe claro que quer o cancelamento definitivo, não o desligamento temporário nem a troca de plano. Anote o protocolo ao final.",
+      "aviso": "O desligamento parece cancelamento, mas a linha volta sozinha após 120 dias e a cobrança é retomada."
+    },
+    {
+      "titulo": "Guarde a confirmação",
+      "detalhe": "Confirme o protocolo e verifique se o pedido aparece como cancelado no Meu Vivo."
+    }
+  ],
+  "aposCancelar": [
+    "O cancelamento encerra o serviço; o desligamento é temporário e a linha é religada após 120 dias, com retomada da cobrança.",
+    "Há multa proporcional aos meses restantes quando o cancelamento ocorre dentro da fidelidade.",
+    "Guarde o protocolo e confira a última fatura.",
+    "Se a cobrança continuar, procure a Ouvidoria da Vivo (0800 775 1212) e, depois, a Anatel pelo 1331."
+  ],
+  "alternativas": [
+    {
+      "nome": "Desligamento temporário",
+      "motivo": "A Vivo permite suspender a linha uma vez a cada 12 meses, por 30 a 120 dias, sem cobrança — útil para viagens, mas a linha volta automaticamente."
+    },
+    {
+      "nome": "Mudar de plano",
+      "motivo": "Trocar para um plano mais barato pode reduzir a conta, mas a troca dentro da fidelidade também pode gerar multa."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Vivo — Dúvidas e respostas sobre Cancelamento",
+      "url": "https://www.vivo.com.br/para-voce/ajuda/duvidas/cancelamento"
+    },
+    {
+      "titulo": "Vivo — Dúvidas sobre os planos Vivo Controle (permanência de 12 meses)",
+      "url": "https://www.vivo.com.br/para-voce/ajuda/duvidas/celular/vivo-controle"
+    },
+    {
+      "titulo": "Vivo — Telefones de atendimento",
+      "url": "https://www.vivo.com.br/para-voce/ajuda/mais-ajuda/telefones-de-atendimento"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

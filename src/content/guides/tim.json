@@ -1,0 +1,71 @@
+{
+  "slug": "tim",
+  "nome": "TIM",
+  "categoria": "telefonia",
+  "resumo": "Cancele a linha TIM pelo app Meu TIM ou pelo site, ou ainda por *144, 1056, SMS, WhatsApp e loja. Veja prazos e multa.",
+  "siteUrl": "https://www.tim.com.br",
+  "dificuldade": "media",
+  "canais": ["app", "site", "telefone", "chat", "presencial"],
+  "retencao": "A TIM afirma que o cancelamento é irreversível e destaca que, para apenas trocar de plano, não é necessário cancelar a linha. Em planos com fidelidade (Controle com benefícios e Pós) há multa proporcional ao tempo restante do contrato. O cancelamento feito com atendente é imediato, mas o sistema leva até 24 horas para concluir.",
+  "requisitos": [
+    "CPF do titular",
+    "Código do cliente (necessário no cancelamento por SMS)",
+    "Senha do Meu TIM para o app e o site"
+  ],
+  "passos": [
+    {
+      "titulo": "Separe CPF e código do cliente",
+      "detalhe": "O CPF identifica o titular e o código do cliente é exigido no cancelamento por SMS. Se não souber o código, use o app, o site ou a central de atendimento para cancelar."
+    },
+    {
+      "titulo": "Cancele pelo app Meu TIM",
+      "detalhe": "Abra o app, entre em \"Atendimento\" e escolha \"Cancelamento de linha\". Siga as instruções e confirme."
+    },
+    {
+      "titulo": "Ou use o site Meu TIM",
+      "detalhe": "Acesse meutim.tim.com.br, faça login, clique em \"Serviços\" e depois em \"Cancelamento de linha\".",
+      "aviso": "O cancelamento digital leva até 2 dias úteis para ser processado. Nesse prazo ainda há cobrança pelo consumo."
+    },
+    {
+      "titulo": "Canais alternativos",
+      "detalhe": "Ligue para *144 de um celular TIM ou 1056 de qualquer telefone. Também é possível enviar SMS com a palavra CANCELAMENTO, o CPF e o código do cliente para 4199, ou falar pelo WhatsApp (41) 4141-4141. Há atendimento em loja TIM.",
+      "aviso": "Pelo *144 a TIM envia o protocolo por SMS com data e hora. Guarde essa mensagem."
+    },
+    {
+      "titulo": "Confirme o protocolo e o prazo",
+      "detalhe": "Anote o protocolo. Com atendente, o cancelamento tem efeito imediato; sem atendente, em até 2 dias úteis. A conclusão no sistema pode levar até 24 horas."
+    }
+  ],
+  "aposCancelar": [
+    "A TIM informa que o cancelamento é irreversível. Feito com atendente, não é possível desistir.",
+    "Cancelamentos digitais podem ser revertidos em até 2 dias úteis, por chat ou pelo *144.",
+    "O acesso ao Meu TIM continua ativo por um período, permitindo consultar faturas antigas.",
+    "A última fatura pode ser consultada e paga no Portal TIM Negocia (timnegocia.com.br).",
+    "Se a linha não for cancelada no prazo, procure a Anatel pelo 1331 com o protocolo da TIM."
+  ],
+  "alternativas": [
+    {
+      "nome": "Suspensão temporária",
+      "motivo": "A TIM permite suspender a linha em casos de viagem, perda ou roubo, mantendo o número em vez de cancelar."
+    },
+    {
+      "nome": "Mudar de plano mantendo o número",
+      "motivo": "A TIM permite trocar de plano no app Meu TIM, marcando a opção de manter o número atual."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "TIM — Perguntas frequentes sobre cancelamento de linha",
+      "url": "https://www.tim.com.br/ajuda/perguntas-frequentes/conta-e-pagamento/cancelamento-de-linha"
+    },
+    {
+      "titulo": "TIM — Atendimento: cancelamento de linha",
+      "url": "https://www.tim.com.br/sobre-a-tim/regulatorio/novas-regras-de-atendimento/cancelamento"
+    },
+    {
+      "titulo": "TIM — Fale conosco e SAC",
+      "url": "https://www.tim.com.br/para-voce/atendimento/fale-conosco"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

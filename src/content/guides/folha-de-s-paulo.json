@@ -1,0 +1,70 @@
+{
+  "slug": "folha-de-s-paulo",
+  "nome": "Folha de S.Paulo",
+  "categoria": "noticias",
+  "resumo": "Cancele a assinatura da Folha pelo telefone ou pelo Atendimento Online, em horário comercial limitado, sem multa de cancelamento.",
+  "siteUrl": "https://www.folha.com.br",
+  "dificuldade": "dificil",
+  "canais": ["telefone", "chat", "site"],
+  "retencao": "O FAQ oficial da Folha não descreve um botão de autocancelamento: o pedido é direcionado ao Serviço de Atendimento ao Assinante por telefone ou ao atendimento online, ambos de segunda a sábado, das 8h às 14h, exceto feriados. O 0800 775 8080 atende somente ligações de telefone fixo, então quem liga do celular precisa usar o número de São Paulo. A oferta comercial usa preço promocional no primeiro mês, com mensalidade maior depois. A Folha declara que não cobra multa pelo cancelamento.",
+  "requisitos": [
+    "CPF ou e-mail usado na assinatura e senha de assinante",
+    "Acesso ao telefone ou ao atendimento online no horário 8h-14h",
+    "Telefone fixo, caso use o 0800"
+  ],
+  "passos": [
+    {
+      "titulo": "Separe os dados da assinatura",
+      "detalhe": "Tenha em mãos o CPF ou e-mail cadastrado e a senha da conta. O atendimento online exige login de assinante."
+    },
+    {
+      "titulo": "Ligue para o Serviço de Atendimento ao Assinante",
+      "detalhe": "Ligue para (11) 3224-3090 (Grande São Paulo) ou 0800 775 8080 (demais localidades, somente telefone fixo), de segunda a sábado, exceto feriados, das 8h às 14h.",
+      "aviso": "O 0800 775 8080 não aceita chamadas de celular. Quem liga do celular precisa usar (11) 3224-3090, com custo de interurbano."
+    },
+    {
+      "titulo": "Ou use o Atendimento Online",
+      "detalhe": "Acesse atendimento.folha.com.br/chat, faça login como assinante e peça o cancelamento no atendimento online, no mesmo horário de 8h às 14h.",
+      "aviso": "O FAQ fala em cancelar \"online no site\", mas não detalha um caminho de autocancelamento. Se o chat não oferecer a opção, insista com o atendente ou conclua por telefone."
+    },
+    {
+      "titulo": "Peça o protocolo",
+      "detalhe": "Solicite o número de protocolo e a confirmação do cancelamento por e-mail. Anote data e horário do pedido."
+    },
+    {
+      "titulo": "Confira a cobrança seguinte",
+      "detalhe": "Verifique a próxima fatura do cartão ou do débito em conta para garantir que a mensalidade não foi cobrada."
+    }
+  ],
+  "aposCancelar": [
+    "A Folha informa que não cobra multa pelo cancelamento da assinatura.",
+    "O cancelamento interrompe a renovação; confirme a data final do acesso no atendimento.",
+    "Guarde o protocolo e o e-mail de confirmação.",
+    "Se a cobrança continuar, registre reclamação no Consumidor.gov.br e guarde o protocolo do atendimento."
+  ],
+  "alternativas": [
+    {
+      "nome": "Suspensão temporária da entrega",
+      "motivo": "Assinantes do impresso podem suspender a entrega por 3 a 90 dias, sem custo, com prorrogação do vencimento."
+    },
+    {
+      "nome": "Trocar de plano",
+      "motivo": "A Folha oferece planos digitais e impressos com preços diferentes; mudar de plano pode ser mais barato que manter o atual."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Folha — Dúvidas frequentes (Informações sobre Cancelamento)",
+      "url": "https://atendimento.folha.com.br/duvidas-frequentes"
+    },
+    {
+      "titulo": "Folha — Atendimento Online ao assinante",
+      "url": "https://atendimento.folha.com.br/chat"
+    },
+    {
+      "titulo": "Folha — Assine Folha de S.Paulo",
+      "url": "https://assinaturas.folha.com.br/"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

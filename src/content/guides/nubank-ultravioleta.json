@@ -1,0 +1,74 @@
+{
+  "slug": "nubank-ultravioleta",
+  "nome": "Nubank Ultravioleta",
+  "categoria": "financeiro",
+  "resumo": "Cancele o Nubank Ultravioleta pelo chat ou telefone, resgate o cashback antes e entenda a cobrança proporcional.",
+  "siteUrl": "https://nubank.com.br/ultravioleta",
+  "dificuldade": "media",
+  "canais": ["app", "chat", "telefone"],
+  "retencao": "A FAQ oficial não descreve autocancelamento: o pedido é feito pelo chat ou por telefone. A central permite trocar o Ultravioleta por um cartão Gold ou Platinum, o que encerra os benefícios Ultravioleta e Mastercard Black sem encerrar o cartão de crédito. Para encerrar de vez é preciso pedir o cancelamento definitivo. O cashback e os pontos não podem ser resgatados depois do cancelamento.",
+  "requisitos": [
+    "Aplicativo Nubank atualizado e acesso à conta",
+    "CPF e senha de 4 dígitos",
+    "Cashback e pontos resgatados antes do pedido"
+  ],
+  "passos": [
+    {
+      "titulo": "Resgate o cashback e os pontos",
+      "detalhe": "No app, abra a área \"Pontos & Cashback\" e resgate o saldo para a conta, para a fatura ou para um parceiro antes de pedir o cancelamento.",
+      "aviso": "Os termos dizem que, depois do cancelamento do cartão Mastercard Black Ultravioleta, não é mais possível converter o cashback nem transferir para programas de recompensa, mesmo se o cartão for reativado."
+    },
+    {
+      "titulo": "Abra o chat no app e peça o cancelamento definitivo",
+      "detalhe": "O chat do Nubank funciona 24h. Peça o \"cancelamento definitivo do Nubank Ultravioleta\" e diga que não quer o downgrade para Gold ou Platinum.",
+      "aviso": "A troca de categoria é feita na hora. Se você aceitar, o Ultravioleta e os benefícios Mastercard Black acabam, mas o cartão de crédito continua ativo."
+    },
+    {
+      "titulo": "Ou ligue para a central",
+      "detalhe": "Ligue para 4020 0185 (capitais e regiões metropolitanas) ou 0800 591 2117 (demais localidades) e peça o cancelamento definitivo.",
+      "aviso": "São os mesmos números do atendimento geral; tenha CPF e senha em mãos e anote o protocolo."
+    },
+    {
+      "titulo": "Confirme o que será cancelado",
+      "detalhe": "O cancelamento do Ultravioleta encerra todos os produtos do pacote, inclusive o cartão Mastercard Black e os benefícios Mastercard.",
+      "aviso": "Se o objetivo for encerrar a conta ou o cartão de crédito por completo, diga isso explicitamente; o pedido de cancelamento do Ultravioleta não é a mesma coisa."
+    },
+    {
+      "titulo": "Confira a fatura seguinte",
+      "detalhe": "O contrato prevê a cobrança do valor proporcional da mensalidade usada na próxima fatura.",
+      "aviso": "A mensalidade é R$ 89 e só é zerada com gastos acima de R$ 8 mil no cartão ou R$ 50 mil guardados/investidos no Nubank; confira o valor proporcional antes de pagar."
+    }
+  ],
+  "aposCancelar": [
+    "Todos os produtos do Nubank Ultravioleta são cancelados (termos, item 3.5).",
+    "A próxima fatura traz o valor proporcional da mensalidade utilizada, se aplicável.",
+    "Os benefícios Mastercard Black deixam de valer com o cancelamento do cartão.",
+    "O cashback não resgatado antes do cancelamento não pode mais ser convertido nem transferido.",
+    "Guarde a confirmação e o protocolo do atendimento."
+  ],
+  "alternativas": [
+    {
+      "nome": "Fazer downgrade para Gold ou Platinum",
+      "motivo": "A central troca o Ultravioleta por um cartão Gold ou Platinum na hora, sem cancelar o cartão de crédito, mas os benefícios Ultravioleta e Mastercard Black deixam de valer."
+    }
+  ],
+  "fontes": [
+    {
+      "titulo": "Nubank — Termos e Condições Ultravioleta",
+      "url": "https://nubank.com.br/contratos/termos-e-condicoes-nubank-ultravioleta"
+    },
+    {
+      "titulo": "Nubank — Perguntas frequentes (cancelamento do cartão Ultravioleta)",
+      "url": "https://nubank.com.br/perguntas"
+    },
+    {
+      "titulo": "Nubank Ultravioleta — mensalidade e isenção",
+      "url": "https://nubank.com.br/ultravioleta"
+    },
+    {
+      "titulo": "Nubank — Todos os canais de atendimento",
+      "url": "https://nubank.com.br/contatos"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}

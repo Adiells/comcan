@@ -1,0 +1,64 @@
+{
+  "slug": "estadao",
+  "nome": "Estadão",
+  "categoria": "noticias",
+  "resumo": "Cancele a assinatura do Estadão pelo formulário do Portal do Assinante ou pela central e veja a devolução proporcional.",
+  "siteUrl": "https://www.estadao.com.br",
+  "dificuldade": "dificil",
+  "canais": ["site", "telefone"],
+  "retencao": "Não existe botão de autocancelamento: o contrato prevê apenas o formulário do Portal do Assinante ou os telefones da central. A página Fale Conosco avisa que o tempo médio de resposta é de até 3 dias úteis. As páginas oficiais divergem sobre o horário de atendimento, e o 0800 só aceita ligação de telefone fixo.",
+  "requisitos": [
+    "CPF e dados cadastrais do titular da assinatura",
+    "Login do Portal do Assinante (meu.estadao.com.br), se for usar o formulário",
+    "E-mail cadastrado na assinatura",
+    "Telefone fixo, caso opte pelo 0800-014-7720"
+  ],
+  "passos": [
+    {
+      "titulo": "Reúna os dados da assinatura",
+      "detalhe": "Tenha em mãos CPF do titular, e-mail cadastrado e, se possível, o número do pedido ou da assinatura, para agilizar a localização do cadastro.",
+      "aviso": "Se houver mais de um plano ou produto vinculado ao mesmo CPF, confirme na central qual será encerrado antes de pedir o cancelamento."
+    },
+    {
+      "titulo": "Cancele pelo formulário do Portal do Assinante",
+      "detalhe": "Acesse https://meu.estadao.com.br/assinante/formulario-contato (endereço indicado na cláusula 4.4 do contrato), entre na sua conta e registre o pedido de cancelamento por escrito.",
+      "aviso": "É o formulário do Portal do Assinante, não um botão de cancelamento imediato. O Fale Conosco informa tempo médio de resposta de até 3 dias úteis; guarde o protocolo ou o número do atendimento."
+    },
+    {
+      "titulo": "Ou ligue para a Central de Atendimento",
+      "detalhe": "Ligue para 4003-5323 (capitais e regiões metropolitanas) ou 0800-014-7720 (demais localidades, somente telefone fixo) e peça o cancelamento da assinatura.",
+      "aviso": "O rodapé do portal informa seg–sex 6h30–18h e sáb/dom/feriados 6h30–13h; o contrato informa seg–sex 6h30–20h e sáb/dom/feriados 6h30–14h. Ligue entre 6h30 e 13h para não pegar a central fechada."
+    },
+    {
+      "titulo": "Peça o protocolo e a devolução proporcional",
+      "detalhe": "Diga que quer cancelar a assinatura, não pausar nem trocar de plano. Peça o número de protocolo, a confirmação por e-mail e o cálculo da devolução, se você pagou à vista ou tem plano por prazo indeterminado.",
+      "aviso": "O contrato prevê devolução proporcional apenas nas hipóteses das cláusulas 4.4.1 e 4.4.2; confirme o valor e a data do crédito."
+    },
+    {
+      "titulo": "Confirme o encerramento e acompanhe a cobrança",
+      "detalhe": "Guarde o e-mail de confirmação e confira a próxima fatura do cartão ou o próximo boleto.",
+      "aviso": "Se a cobrança continuar, use o protocolo para abrir reclamação na central e, se necessário, registre reclamação no consumidor.gov.br."
+    }
+  ],
+  "aposCancelar": [
+    "O contrato prevê cancelamento a qualquer tempo, com devolução proporcional do valor pago à vista ou de plano por prazo indeterminado (cláusulas 4.4.1 e 4.4.2).",
+    "Guarde o protocolo e a confirmação por e-mail; eles são a prova do pedido se a cobrança continuar.",
+    "Se a cobrança persistir, acione a central com o protocolo e registre reclamação no consumidor.gov.br."
+  ],
+  "alternativas": [],
+  "fontes": [
+    {
+      "titulo": "Estadão — Condições Gerais de Contratação de Assinaturas (cláusula 4.4)",
+      "url": "https://assine.estadao.com.br/pdf/contratos/Condicoes-Gerais-de-Contratacao-de-Assinaturas-Estadao.pdf"
+    },
+    {
+      "titulo": "Estadão — Fale Conosco (canais e horários)",
+      "url": "https://meu.estadao.com.br/fale-conosco"
+    },
+    {
+      "titulo": "Estadão — Portal do Assinante (formulário de contato)",
+      "url": "https://meu.estadao.com.br/assinante/formulario-contato"
+    }
+  ],
+  "verificadoEm": "2026-10-25"
+}
